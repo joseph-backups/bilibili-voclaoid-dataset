@@ -1,0 +1,26 @@
+avid = 97839725
+bvid = "BV1ME411A7Sh"
+title = "【洛天依原创曲】送你一杯热咖啡"
+category = "VOCALOID·UTAU"
+create-time = 1584769205
+publish-time = 1584769205
+desc-base64 = "5aSp5L6d77ya5qyi6L+O5YWJ5Li077yM5LuK5aSp5Y+I5piv5pma5LiL54+t55qE5LiA5aSp5ZGifgrlrqLkurrvvJrmmK/llYrvvIzlj4jmmK/lv5nnooznmoTkuIDlpKnvvIzmnaXkuIDmna/opJDoibLlv6fkvKTvvIzosKLosKJ+CuKApuKApgrlpKnkvp3vvJrmnaXkuobvvIzlsI/lv4Png6vjgILpg73ogIHmnIvlj4vkuobvvIzku4rlpKnov5nmna/pgIHkvaDnmoR+CuWuouS6uu+8muWViu+8jOmCo+aAjuS5iOWlveaEj+aAneKApuWSpu+8jOS7iuWkqeeahOavlOS7peW+gOeahOeUnOWkmuS6hu+8jOS9oOWKoOWkmuezluS6huWQl++8nwrlpKnkvp3vvJrlubbmsqHmnInlmaJ+figqXuKWvV4qKQrigJTigJTigJTigJTigJTigJTigJTigJQK44CQ5Yib5L2c77ya6YKj5pe255ub5aSP44CRCuOAkOabsue7mO+8mlZW44CBU0FNQeOAkQrov5nph4zmmK/kuIDkuKrng63niLFW5a6244CB5a2m6L+H5bCR5bCR5LmQ55CG5ZKM6LCD5qCh55qE6ICB5ZK46bG855qE5oqV56i/IH4K5aaC5p6c5rKh5Zue5aSN6K+E6K6655qE6K+d77yM6K+36KeB6LCF77yM5Y+v6IO95Zug5Li65oeS5ZKM6L+Z5Liq5Y+35LiN5oCO5LmI5rS76LeD77yI5bCP5aOw77yJIH4K44CQ6LCi6LCi5aSn5a626KeC5ZCs44CR"
+[[parts]]
+cid = 167020654
+name = "2020.03.20送你一杯热咖啡PV最终版"
+length = 192
+resolution = "1920x1080"
+
+[upper]
+uid = 512368765
+name = "那时盛夏"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110895.706395
+plays = 5682
+danmakus = 55
+likes = 1049
+favorites = 795
+coins = 509
+comments = 204

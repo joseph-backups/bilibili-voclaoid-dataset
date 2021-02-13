@@ -1,0 +1,26 @@
+avid = 42293064
+bvid = "BV1Jb411k7Ux"
+title = "【洛天依原创曲】胃中的宇宙【Adaa】"
+category = "VOCALOID·UTAU"
+create-time = 1548977399
+publish-time = 1548982838
+desc-base64 = "MjAxOeW5tOesrOS4gOmmluWOn+WIm+absuaKleeov++8gS8v6Jm954S26K6h5YiS5pivMjAxOOW5tOacgOWQjuS4gOmmluabsuWtkOeahOivtH4K5Zug5Li65LiK5qyh6KKr5ZCQ5qe96byT54K56L+H5LqO4oCc6ICz54af6IO96K+m4oCd5LqG77yM5omA5Lul6L+Z5qyh5o2i5LqG5LiN5LiA5qC355qE6IqC5aWP77yMMy806LWw6LW377yM6ICM5LiU5piv6K+05aW955qE5oWi5q2M5ZOmfgrkuLvpopjmmK/lv6fpg4HlvJXotbfnmoTmmrTppa7mmrTpo5/vvIzor5Xlm77nlKjpo5/niannmoTop4bop5Lmj4/lhpnooqvlkJ7kuIvljrvlkI7nnIvliLDnmoTkuJbnlYzigJTigJTog4PkuK3nmoTlroflrpnvvIzkuI3lhYnmmK/nlJzpo5/vvIzov57miYDmnInnmoTlv6fpg4Hpg73og73murbop6PmtojljJblkaJ+Cui/measoeeJueWIq+WkhOeQhuS6huW3puWPs+WjsOmBk++8jOW7uuiuruW4puS4iuiAs+acuuWTgeWwnX4K5ZOm77yM6L+Y5pyJ77yM6Ze05aWP6YeM55qE5a2X5bmV5piv5LqM566A5a2X77yM5LiN5piv6JGs54ix54Gr5pif5paH5ZOmaGhoaGh+CgpCVFfvvIzlkJDmp73kuIvnvZHmmJPkupF+5LiN55+l6YGT5Li65LuA5LmI5Lyg5Zyo5LiK6Z2i55qE5puy5a2Q6Ieq5Yqo5Y+Y5oiQ5LiL6L295pS26LS55LqG77yI5aOw5piO5LiN5piv5oiR5oOz55uI5Yip5ZWK5ZWK5ZWK77yM5oiR6Ieq5bex6YO95LiL6L295LiN5LqG5LqGd3fvvInvvJvlpoLmnpzmnInpnIDopoHlhY3otLnmnKzlnLBtcDPnmoTor53miJHlho3kvKDnvZHnm5jlpb3kuobigKbigKY="
+[[parts]]
+cid = 74233383
+name = "PVPVPV"
+length = 228
+resolution = "1920x1080"
+
+[upper]
+uid = 1832676
+name = "Adaa君"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110864.993345
+plays = 2785
+danmakus = 15
+likes = 391
+favorites = 371
+coins = 145
+comments = 128

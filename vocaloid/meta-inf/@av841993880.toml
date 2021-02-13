@@ -1,0 +1,36 @@
+avid = 841993880
+bvid = "BV1E54y1v7ue"
+title = "【初音ミク】 涙そうそう（cover 夏川りみ）【初音未来13周年】"
+category = "VOCALOID·UTAU"
+create-time = 1598807170
+publish-time = 1598833850
+desc-base64 = "bHlyaWNpc3TvvJrmo67lsbHoia/lrZAKY29tcG9zZXLvvJpCRUdJTgphcnJhbmdlcu+8muS6rOeUsOivmuS4gApvcmlnaW5hbCBzaW5nZXLvvJrlpI/lt53ph4znvo4KCmNvdmVyIHNpbmdlcu+8muWInemfs+acquadpQp0dW5lcu+8mue6s+WFsOWvu+mjjgppbGx1c3RyYXRvcu+8mue6pemqqOW9k+W9kgoKZW1tbeS4jeefpemBk+ivtOWVpe+8jOWwseelneWInemfs+awlDEz5bKB55Sf5pel5b+r5LmQ5ZCnfg=="
+[[parts]]
+cid = 230690627
+name = "【初音ミク翻唱】 涙そうそう（cover 夏川りみ）"
+length = 261
+resolution = "1920x1080"
+
+[[staff]]
+uid = 893950
+title = "UP主"
+name = "纳兰寻风"
+
+[[staff]]
+uid = 26202150
+title = "曲绘"
+name = "Axs_"
+
+[upper]
+uid = 893950
+name = "纳兰寻风"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110889.218473
+plays = 10782
+danmakus = 62
+likes = 2421
+favorites = 931
+coins = 490
+comments = 250

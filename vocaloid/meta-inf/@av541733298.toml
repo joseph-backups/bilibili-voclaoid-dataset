@@ -1,0 +1,26 @@
+avid = 541733298
+bvid = "BV1pi4y1g71f"
+title = "【洛天依原创】残差网络ResNet——天依的深度学习教室【原创PV付】"
+category = "VOCALOID·UTAU"
+create-time = 1597467755
+publish-time = 1597467755
+desc-base64 = "6K+N5puy5re357yW6LCDUFbvvJrnvorpqbzniLjmr5QK5puy57uY77ya6Zuq6I23Cgrmt7HluqbmqKHlnovlp5Dlp5DpgYfliLDpurvng6bkuobvvIzlpoLmnpzmiY3og73kuI3ooqvmoq/luqbmtojlpLHlm7DmibDlkaLvvJ8K5q6L5beu572R57uc5Y+K5pe255qE5Ye6546w77yM6K6p5rex5bqm5qih5Z6L5Y+I54SV5Y+R5Ye65LqG5paw55qE5pil5aSp77yBCgrmrovlt67nvZHnu5woUmVzTmV0KeaYr+S4gOenjemAmui/h+a3u+WKoOi3s+Wxguino+WGs+a3seW6pue9kee7nOS8mOWMluaAp+iDveeahOe7k+aehOOAggrov5nmmK9VcOS4u+esrOS4gOS4quS4k+S4muebuOWFs+S9nOWTgeeahOaKleeov++8jOe8luabsueBteaEn+iHqui9u+mfs+WwkeWls+eahE9Q44CCCgrlj4LogIPmlofnjK7vvJoKSGUsIEthaW1pbmcsIGV0IGFsLiAiRGVlcCByZXNpZHVhbCBsZWFybmluZyBmb3IgaW1hZ2UgcmVjb2duaXRpb24uIsKgUHJvY2VlZGluZ3Mgb2YgdGhlIElFRUUgY29uZmVyZW5jZSBvbiBjb21wdXRlciB2aXNpb24gYW5kIHBhdHRlcm4gcmVjb2duaXRpb24uIDIwMTYu"
+[[parts]]
+cid = 224603318
+name = "残差网络"
+length = 209
+resolution = "1280x720"
+
+[upper]
+uid = 20334164
+name = "羊驼爸比"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110869.9154618
+plays = 1418
+danmakus = 10
+likes = 319
+favorites = 225
+coins = 85
+comments = 62

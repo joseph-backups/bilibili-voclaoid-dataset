@@ -1,0 +1,51 @@
+avid = 53397667
+bvid = "BV1W4411L7Nv"
+title = "【洛天依原创】世界第一可爱【PV付】"
+category = "VOCALOID·UTAU"
+create-time = 1558665361
+publish-time = 1558670445
+desc-base64 = "5LiA5bm05LiA5bqm55qE55Sf5pel5puyCui/measoeWbnuWIsOS6huWPr+eIseeahOmjjuagvArmr4/kuKrllpzmrKLmiJHnmoTkurrpg73mmK/kuJbnlYznrKzkuIDlj6/niLHlk6bvvIEK6L+Z5qyh5L2c5puy57yW5puy5b6I55So5b+D77yM5LiN55+l6YGT5L2g5Lus6IO95LiN6IO95ZCs5Ye65p2l5ZGiCuiwouiwonN0YWZm55qE5ZCE5L2N77yM55uQ55uQ77yM6LGG5rKZ77yM5peg5b2i5ZKM6Zi/5qKT77yM6L+Y5pyJ5p2O6ICB5biI77yBCuaIkeWWnOasoua0m+WkqeS+ne+8jOW+t+S4veiOju+8jOi/mOacieS9oOS7rOWkp+WutgoK6K+N5puy57yW5re377ya57qv55m9UArmm7Lnu5jvvJrnm5AK5Yqo55S777ya57O76LGG5rKZCuiwg+aVme+8muaXoOW9ogrlkInku5bvvJpsaXR0ZXJ6eQ=="
+[[parts]]
+cid = 93418022
+name = "世界第一可爱"
+length = 226
+resolution = "1920x1080"
+
+[[staff]]
+uid = 123372
+title = "UP主"
+name = "純白"
+
+[[staff]]
+uid = 10721059
+title = "曲绘"
+name = "薬屋"
+
+[[staff]]
+uid = 43855
+title = "演奏"
+name = "litterzy"
+
+[[staff]]
+uid = 458803
+title = "视频制作"
+name = "油爆系豆沙"
+
+[[staff]]
+uid = 401168
+title = "调校"
+name = "无形歌无形"
+
+[upper]
+uid = 123372
+name = "純白"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110868.6072023
+plays = 161614
+danmakus = 1381
+likes = 14830
+favorites = 14017
+coins = 10391
+comments = 1559

@@ -1,0 +1,26 @@
+avid = 24078866
+bvid = "BV1Mp411d7Ay"
+title = "【洛天依日文翻唱】Lemon【动点p】"
+category = "VOCALOID·UTAU"
+create-time = 1527522702
+publish-time = 1527522702
+desc-base64 = "5Y6f5puy77ya57Gz5rSl546E5birDQrpkqLnkLTvvJpMdW5hIFNhZmFyaQ0K57uY77yaQXJ1bWFvDQrmt7fpn7PvvJrkurrlvaLlhY4NCuiwg+aVme+8muWKqOeCuXANCuWUse+8mua0m+WkqeS+nS9GdWthc2UNCueqge+8ge+8ge+8ge+8geeEtuaKleeov++8ge+8ge+8ge+8ge+8gQ0K5aSp5L6d55yf5Y+v54ix77yB77yB77yB77yB77yB77yBDQpGdWthc2XkuZ/lj6/niLHvvIHvvIHvvIHvvIHvvIHvvIHvvIHvvIENCuaEn+iwomx1bmHlpKfmmZrkuIrluK7miJHmipjohb7kvLTlpY8NCuaEn+iwouavm+avm+eahOWbvuaOiOadgw0K5oSf6LCi5YWU54m654my5LuW6Zmq5a+56LGh55qE5pe26Ze057uZ5oiR5re36Z+z77yIDQrlpb3mg7nvvIHkuI3or7Tlup/or53vvIHor7flkKzvvIHvvIHvvIE="
+[[parts]]
+cid = 40335374
+name = "baidi"
+length = 166
+resolution = "1920x1080"
+
+[upper]
+uid = 12481783
+name = "动次打次的动点p"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110852.0327501
+plays = 409645
+danmakus = 2305
+likes = 17040
+favorites = 29051
+coins = 23054
+comments = 2265

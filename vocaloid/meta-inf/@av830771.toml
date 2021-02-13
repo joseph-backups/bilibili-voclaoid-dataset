@@ -1,0 +1,26 @@
+avid = 830771
+bvid = "BV1is411o7Hv"
+title = "【洛天依原创】寻遍星空ヽ(･∀･)ﾉ 重调-音质提高ver"
+category = "VOCALOID·UTAU"
+create-time = 1497426830
+publish-time = 1384088686
+desc-base64 = "6Ieq5Yi2IOaKiui/memmluatjOmHjeaWsOiwg+aVmeS6huS4gOmBjT13PeS5i+WJjeeahOaTjeS9nOWkseivr+WIoOaOieS6hlRBVOmHjeS8oCDmsYLnp6/liIbmiJHopoHmlLnmjonov5nmjKjmu7Qo4pWv4oC14pah4oCyKeKVr++4teKUu+KUgeKUuyBQVuS+neaXp+aDqOS4jeW/jeeduXd3d3c="
+[[parts]]
+cid = 1206920
+name = ""
+length = 244
+resolution = "512x288"
+
+[upper]
+uid = 2374053
+name = "公兔"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110888.7811947
+plays = 9291
+danmakus = 188
+likes = 188
+favorites = 294
+coins = 142
+comments = 144

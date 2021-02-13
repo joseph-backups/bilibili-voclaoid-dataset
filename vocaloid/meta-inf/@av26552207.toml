@@ -1,0 +1,26 @@
+avid = 26552207
+bvid = "BV1Ds411n7yE"
+title = "【言和原创】握手言和【烂兔子p】【2018言和庆生会】"
+category = "VOCALOID·UTAU"
+create-time = 1531215467
+publish-time = 1531215466
+desc-base64 = "5bCP5aSp5L2/55Sf5pel5b+r5LmQ77yB77yB56Wd5oS/6KiA5ZKM5bCP5aSp5L2/5ZKM5Zac5qyi5bCP5aSp5L2/55qE5aSn5a626YO96IO96KKr5LiW55WM5rip5p+U5Lul5b6F77yM6ICM5oiR5Lus5Lmf5bCG55So5rip5p+U5Zue5oql6L+Z5Liq5LiW55WM772e"
+[[parts]]
+cid = 45653795
+name = "【言和原创】握手言和【烂兔子p】【2018言和庆生会】"
+length = 210
+resolution = "1920x1080"
+
+[upper]
+uid = 78859
+name = "烂兔子P"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110854.4772704
+plays = 27009
+danmakus = 640
+likes = 2597
+favorites = 3043
+coins = 2005
+comments = 959

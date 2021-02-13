@@ -1,0 +1,46 @@
+avid = 415721479
+bvid = "BV1BV411h7D5"
+title = "【洛天依原创】萤与灯【2020HB2.DYY】"
+category = "VOCALOID·UTAU"
+create-time = 1608129372
+publish-time = 1608220807
+desc-base64 = "44CQ6JCk5LiO54Gv44CRCkhhcHB5IGJpcnRoZGF5IHRvIG15IGxvdmUuCuKAlOKAlOiCr+W+t+m+nwoK44CQU3RhZmbjgJEK5L2c6K+NL+S9nOabsi/nvJbmm7LvvJrogq/lvrfpvp/jgIIK6LCD5pWZ77ya5qGC5pyI6ZSB5b+D44CCCua3t+mfs++8muiCr+W+t+m+n++8jOS4gOWPquavkuaciOmlvOOAggrmm7Lnu5jvvJrlj4LmlrnjgIIK6KeG6aKR77ya5Ya75a2Q44CCCgrjgJDnroDku4vjgJEKRFlZ77yM6L+Z5piv5oiR6Zmq5L2g6L+H55qE56ys5LiA5Liq55Sf5pel77yM5o6l5LiL5p2l77yM6K6p5oiR5Ly05L2g6LWw5a6M5L2Z55Sf44CCCgrmhJ/osKLmoYLmnIjmnIjjgIHmnIjmnIjov5jmnInmlrnmlrnjgIIK6LCi6LCi5L2g77yM5Ya75a2Q77yM5LiW55WM56ys5LqM5Y+v54ix55qE5Ya75a2Q44CCCgrmrYzor43mnInlsI/lvanom4vjgII="
+[[parts]]
+cid = 267468121
+name = "洛天依 - 萤与灯"
+length = 264
+resolution = "1920x1080"
+
+[[staff]]
+uid = 27810217
+title = "UP主"
+name = "肯德龟"
+
+[[staff]]
+uid = 15357
+title = "调校"
+name = "桂月锁心"
+
+[[staff]]
+uid = 21684293
+title = "混音"
+name = "一只毒月饼"
+
+[[staff]]
+uid = 11257019
+title = "视频制作"
+name = "Crystfall-"
+
+[upper]
+uid = 27810217
+name = "肯德龟"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110864.1513715
+plays = 3541
+danmakus = 51
+likes = 820
+favorites = 678
+coins = 443
+comments = 160

@@ -1,0 +1,26 @@
+avid = 40999876
+bvid = "BV1At411a7D7"
+title = "【洛天依原创】Pilot(祝飞行员考试顺利!)【星电感应系列·飞行篇】"
+category = "VOCALOID·UTAU"
+create-time = 1547994537
+publish-time = 1548388831
+desc-base64 = "44CQ5pif55S15oSf5bqU57O75YiXwrfpo57ooYznr4fjgJHkurrlo7DmnKzlrrYg56WISW5vcnkgYXY0MTc0MzAzOArnjK7nu5nmiYDmnInov73pgJDmoqbmg7PnmoTkurrjgILnpZ3mhL/miYDmnInmg7PopoHmiJDkuLrjgJDpo57ooYzlkZjjgJHnmoTkurrog73lpJ/pobrliKnpgJrov4fpo57ooYzlkZjkvZPmo4DlkozogIPor5XvvIEK6K+NIOabuOS4rSB8IOabsi/nvJYv5re3IOWwj+asp86pIHwg6LCDIEZGRiB8IOe7mCBUaWtvIHwgUFYg6Zi/6Lev5Y2hJumbquWknCZDaeiMnCB8ICDllLEg5rSb5aSp5L6dCumfs+mikemikeiwseaEn+iwou+8muiQjOmbtiB8IOaooeadv+aEn+iwou+8mkxLcwrkurrlo7DniYjov5jmlLblvZXlnKjlpKrlpKrnmoTnrKzkuozlvKDkuKrkurrkuJPovpHjgIrmoqbpl7Tpo57ooYzjgIvkuK3vvIzmhJ/lhbTotqPnmoTor53lj6/ku6XliY3lvoDotK3kubDmlK/mjIHvvJogaHR0cHM6Ly90Yi5hbS91dnE1aAoKI+aYn+eUteaEn+W6lCMg56eR5bm755S15a2Q57O75YiXL+aYn+W6py/nlLXpn7Pnm7jlhbMK6LWE5rqQ5Lqk5rWB576kL+WkqeaWh+WPsO+8mjU5MTQ0NzI4MQrnvZHmmJPkupHns7vliJfmrYzljZXvvJpodHRwczovL211c2ljLjE2My5jb20vIy9wbGF5bGlzdD9pZD02OTcxNzQzNDQKQuermVBW5ZCI6ZuG77yaaHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3BsYXlsaXN0L2RldGFpbC9wbDgzNw=="
+[[parts]]
+cid = 73640618
+name = "洛天依-Pilot【星电感应系列·飞行篇】"
+length = 295
+resolution = "1280x720"
+
+[upper]
+uid = 2156649
+name = "小欧O"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110863.696999
+plays = 129027
+danmakus = 1270
+likes = 10173
+favorites = 10436
+coins = 7588
+comments = 1183

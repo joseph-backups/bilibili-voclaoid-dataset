@@ -1,0 +1,26 @@
+avid = 6516425
+bvid = "BV1Ms411b714"
+title = "【洛天依原创/完结】一秒之序【PoKeR】【双本家天依版】【pv付】"
+category = "VOCALOID·UTAU"
+create-time = 1497418720
+publish-time = 1475484909
+desc-base64 = "6K+N5puy57yW6LCD77yaUG9LZVIg57uYL3B2OlN5YSDmmK/luo/oqIDvvIzkuZ/mmK/nu63nr4cK6L+Z5Liq57O75YiX57uI5LqO5Lmf5Zyo5LuK5aSp6L+O5p2l5LqG5a6M57uT5ZGi77yM5oSf6LCi5aSn5a625LiA55u05Lul5p2l55qE5pSv5oyB5LiO6Zmq5Ly077yBCuecn+eahOaYr+S4gOmmluS4gOacrOato+e7j+eahOatjH5+Cuecn+eahOOAguOAggo9PT09PT09PT09PT09PT09PT09CueUsWtic2hpbnlh5ryU5ZSx55qE5Lq65aOw5pys5a625Lmf5Lya5pS25b2V5Zyoa2Llk6bmvI/nmoTkuJPovpHkuK1+CuaxguehrOW4geWSjOaUtuiXj15fXn5+"
+[[parts]]
+cid = 10600085
+name = ""
+length = 313
+resolution = "640x360"
+
+[upper]
+uid = 312381
+name = "PoKeR_扑克"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110877.0786338
+plays = 241883
+danmakus = 4646
+likes = 1700
+favorites = 19570
+coins = 10977
+comments = 909

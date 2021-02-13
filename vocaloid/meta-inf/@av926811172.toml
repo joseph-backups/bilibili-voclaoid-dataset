@@ -1,0 +1,41 @@
+avid = 926811172
+bvid = "BV1JT4y1L7qA"
+title = "【言和&赤羽原创】bug【litterzy】"
+category = "VOCALOID·UTAU"
+create-time = 1597653867
+publish-time = 1597665957
+desc-base64 = "5puy6LCD5re3IGxpdHRlcnp5CuivjSDlhqXlh7AK5Zu+5b2xIOmquOm4pgoKIuaXoOiuuuabtOaWsOWIsOS6huS6jOS7o+S6lOS7o+i/mOaYr+WNgeS7o+S6jOWNgeS7o++8jOe7iOeptuWPquaYr+S4gOS4queoi+W6j+S4gOS4quacuuaisO+8jOeptuern+imgeWkmuWDj+S6uuaJjeiDveiiq+S9oOWWnOasouWRoiIKCuS4gOS4quWvueS6juiZmuaLn+atjOaJi++8jOS6uuW3peaZuuiDveeahOaAneiAg+eahOabsuWtkO+8jOW4jOacm+Wkp+WutuWWnOasouOAgg=="
+[[parts]]
+cid = 225466325
+name = "【言和&赤羽】bug"
+length = 203
+resolution = "1280x720"
+
+[[staff]]
+uid = 43855
+title = "UP主"
+name = "litterzy"
+
+[[staff]]
+uid = 5798
+title = "作词"
+name = "冷鸟"
+
+[[staff]]
+uid = 1702453
+title = "曲绘"
+name = "异本生物"
+
+[upper]
+uid = 43855
+name = "litterzy"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110892.6704185
+plays = 54800
+danmakus = 322
+likes = 8605
+favorites = 5721
+coins = 3652
+comments = 571

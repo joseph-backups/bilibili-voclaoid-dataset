@@ -1,0 +1,26 @@
+avid = 37644179
+bvid = "BV1Bt411S77g"
+title = "【初音未来/敌门】Pick Me Up【未来有你2018/中文曲】"
+category = "VOCALOID·UTAU"
+create-time = 1544238021
+publish-time = 1544238019
+desc-base64 = "4pa2IOatjO+8muWInemfs+acquadpQrilrbilrYg5L2c6K+N44CB5L2c5puy77ya5pWM6ZeoCuKWtuKWtuKWtiDmj5Lnu5jvvJpWZXJ1cyDvvIh3ZWlib0DljYrpgI/mmI7pu5HmobbvvIkK4pa24pa24pa24pa2IOaYoOWDj++8mlhpcm9LeW8g77yId2VpYm9AWGlyb0t5b++8iQoK4piF44CMUGljayBNZSBVcO+8gVBpY2sgTWUgVXDvvIFQaWNrIE1lIFVw77yB44CN"
+[[parts]]
+cid = 66181758
+name = "【初音未来V4C】Pick Me Up【1080P】"
+length = 230
+resolution = "1920x1080"
+
+[upper]
+uid = 422221
+name = "敌门"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110863.2665734
+plays = 234498
+danmakus = 3244
+likes = 17439
+favorites = 21430
+coins = 18630
+comments = 2419

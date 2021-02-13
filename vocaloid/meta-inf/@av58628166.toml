@@ -1,0 +1,26 @@
+avid = 58628166
+bvid = "BV1px411f7PB"
+title = "【约德尔言和翻唱】美丽的约德尔姑娘（She taught me how to yodel）"
+category = "VOCALOID·UTAU"
+create-time = 1562763053
+publish-time = 1562763053
+desc-base64 = "5Y6f5puy77ya44CKU2hlIHRhdWdodCBtZSBob3cgdG8geW9kZWzjgIsKCuWhq+ivje+8mumZhumAmgoK57+75ZSx77ya6KiA5ZKMCuiwg+agoS/op4bpopHvvJrovqPpmr7lr7vovbAK5puy57uY77ya5Zub6L+5Cgrlpb3kuYXmsqHnorDov4fnuqblvrflsJTosIPkuobvvIzlm57lpLTlkKzku6XliY3osIPnmoTpgqPkuKrmnInngrnlv4Pmg4XlpI3mnYJ+CuaIkeadpeWHkeS4queUn+aXpeS8mueahOeDremXue+8jOWHkeWujOmprOS4iui3ke+8jOWPjeato+i/meKApuKApuacieavkuKApuKApuaIkeWPl+S4jeS6huKApuKApgoK5ZOffuWSr37lmJ5+5ZmrfuWYgH4K5ZGK6L6efg=="
+[[parts]]
+cid = 102240288
+name = "美丽的约德尔姑娘"
+length = 129
+resolution = "1920x1080"
+
+[upper]
+uid = 893950
+name = "纳兰寻风"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110872.5321538
+plays = 166770
+danmakus = 1456
+likes = 11700
+favorites = 9224
+coins = 7103
+comments = 1426

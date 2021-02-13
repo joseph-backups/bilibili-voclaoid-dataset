@@ -1,0 +1,53 @@
+create-time = 1612741484
+publish-time = 1612778408
+avid = 331583212
+bvid = "BV1jA411g72N"
+title = "★洛天依原创曲—夜茫茫【初灵社】"
+category = "VOCALOID·UTAU"
+desc-base64 = "572R5piT5LqR6Z+z5LmQ6ZO+5o6l77yaCmh0dHBzOi8vbXVzaWMuMTYzLmNvbS9zb25nP2lkPTE4MTg2OTc5NDcKCui/meWknOiJsuiMq+iMq++8jOWlueW/g+S4reeahOeIseS6uu+8jOaYr+WQpuS5n+WcqOWQjOS4gOeJh+aciOWFieS4i++8jOaAneW/teedgOW9vOatpO+8nwrkuIDpppbljZXmm7LlpJzojKvojKvvvIznjK7nu5nmnInlv4PnmoTmg4Xpg47jgIIKClN0YWZm77yaCuetluWIku+8mueBteaiplAK5puy57uY77ya5rKZ5rih5rihClBW77ya5LiO6bm/dGFydwror43mm7LnvJbosIPmt7fvvJrnvorpqbzniLjmr5QK5ZCJ5LuW77ya576K6am854i45q+UCgrlv5nlv5nnooznoozkuYvpl7TvvIzlpKfljYrlubTnmoTml7blhYnkvr/ov5nkuYjov4fljrvkuobjgILlpJzojKvojKvov5nkuKrkvZzlk4HkuZ/nu4jkuo7nlLvkuIrkuobkuIDkuKrlj6Xlj7fjgILnirnorrDlvpfljYrlubTliY3pgqPkuKrml7blgJnlvpfoh6rlt7HvvIzlkKznnYDku7vntKDmsZDnmoTpgqPpppbjgIrmiJHopoHkvaDjgIvkuIDpgY3lj4jkuIDpgY3vvIzljYHliIbnmoTlhaXov7fjgILnu4jkuo7lnKjmn5DkuIDlpKnvvIzlnKjlvLnnkLTnmoTpl7TpmpnvvIzkuI3nn6XkuI3op4nkuK3kvr/lk7zlh7rkuoblpJzojKvojKvov5npppblsI/mm7LvvIzmnoTmgJ3lh7rkuoblnKjojYnljp/lpJzoibLkuIvlpKnkvp3mgJ3lv7Xmg4Xpg47nmoTmrYzor43vvIzlvojlv6vlnLDkvr/orrDkuobkuIvmnaXjgILlvoDlkI7nmoTml6XlrZDvvIzmiJHnirnnirnosavosavlnKjlh6DlpJrniYjkuI3lkIznmoTnvJbmm7LpgInmi6nkuK3jgILnm7TliLDmn5DkuIDlpKnvvIzlnKjlkKzliLDlsI/ph47kuL3ojo7niYjnmoTjgIrlpJzmnaXpppnjgIvnmoTml7blgJnvvIzmiJHnoa7kv6Hkuobov5nmnIDllpzmrKLnmoTmi4nkuIHpo47moLzjgIIKCuWNgeWIhuaEn+iwouWUkOiAgeW4iO+8iEBjYWJiYWdldGFuZ++8ie+8jE5la29ja8K3TEvogIHluIjku6Xlj4rngbXmoqbnpL7plb/mj5DkvpvnmoTlkITnp43nvJbmm7Llkozmt7fpn7Plu7rorq7jgIIK5oSf6LCi5rKZ5rih5rih5ZCM5a2m55m+5b+Z5LmL5Lit5Yi25L2c55qE5puy57uY77yM5oSf6LCi5LiO6bm/6ICB5biI55qE5LyY56eAUFbliLbkvZzvvIEKCuelneaEv+aJgOacieeahOacieaDheS6uue7iOaIkOect+Wxnu+8jOe7iOiDveaUtuiOt+WxnuS6juiHquW3seeahOW5uOemj+WSjOe+juWlveOAgg=="
+[[parts]]
+cid = 294599972
+name = "夜茫茫（初灵社）"
+length = 321
+resolution = "1280x720"
+
+[[staff]]
+favorite-time = 12450
+uid = 20334164
+title = "UP主"
+name = "羊驼爸比"
+
+[[staff]]
+favorite-time = 12450
+uid = 85776495
+title = "曲绘"
+name = "沙渡渡"
+
+[[staff]]
+favorite-time = 12450
+uid = 25005081
+title = "视频制作"
+name = "与鹿tarw"
+
+[[staff]]
+favorite-time = 12450
+uid = 3178737
+title = "策划"
+name = "灵梦P"
+
+[[staff]]
+favorite-time = 12450
+uid = 387811211
+title = "参演"
+name = "初灵社"
+
+[uploader]
+uid = 20334164
+name = "羊驼爸比"
+
+[snapshot]
+snapshot-time = 1612901924.0476305
+danmakus-count = 3
+likes-count = 140
+favorites-count = 243
+snapshot-by = "moe.lty.bgetlib/1.x"

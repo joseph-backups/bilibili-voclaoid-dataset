@@ -1,0 +1,26 @@
+avid = 3060153
+bvid = "BV1es41127Fd"
+title = "【洛天依/乐正绫原创】霜雪千年【PV付/COP】"
+category = "VOCALOID·UTAU"
+create-time = 1497423941
+publish-time = 1444836730
+desc-base64 = "6Ieq5Yi2IOOAkOivjeabsiBDT1Av57uYIOWliOWliO+8iEFvZXpNYW5zaW9u77yJ44CRDQrpn7PpopHkuIvovb3lnLDlnYDvvJpodHRwOi8vNXNpbmcua3Vnb3UuY29tL3ljLzI4OTMyNjQuaHRtbCANCuinhumikS/mm7Lnu5jkuIvovb3lnLDlnYDvvJpodHRwOi8vcGFuLmJhaWR1LmNvbS9zLzFrVHRTblBs"
+[[parts]]
+cid = 46056319
+name = "霜雪千年2018_final3"
+length = 241
+resolution = "1280x720"
+
+[upper]
+uid = 396194
+name = "COPY"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110858.8986228
+plays = 1701184
+danmakus = 13889
+likes = 37975
+favorites = 94707
+coins = 55633
+comments = 31358

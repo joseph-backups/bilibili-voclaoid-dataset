@@ -1,0 +1,71 @@
+avid = 628491183
+bvid = "BV1Ht4y1r7N5"
+title = "【洛天依乐正绫原创曲】夜绊怜香（PV付）【殷涧工作室X越天映画】——“相思为名 病入心骨”"
+category = "VOCALOID·UTAU"
+create-time = 1609590589
+publish-time = 1609642816
+desc-base64 = "4oCc55u45oCd5Li65ZCNIOeXheWFpeW/g+mqqOKAnQrkurrlo7DmnKzlrrYgQlYxSnY0MTF4N3RQCj09PT09PeWIhj09PT09PeWJsj09PT09Pee6vz09PT09PQrms6jvvJrmnKzmm7LmrYzor40v5paH5qGI6YOo5YiG5L6d54Wn5riF5Luj5bCP6K+044CK5oCc6aaZ5Ly044CL5pS55YaZ77yM5LiO5YW25LuW5ZCM57G75LqM5Yib5L2c5ZOB5peg5YWz44CCCuS9nOWTgeexu+Wei++8muWOn+WIm+absgrnrZbliJLvvJrmuIXpo47kuI7miJHlhbHplb/phonjgIHprZrlkpXlmZwK5Yi25L2c77ya6a2a5ZKV5ZmcICBA5q635ran5bel5L2c5a6kCuS9nOivje+8mua4hemjjuS4juaIkeWFsemVv+mGiQrkvZzmm7LvvJrmraXpup8K57yW5puy77ya6a2a5ZKV5ZmcICBA5q635ran5bel5L2c5a6kCuiwg+aVme+8muWTiOWjq+Wlh3AK5ZCJ5LuW77ya5pyI54qsUArotJ3mlq/vvJrmnIjniqxQCuWSjOWjsOe8luWGme+8mumtmuWSleWZnCAgQOaut+a2p+W3peS9nOWupArmt7fpn7PvvJrprZrlkpXlmZwgIEDmrrfmtqflt6XkvZzlrqQK5puy57uY77ya5a6B5a6J6L6wCumimOWtl++8muiOq+e+oVAgIEDmrrfmtqflt6XkvZzlrqQK6KeG6aKR77ya5Z6j5ZCM5a2mICBA6LaK5aSp5pig55S7CuWHuuWTge+8muaut+a2p+W3peS9nOWupCB4IOi2iuWkqeaYoOeUuwrljY/lipvvvJrplb/lpJzmoqbmrYxQCuS6jOWIm+eahOaWh+ahiOS8oOmAgemXqO+8mmN2Nzk5MjMyNA=="
+[[parts]]
+cid = 276083797
+name = "夜绊怜香_VC_6000"
+length = 253
+resolution = "1920x1080"
+
+[[staff]]
+uid = 123133
+title = "UP主"
+name = "魚咕噜"
+
+[[staff]]
+uid = 496459710
+title = "作曲"
+name = "步麟_步昀摧"
+
+[[staff]]
+uid = 280951293
+title = "作词"
+name = "清风与我共长醉"
+
+[[staff]]
+uid = 529083
+title = "调校"
+name = "哈士奇P"
+
+[[staff]]
+uid = 395966898
+title = "演奏"
+name = "TsukiMoon月月"
+
+[[staff]]
+uid = 18629162
+title = "曲绘"
+name = "在下宁安辰"
+
+[[staff]]
+uid = 91129711
+title = "字幕"
+name = "MakYiens莫羡"
+
+[[staff]]
+uid = 487667737
+title = "视频制作"
+name = "越天映画"
+
+[[staff]]
+uid = 180420448
+title = "参演"
+name = "阴间工作室"
+
+[upper]
+uid = 123133
+name = "魚咕噜"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110875.591579
+plays = 20392
+danmakus = 126
+likes = 3359
+favorites = 2455
+coins = 2259
+comments = 447

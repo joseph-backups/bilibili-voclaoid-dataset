@@ -1,0 +1,51 @@
+avid = 968772260
+bvid = "BV1Tp4y1S7cu"
+title = "【洛天依原创曲】万分之一的光"
+category = "VOCALOID·UTAU"
+create-time = 1594532635
+publish-time = 1594557008
+desc-base64 = "OOW5tOmXtOaIkeS7rOS4gOi1t+e7j+WOhuS6huiuuOWkmu+8jOacieasouS5kOS5n+acieaCsuS8pO+8jOacieebuOmBh+iHqueEtuS5n+acieWIq+emu++8jOS9huabvuebuOWkhOeahOaXpeWtkOawuOi/nOmCo+S5iOi+ieWFiemXquiAgOOAggrmhJ/osKLkvaDmiJDkuLrmiJHnmoTlhYnoipLvvIzogIzmiJHkuZ/kvJrmmK/kvaDkuIfliIbkuYvkuIDnmoTlhYnjgIIKCumfs+S5kO+8mkNoaWxpQ2hpbGwK6LSd5pav77ya5bGx5Y+j6YCy5LmfCum8k+aJi++8muWPo+WPo+WPo+WPo+WPowrosIPmoKHvvJrliqjngrlQCuW8puS5kOe8lumFje+8muiDoemdmeaIkCAvIENoaWxpQ2hpbGwK5bCP5o+Q55C077ya5bqe6ZiUIC8g5byg5rWpCuS4reaPkOeQtO+8muavleiKswrlpKfmj5DnkLTvvJrpg47ojrkK55uR5Yi277ya5Lq65b2i5YWOCuWHuuWTge+8mlZzaW5nZXI="
+[[parts]]
+cid = 211562221
+name = "万分之一的光"
+length = 252
+resolution = "1920x1080"
+
+[[staff]]
+uid = 36081646
+title = "UP主"
+name = "洛天依"
+
+[[staff]]
+uid = 90942983
+title = "作曲"
+name = "YuH_ChiliChill"
+
+[[staff]]
+uid = 12481783
+title = "调校"
+name = "动次打次的动点p"
+
+[[staff]]
+uid = 2382132
+title = "策划"
+name = "人形兎"
+
+[[staff]]
+uid = 10878474
+title = "策划"
+name = "vsinger团队"
+
+[upper]
+uid = 36081646
+name = "洛天依"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110894.4147477
+plays = 631718
+danmakus = 11549
+likes = 64892
+favorites = 39418
+coins = 52517
+comments = 10100

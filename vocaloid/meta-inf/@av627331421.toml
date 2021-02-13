@@ -1,0 +1,26 @@
+avid = 627331421
+bvid = "BV15t4y1v7qK"
+title = "【洛天依V4萌 · 凝】水叙湖风【AtonyP】"
+category = "VOCALOID·UTAU"
+create-time = 1601542573
+publish-time = 1601542573
+desc-base64 = "44COIOaYpeWgpOe5geiKseebuOaOpSDnu6/nuqLkuobnrJHpnaUg44CPCgril4bkvZzlk4Hnsbvlnos6IOe/u+iwg+absgrmnKzlrrY6ICBCVjFYcDR5MWE3emoK5L2c5puy77ya56a55q2MCuS9nOivje+8mueOhOWkqQrosIPmlZk6IEF0b255UArmt7fpn7M6IEF0b255UApQVjog5pys5a62Cgril4bnroDku4vooaXlhYUKVlNRWDog56O35YWD57SgICYgQmVhUnAKCuWWnOasoueahOeCueS4quaOqOiNkOWTpiEg5LmI5LmI5ZOS44CC5pyJ5biB55qE5Y+v5Lul6ZqP5L6/5oqV44CC44CC6L+Y5Y+v5Lul5YiG5Lqr57uZ5L2g5Lus55qE5pyL5Y+L5ZCW77yBICjil43igKLhtJfigKLil40p"
+[[parts]]
+cid = 241062397
+name = "水叙湖风_Mux_Mux"
+length = 264
+resolution = "1920x1080"
+
+[upper]
+uid = 20881153
+name = "AtonyP"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110874.9351232
+plays = 8350
+danmakus = 23
+likes = 1211
+favorites = 847
+coins = 442
+comments = 144

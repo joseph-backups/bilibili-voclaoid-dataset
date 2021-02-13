@@ -1,0 +1,52 @@
+avid = 796345209
+bvid = "BV1bC4y1h7hd"
+title = "【洛天依手书/描改】天依的偶像宣言！"
+category = "短片·手书·配音"
+create-time = 1594627578
+publish-time = 1594644530
+desc-base64 = "5rSb5aSp5L6d5ZCM5Lq65omL5Lmm57+76LCDCiAgIDEuIOacrOinhumikeS4uuWkqeS+neS4reW/g+WQkee/u+iwg+aJi+S5pgogICAyLuaXoGNw5ZCR77yM5a6i5Liy6KeS6Imy5aS55bim56eB6LSn77yM6L+Y5pyJ5LiqdXDlvLrooYzotLTotLQKICAgMy7pgInlj5bkuobkuKrliKvlhbfmnInku6PooajmgKfnmoTmnI3ppbDvvIzlt7Lnu4/lsL3ph4/mjInml7bpl7TmjpLliJcKICAgNC7ooaPmnI3mnInkuIDlrprnqIvluqbnmoTnroDljJYvYnVnCiAgIDUuIOmfs+mikeS4uuS4reaWh+Whq+ivjee/u+iwg+absiDmnKzlrrYgQlYxcFc0MTF4NzlQCiAgIDYu5aGr6K+NL+iwg+agoe+8mkdyZWUKICAgNy7mt7fpn7PvvJpBc2hhbwogICA4Luinhumike+8mjMzIDIKICAgOS7no4XljYHkupTkvr/lo6sKICDmnKzpuL3lrZDlkpXkuoblvojkuYXnmoTmiYvkuabvvIzooqvmiJHmi5bliLDkuoblpKnkvp3lhavlkajlubTvvIzln7rmnKzkuIrmmK/pu5Hljoblj7LkuobvvIjlk60KIOW+l+WIsHNlaWxv6ICB5biI55qE5o6I5p2D5ZWm77yBwqDml6Xor63kvp3otoXlj6/niLF3dwpCVjFXVzQxMU43SlU="
+[[parts]]
+cid = 214868436
+name = "天依的偶像宣言"
+length = 266
+resolution = "1920x1080"
+
+[[parts]]
+cid = 217670252
+name = "天依的偶像宣言 （日语）"
+length = 266
+resolution = "1920x1080"
+
+[[staff]]
+uid = 105081500
+title = "UP主"
+name = "千里依坠"
+
+[[staff]]
+uid = 47730627
+title = "视频制作"
+name = "33_2"
+
+[[staff]]
+uid = 291103769
+title = "调音"
+name = "Gerr_"
+
+[[staff]]
+uid = 14172024
+title = "调音"
+name = "VaporAshaO"
+
+[upper]
+uid = 105081500
+name = "千里依坠"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110885.2145164
+plays = 21636
+danmakus = 320
+likes = 6018
+favorites = 1985
+coins = 9604
+comments = 168

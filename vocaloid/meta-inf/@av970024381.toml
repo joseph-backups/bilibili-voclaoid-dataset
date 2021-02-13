@@ -1,0 +1,66 @@
+avid = 970024381
+bvid = "BV1Kp4y1k7Yz"
+title = "【洛天依乐正绫】不会吧【原创曲PV付】【Xylose木糖醇】"
+category = "VOCALOID·UTAU"
+create-time = 1603723345
+publish-time = 1603756805
+desc-base64 = "4oCc5LiN5Lya5ZCn5LiN5Lya5ZCn77yM5LiN5Lya55yf5pyJ5Lq65LiN5Zac5qyi5aSp5L6d5ZKM6Zi/57ur5ZCn77yf4oCdCuKAnOWPjeato+aIkeWWnOasouOAguKAnQoK562W5YiS77ya57G95qCRCuS9nOabsu+8mlNoZWVwL+e6r+eZvQrnvJbmm7LvvJrnuq/nmb0K5aGr6K+N77ya5Li+54ObCui0tOWUse+8mmlyZWNvcmRlcgrosIPmlZnvvJrlk4jlo6vlpYdwCuabsue7mO+8muWQnuWQngpQVu+8mueQieeSg+eMq+aYoOWDjwrlsIHpnaLvvJrlhrvlrZAK5Ye65ZOB77yaWHlsb3Nl5pyo57OW6YaHCgrigJzosKLosKLkvaDvvIzlhrvlrZDigJ0="
+[[parts]]
+cid = 249806809
+name = "bhb"
+length = 166
+resolution = "1920x1080"
+
+[[staff]]
+uid = 20464617
+title = "UP主"
+name = "籽树"
+
+[[staff]]
+uid = 20697169
+title = "作词"
+name = "举烛丶"
+
+[[staff]]
+uid = 8851565
+title = "作曲"
+name = "从来没有中过奖的Sheep"
+
+[[staff]]
+uid = 123372
+title = "编曲"
+name = "純白"
+
+[[staff]]
+uid = 342400
+title = "混音"
+name = "irecorder"
+
+[[staff]]
+uid = 7203883
+title = "曲绘"
+name = "-Osage-"
+
+[[staff]]
+uid = 529083
+title = "调校"
+name = "哈士奇P"
+
+[[staff]]
+uid = 281804983
+title = "视频制作"
+name = "琉璃猫映像"
+
+[upper]
+uid = 20464617
+name = "籽树"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110895.2520518
+plays = 84011
+danmakus = 269
+likes = 9443
+favorites = 7124
+coins = 6579
+comments = 875

@@ -1,0 +1,61 @@
+avid = 87666967
+bvid = "BV1F7411b72C"
+title = "【洛天依原创曲/星球拟人】流浪地球一周年《地心漂流》【星电感应系列/双视角feat.乐正绫】"
+category = "VOCALOID·UTAU"
+create-time = 1581202479
+publish-time = 1581213658
+desc-base64 = "5aaC5p6c5Zyw55CD5oul5pyJ5b+D4oCU4oCU5aSq6Ziz5oSP5aSW5o+Q5YmN5rCm6Zeq77yM56a75byA5LiO5L2gNDXkur/lubTnmoTnm7jkvLTjgILkuIDpopflraTni6znmoTmmJ/vvIzkuIDpopfmtYHmtarnmoTlv4PvvIzluKbnnYDmlofmmI7nmoTluIzmnJvvvIzluKbkuIrlpbnnmoTnnLznnZvvvIzlpZTotbTov5nlnLrvvIzmsqHmnInlvZLpgJTnmoTml4XooYwK5rWB5rWq5Zyw55CD5LiA5ZGo5bm04oCU4oCU5Y+M6KeG6KeSIOS5iyDlnLDnkIPnr4fvvJvmmJ/nlLXmhJ/lupTns7vliJflkIjpm4bvvJpodHRwczovL3d3dy5iaWxpYmlsaS5jb20vbWVkaWFsaXN0L2RldGFpbC9tbDQ0NDU3NTMyCuiBlOWKqCAg57qi5beo5pifwrfkuZDmraPnu6vvvIjjgIpGYWRlZOOAi+S4reWhq++8iWF2OTg0MjAwOApTdGFmZu+8mgrkvZzmm7Iv562W5YiS77yaQ3JpbXNvbuiMnArnvJbmm7LvvJpCb3l1YW5QCuS9nOivje+8muiUq+Wwj+WdjwrmvJTllLHvvJrmtJvlpKnkvp3vvIhGZWF0LuS5kOato+e7q++8iQrosIPmlZnvvJrlkajlsI/ompUK5re36Z+z77ya5bCP5qynzqkK5puy57uY77ya6Zuo5pyo5pyo77yM6IuN5bKpCuinhumike+8mm1pcmFp77yI55CJ55KD54yr5pig5YOP77yJCgrigJTigJTlpKrpmLPmrbvkuobjgILlubjov5DnmoTmmK/vvIzov5jmnInkurrmtLvnnYDvvIjmkZjoh6rjgIrmtYHmtarlnLDnkIPjgIvvvInluKbnnYDlpKrpmLPns7vllK/kuIDnmoTmlofmmI7vvIzlpZTlkJHnlJ/lkb3lu7bnu63nmoTluIzmnJs="
+[[parts]]
+cid = 149773820
+name = "地心漂流V3_x264"
+length = 216
+resolution = "1920x1080"
+
+[[staff]]
+uid = 10996289
+title = "UP主"
+name = "周小蚕"
+
+[[staff]]
+uid = 23634400
+title = "编曲"
+name = "BoyuanP_Official"
+
+[[staff]]
+uid = 671842
+title = "作词"
+name = "蔫小坏"
+
+[[staff]]
+uid = 870832
+title = "作曲"
+name = "墨白茜兔"
+
+[[staff]]
+uid = 2156649
+title = "混音"
+name = "小欧O"
+
+[[staff]]
+uid = 281804983
+title = "视频制作"
+name = "琉璃猫映像"
+
+[[staff]]
+uid = 694797
+title = "曲绘"
+name = "三茶踏鸽"
+
+[upper]
+uid = 10996289
+name = "周小蚕"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110890.8985646
+plays = 159763
+danmakus = 879
+likes = 13814
+favorites = 12485
+coins = 8275
+comments = 999

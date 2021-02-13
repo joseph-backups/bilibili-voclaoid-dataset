@@ -1,0 +1,76 @@
+avid = 795138286
+bvid = "BV1jC4y1s7tW"
+title = "【心华】放晴【原创曲PV付】【Xylose木糖醇】"
+category = "VOCALOID·UTAU"
+create-time = 1586171962
+publish-time = 1586249738
+desc-base64 = "4oCc562J5Yiw5pS+5pm055qE6YKj5aSp5Lmf6K645oiR5Lya5q+U6L6D5aW95LiA54K54oCdCgrnrZbliJLvvJrnsb3moJEK5puy57yW77ya57qv55m9cArkvZzor43vvJrkuL7ng5sv5LqR54K5CuWQieS7lu+8mmxpdHRlcnp5Cuiwg+aVme+8muW9s+S6jXAK5re36Z+z77yaaXJlY29yZGVyCuabsue7mO+8muWciOWciArmmKDlg4/vvJrlhrflhrvlrZAK5oSf6LCi77yac2hlZXAvbGVtb27lpLnlrZAK5Ye65ZOB77yaWHlsb3Nl5pyo57OW6YaH"
+[[parts]]
+cid = 174690385
+name = "60s"
+length = 307
+resolution = "1920x1080"
+
+[[staff]]
+uid = 123372
+title = "UP主"
+name = "純白"
+
+[[staff]]
+uid = 20464617
+title = "策划"
+name = "籽树"
+
+[[staff]]
+uid = 4733901
+title = "作词"
+name = "云点如织"
+
+[[staff]]
+uid = 20697169
+title = "作词"
+name = "举烛丶"
+
+[[staff]]
+uid = 342400
+title = "混音"
+name = "irecorder"
+
+[[staff]]
+uid = 29045509
+title = "调校"
+name = "彳亍P"
+
+[[staff]]
+uid = 11257019
+title = "视频制作"
+name = "Crystfall-"
+
+[[staff]]
+uid = 43855
+title = "演奏"
+name = "litterzy"
+
+[[staff]]
+uid = 188839285
+title = "演唱"
+name = "心华Official"
+
+[[staff]]
+uid = 2468364
+title = "曲绘"
+name = "圈圈圈Orz"
+
+[upper]
+uid = 123372
+name = "純白"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110884.1542797
+plays = 74318
+danmakus = 461
+likes = 8998
+favorites = 5782
+coins = 4540
+comments = 1122

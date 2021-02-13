@@ -1,0 +1,56 @@
+avid = 882961110
+bvid = "BV14K4y1b7gc"
+title = "【言和原创曲】特 立 独 行 的 猪（炸裂电音二人转）"
+category = "VOCALOID·UTAU"
+create-time = 1588223272
+publish-time = 1588240818
+desc-base64 = "6LCo5Lul5q2k5puy6Ie05pWs546L5bCP5rOi5YWI55Sf5L2c5ZOB44CK5LiA5Y+q54m556uL54us6KGM55qE54yq44CL77yM5biM5pyb5q+P5Liq5Lq66YO96IO95YuH5pWi5Zyw5pGG6ISx5ZG96L+Q55qE6K6+572u77yM5rS75Ye66Ieq5bex55qE5Lq655Sf44CCCgrnrZbliJIv6K+NIDog6JSr5bCP5Z2PCuabsi/nvJYv5re3IDogaUt6IEBTaWduYWwtRSB8IOiwgyA6IOe6s+WFsOWvu+mjjiB8IOS6jOiDoea8lOWljyA6IOmZhuS6jOiDoQrnu5ggOiDpk63ov5wgfCBQViA6IDQxZGF5cwrlgqzmiJHmipXnqL/nmoTnvqTvvJoyNTkyNDE3ODk="
+[[parts]]
+cid = 185376429
+name = "特立独行的猪fix"
+length = 233
+resolution = "1920x1080"
+
+[[staff]]
+uid = 25681
+title = "UP主"
+name = "iKz_茶壶"
+
+[[staff]]
+uid = 671842
+title = "作词"
+name = "蔫小坏"
+
+[[staff]]
+uid = 893950
+title = "调校"
+name = "纳兰寻风"
+
+[[staff]]
+uid = 2989690
+title = "演奏"
+name = "陆二胡"
+
+[[staff]]
+uid = 6516010
+title = "曲绘"
+name = "Meinn"
+
+[[staff]]
+uid = 4454819
+title = "视频制作"
+name = "41days丶"
+
+[upper]
+uid = 25681
+name = "iKz_茶壶"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110891.3182323
+plays = 150117
+danmakus = 1138
+likes = 15613
+favorites = 12610
+coins = 11572
+comments = 1731

@@ -1,0 +1,61 @@
+avid = 584147439
+bvid = "BV1Z64y1F7o5"
+title = "【洛天依原创】你总要有些【HB to 初繁言/原创PV付】【踏云社】"
+category = "VOCALOID·UTAU"
+create-time = 1597103344
+publish-time = 1597118437
+desc-base64 = "4oCc6L+95LiN5Yiw5LqG77yM5bCx5LiN5Y676L+95LqG5ZCX77yf4oCdCuWNgeS5neWyge+8jOW4jOacm+S9oOacieabtOWkmumBl+aGvu+8jOabtOmhveW8uueUn+mVv+OAggoK562W5YiSL+S9nOivje+8muWInee5geiogArkvZzmm7Iv57yW5puyL+a3t+mfs++8mkFkYW1fSwrosIPmlZnvvJrkuI3lronlrpoK5puy57uY77ya6Zuq5a2QClBW77ya5p+z5bu25LmLCumimOWtl++8muS4pOiJsua6kArmvJTllLHvvJrmtJvlpKnkvp0K5Ye65ZOB77ya6LiP5LqR56S+"
+[[parts]]
+cid = 222945282
+name = "你总要有些"
+length = 279
+resolution = "1920x1080"
+
+[[staff]]
+uid = 1856472
+title = "UP主"
+name = "初繁言"
+
+[[staff]]
+uid = 1327031
+title = "作曲"
+name = "Adam_K"
+
+[[staff]]
+uid = 4077983
+title = "调校"
+name = "D_rerio"
+
+[[staff]]
+uid = 7983157
+title = "曲绘"
+name = "YUKIKO__"
+
+[[staff]]
+uid = 4671829
+title = "视频制作"
+name = "柳柳柳柳延之"
+
+[[staff]]
+uid = 404882503
+title = "参演"
+name = "两色源"
+
+[[staff]]
+uid = 538927043
+title = "参演"
+name = "踏云社"
+
+[upper]
+uid = 1856472
+name = "初繁言"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110872.0819507
+plays = 78140
+danmakus = 449
+likes = 9039
+favorites = 6758
+coins = 5822
+comments = 888

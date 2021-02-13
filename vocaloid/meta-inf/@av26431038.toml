@@ -1,0 +1,26 @@
+avid = 26431038
+bvid = "BV1Cs411p76o"
+title = "【洛天依】嘘つきは恋のはじまり【40mP&たま原创PV】"
+category = "VOCALOID·UTAU"
+create-time = 1531056958
+publish-time = 1531056958
+desc-base64 = "5aSp5L6d55qE5pel6K+t6K+V5ZCs5puy44CM5ZiY44Gk44GN44Gv5oGL44Gu44Gv44GY44G+44KK44CNUFbvvIzku4rlpKnnlLE0MG1Q5qGR5ZyoWW91VHViZeWSjG5pY29uaWNv5LiK5q2j5byP5Y+R5biD5ZWm772eCuWkqeS+nei1tue0p+aQrOi/kOi/h+adpe+8jOW4jOacm+Wkp+WutuWWnOasouOAggoKNDBtUOahkeWPkeW4g+WOn+aWh++8mgrjgbvjgpPjga7jgaHjgofjgaPjgajlmJjjgpLjgaTjgYTjgZ/jgIIKCuOAjOWYmOOBpOOBjeOBr+aBi+OBruOBr+OBmOOBvuOCiuOAjQoK5q2M77ya5rSb5aSp5L6d77yI44Or44Kq44OG44Oz44Kk77yJCuS9nOipnuOAgeS9nOabsuOAgee3qOabsu+8mjQwbVDvvIhteWxpc3QvNzk3NTkzMeOAgUA0MG1Q77yJCuWLleeUu+OAgeOCpOODqeOCueODiO+8muOBn+OBvu+8iG15bGlzdC84OTk0MTYw44CBQHRhbWFrMO+8iQrjgq7jgr/jg7zvvJpbVEVTVF3vvIhteWxpc3QvMjc3OTY5M+OAgUBoaXJva2lfdGVzdO+8iQoK44Kr44Op44Kq44Kx6Z+z5rqQ4oaSaHR0cHM6Ly9iaXQubHkvMktrRm55RQoKWW91VHViZeS8oOmAgemXqO+8mmh0dHBzOi8veW91dHUuYmUvbW1meFJSa1dKd2cKbmljb25pY2/kvKDpgIHpl6jvvJpodHRwOi8vd3d3Lm5pY292aWRlby5qcC93YXRjaC9zbTMzNDkwOTI3"
+[[parts]]
+cid = 45421363
+name = "usotsuki_mv_fix"
+length = 256
+resolution = "1280x720"
+
+[upper]
+uid = 36081646
+name = "洛天依"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110853.9939027
+plays = 317069
+danmakus = 6241
+likes = 22198
+favorites = 23297
+coins = 14296
+comments = 13461

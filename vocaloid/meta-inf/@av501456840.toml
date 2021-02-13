@@ -1,0 +1,71 @@
+create-time = 1611815412
+publish-time = 1611914412
+avid = 501456840
+bvid = "BV1aN411o7GW"
+title = "洛天依、言和打起来了!?【对攻原创曲】盲龙默虎 (漫画PV付)"
+category = "VOCALOID·UTAU"
+desc-base64 = "5Lq65aOw54mI77ya56WW5aiF57qz5oOcIHZzIOS4ieaXoE1hcmJsdWUgQlYxeXo0eTFtN2NICgrmiJHlpb3kuYXlpb3kuYXmuLTmnJvlpbnku6zmiZPotbfmnaXkuobvvIFieSDojLblo7YKMjAyMeW8gOW5tOWkp+aJk+WHuuaJi++8jOS7jua8lOWUseWIsOivjeS9nOWIsOeUu+W4iOS4gOi1t+WvueaJk+eahOatjOOAguaWsOaYpeW/q+S5kO+8geWWnOasoueahOivneWwsSDkuIAg6ZSuIOS4iSDov54g5ZOm77yB77yBCgrlgqzojLblo7bmipXnqL/nmoTnvqTvvJoyNTkyNDE3ODkK5puyL+e8li/mt7fvvJppS3ogfCDor43vvJrmnpzmsYHlh4noj5wgdnMg6YKq5Y+r5pWZ5Li7Cuiwg++8mue6s+WFsOWvu+mjjiB8IOWQieS7lu+8mkRhcmtuZXNzIFRlbgrnu5jvvJrlgbblsKTlpKfogqXnvoogdnMg5qmZ54qsIHwgUFbvvJpBWVdD5YWr5q+bCuWItuS9nOS6uu+8mmlLeiBAU2lnbmFsLUU="
+[[parts]]
+cid = 288820193
+name = "盲龙默虎 feat.言和 vs 洛天依"
+length = 280
+resolution = "1920x1080"
+
+[[staff]]
+favorite-time = 12450
+uid = 25681
+title = "UP主"
+name = "iKz_茶壶"
+
+[[staff]]
+favorite-time = 12450
+uid = 1629850
+title = "作词"
+name = "果汁凉菜"
+
+[[staff]]
+favorite-time = 12450
+uid = 935663
+title = "作词"
+name = "邪叫教主"
+
+[[staff]]
+favorite-time = 12450
+uid = 893950
+title = "调校"
+name = "纳兰寻风"
+
+[[staff]]
+favorite-time = 12450
+uid = 2767637
+title = "演奏"
+name = "Darkness_Ten"
+
+[[staff]]
+favorite-time = 12450
+uid = 11842113
+title = "曲绘"
+name = "偶尤大肥羊"
+
+[[staff]]
+favorite-time = 12450
+uid = 349568
+title = "曲绘"
+name = "橙犬"
+
+[[staff]]
+favorite-time = 12450
+uid = 217552660
+title = "视频制作"
+name = "AYWC八毛"
+
+[uploader]
+uid = 25681
+name = "iKz_茶壶"
+
+[snapshot]
+snapshot-time = 1612502748.818616
+danmakus-count = 886
+likes-count = 20168
+favorites-count = 26001
+snapshot-by = "moe.lty.bgetlib/1.x"

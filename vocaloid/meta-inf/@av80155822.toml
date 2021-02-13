@@ -1,0 +1,26 @@
+avid = 80155822
+bvid = "BV1zJ411479H"
+title = "洛天依 原创《上山岗》"
+category = "VOCALOID·UTAU"
+create-time = 1576946703
+publish-time = 1576946702
+desc-base64 = "MS7miJHmnInml7blgJnkvJrmg7PjgILmtJvlpKnkvp3vvIzmiJbogIVWb2NhbG9pZENoaW5h77yM5a+55oiR5p2l6K+05piv5LuA5LmI77yfDQoyLuWmguaenOaYr+S4gOS9jeaci+WPi+eahOivne+8jOaYr+S4gOS9jeaAjuagt+eahOaci+WPi+WRou+8nw0KMy7or5XnnYDmg7PosaHkuobkuIDkuIvmiJHku6zlj6/og73kvJrmnInnmoTmlYXkuovjgIINCjQu6YKj5aW95YOP5bey57uP5piv5Liq5LiN55+t55qE5pWF5LqL5LqG44CCDQo1LuWQjOelneavj+S4gOS9jeaIkeeahOaci+WPi++8jOmDveiDveiusOi1t+S9oOacgOWInemBh+WIsFZvY2Fsb2lk5pe255qE5oSf5Yqo5oiW6ICF5b+r5LmQ44CCDQo2LuelneS9oOS7jeeEtuS6q+WPl+i/meenjeW/q+S5kOOAguelneWug+WvueS9oOS7jeeEtuWmguatpOmHjeimgeiAjOaWsOmynOOAgg0KNy7lgZrkuobkuKrmnIDkvY7pmZDluqbnmoTlrZfluZXjgILlt6bovrnnmoTlm77niYflpKfmpoLku6PooajkuobkuIDkupvmiJHoh6rlt7HnmoTlm57lv4bjgILlj6Tml6nlkbPogIzkuJTmlK/nprvnoLTnoo7vvIzkvYbmiJHnn6XpgZPkvaDku6zlr7nmiJHnmoTop4bpopHkuIDlkJHlvojlrr3lrrnnmoTvvIzlkZDlkZDlkZDlkZDlkZDjgIINCjgu5YaN5qyh56Wd56aP5L2g77yM5pyL5Y+L44CC"
+[[parts]]
+cid = 137169035
+name = "上山岗_Mux"
+length = 240
+resolution = "1920x1080"
+
+[upper]
+uid = 3379951
+name = "ilem"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110888.4310918
+plays = 1763423
+danmakus = 6727
+likes = 128888
+favorites = 74621
+coins = 125948
+comments = 12925

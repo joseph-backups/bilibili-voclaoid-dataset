@@ -1,0 +1,46 @@
+avid = 99162587
+bvid = "BV1R7411y7Ap"
+title = "【洛天依·乐正绫原创曲】67P/C-G【踏云社/去未知处系列】"
+category = "VOCALOID·UTAU"
+create-time = 1585308616
+publish-time = 1585308616
+desc-base64 = "5Y675pyq55+l5aSEwrdJbnRvIHRoZSBVbmtub3duCj09PT09PT09PT09PT09PT09PT09PT09PT09CjY3UC9DLUcK5puy77yaQWRhbV9LCuivje+8mueol+WtkArosIPvvJrnkKXmn68K5b2x77ya5p+z5bu25LmLCuetlu+8mueol+WtkApMb2dv77ya6LCc6K+t5aSN5YW0ClBob3RvIGNyZWRpdDogRVNBL1Jvc2V0dGEKCkRPSe+8mmh0dHBzOi8vZG9pLm9yZy8xMC4xMDM4L3M0MTU4Ni0wMjAtMTk2MC0yCj09PT09PT09PT09PT09PT09PT09PT09PT09CgrnvZHmmJPkupHvvJogaHR0cDovL211c2ljLjE2My5jb20vYWxidW0vODc3NTY3Mjgv"
+[[parts]]
+cid = 169263047
+name = "67P加logo版"
+length = 291
+resolution = "1920x1080"
+
+[[staff]]
+uid = 37723550
+title = "UP主"
+name = "-稗子-"
+
+[[staff]]
+uid = 1327031
+title = "作曲"
+name = "Adam_K"
+
+[[staff]]
+uid = 8072263
+title = "调校"
+name = "琥柯"
+
+[[staff]]
+uid = 4671829
+title = "视频制作"
+name = "柳柳柳柳延之"
+
+[upper]
+uid = 37723550
+name = "-稗子-"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110896.164195
+plays = 20307
+danmakus = 163
+likes = 2355
+favorites = 2230
+coins = 1561
+comments = 1046

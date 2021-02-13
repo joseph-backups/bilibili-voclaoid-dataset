@@ -1,0 +1,71 @@
+avid = 458369738
+bvid = "BV1K5411p7vR"
+title = "【洛天依原创曲】香草茶与黑咖啡"
+category = "VOCALOID·UTAU"
+create-time = 1608792146
+publish-time = 1608804005
+desc-base64 = "6LCB6K+05Zac5qyi5Y+q6IO95LqM6YCJ5LiA77yfCuasoui/juWFieS4tOaIkeS7rOeahOS4i+WNiOiMtu+8jOmmmeiNieiMtui/mOaYr+m7keWSluWVoe+8jOi/mOaYr+KApuKApumDveimgT8K6LaB552A5ZGz6YGT5Yia5aW977yM5rip5bqm5Yia5aW977yM5oiR55qE5aW977yM6K+35YWo6YOo5pS25aW977yBCgrigJRTdGFmZuKAlArjgIrpppnojYnojLbkuI7pu5HlkpbllaHjgIsK5ryU5ZSx77ya5rSb5aSp5L6dCuS9nOivjS/kvZzmm7Iv57yW5puy77ya5Lq65b2i5YWOIArosIPmoKHvvJrliqjngrlQIC8g5Lq65b2i5YWOIArmm7Lnu5jvvJpUSUQgIArmnI3oo4Xorr7orqHvvJrns5bns5YK57yW6Iie77yab2dhdGEt5aea5a2QCuWPluaZr++8mueah+WPlArkurrnianlu7rmqKHjgIHmnI3oo4Xlu7rmqKHvvJpLYWNoYQrmnI3oo4XotLTlm77vvJpOYW5vZGEK5Yqo5L2c77yaU2lrYQrliIbplZzjgIHmuLLmn5PjgIHlkI7mnJ/vvJpEQ2Fycm90CuebkeWItu+8mktpbnNhbWE="
+[[parts]]
+cid = 270343125
+name = "2020-12-22 香草茶与黑咖啡"
+length = 151
+resolution = "1920x1080"
+
+[[staff]]
+uid = 36081646
+title = "UP主"
+name = "洛天依"
+
+[[staff]]
+uid = 2382132
+title = "作曲"
+name = "人形兎"
+
+[[staff]]
+uid = 12481783
+title = "调校"
+name = "动次打次的动点p"
+
+[[staff]]
+uid = 2620182
+title = "视频制作"
+name = "Kinsama_K"
+
+[[staff]]
+uid = 6862829
+title = "视频制作"
+name = "Kacha_K"
+
+[[staff]]
+uid = 329374
+title = "视频制作"
+name = "Sika_斯卡"
+
+[[staff]]
+uid = 38889964
+title = "视频制作"
+name = "NANODA_SP"
+
+[[staff]]
+uid = 6085396
+title = "视频制作"
+name = "山沟里的胡萝卜"
+
+[[staff]]
+uid = 10878474
+title = "策划"
+name = "vsinger团队"
+
+[upper]
+uid = 36081646
+name = "洛天依"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610244631.0345979
+plays = 216769
+danmakus = 1314
+likes = 30785
+favorites = 18429
+coins = 20513
+comments = 1877

@@ -1,0 +1,56 @@
+avid = 669304136
+bvid = "BV1Ha4y177wX"
+title = "【洛天依x乐正绫】青玉案【南北组/七夕企划/彼间夕雨原创】"
+category = "VOCALOID·UTAU"
+create-time = 1598348431
+publish-time = 1598360722
+desc-base64 = "55uR5Yi277ya5Y+k55S76YeM55qE6K+XCuS9nOe8luOAgea3t+mfs++8muminOi+sOmRq0VyaWMK5L2c6K+N77yabW9yZXdoaXRlcuael+WiqOeZvQpwdu+8mueIhuiCneeahOeMqwrosIPmlZnvvJrmraPnlLXojbdQCuabsue7mO+8muWNl+eDm+WtkAoK5Zug5Li66K+N5L2c562W5YiS5pyq5oOz5aW9566A5LuL6ICM5Lit6YGT5LiK5a2m77yM5omA5Lul5oiR5Lus57uZ5LuW6auY5q2M5LiA5puy77ya5a+h5a+h5a+h5a+h5a+h5a+h5a+h5a+h5a+h5a+h5a+h5a+h5a+h5a+h5a+h5a+h5a+h5a+h5a+h5a+h5a+h5a+h5a+h5a+h5a+h5a+h5a+h5a+h5a+h5a+h5a+h5a+h5a+h5a+h5a+h5a+h5a+h5a+h5a+h5a+h5a+h5a+h5a+h5a+h5a+h5a+h5a+h5a+h5a+h5a+h5a+h"
+[[parts]]
+cid = 228694023
+name = "青玉案_full_final_3"
+length = 244
+resolution = "1920x1080"
+
+[[staff]]
+uid = 451138650
+title = "UP主"
+name = "彼间夕雨_Official"
+
+[[staff]]
+uid = 85350705
+title = "作词"
+name = "Morewhiter林墨白"
+
+[[staff]]
+uid = 272419317
+title = "作曲"
+name = "颜辰鑫Eric"
+
+[[staff]]
+uid = 383679066
+title = "调校"
+name = "正电荷P"
+
+[[staff]]
+uid = 8534324
+title = "曲绘"
+name = "南烛子_"
+
+[[staff]]
+uid = 27234245
+title = "视频制作"
+name = "爆肝的猫"
+
+[upper]
+uid = 451138650
+name = "彼间夕雨_Official"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110878.2022002
+plays = 2405
+danmakus = 12
+likes = 419
+favorites = 247
+coins = 133
+comments = 62

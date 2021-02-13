@@ -1,0 +1,29 @@
+create-time = 1610831341
+publish-time = 1610831341
+avid = 843724201
+bvid = "BV1Y54y1s7hz"
+title = "【言和翻唱】鲁冰花"
+category = "VOCALOID·UTAU"
+desc-base64 = "5ZSx77ya6KiA5LqU5bKBCuiwg++8mue6s+Wbm+WygQrlm77vvJrnuqXkuInlsoEKCumXqumXqueahOazquWFiemygeWGsOiKsQ=="
+[[parts]]
+cid = 283444787
+name = "【言和】鲁冰花"
+length = 142
+resolution = "1280x720"
+
+[[parts]]
+cid = 283444760
+name = "别  点  这  个"
+length = 50
+resolution = "1280x720"
+
+[uploader]
+uid = 26202150
+name = "Axs_"
+
+[snapshot]
+snapshot-time = 1612901902.8425393
+danmakus-count = 56
+likes-count = 420
+favorites-count = 643
+snapshot-by = "moe.lty.bgetlib/1.x"

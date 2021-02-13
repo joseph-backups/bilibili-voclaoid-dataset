@@ -1,0 +1,36 @@
+avid = 796774308
+bvid = "BV1jC4y1t7ac"
+title = "【洛天依原创】返夏【手书pv】"
+category = "VOCALOID·UTAU"
+create-time = 1597511734
+publish-time = 1597536959
+desc-base64 = "6K+N5puy6LCD77yaQ09QCuabsue7mC/op4bpopHvvJrllK9UdQrmvJTllLHvvJrmtJvlpKnkvp0KCuWcqOi/meS4quWkj+WkqeeahOi/lOagoeaXtuiKgu+8jOWtqeWtkOe7iOS6jueUn+S6hsOXcHbmmK/lj4zok53mgYvniLHlkJHvvIzlhZTlrZDlk6VwduWBmuW+l+a4heaWsOWPiOWlveeci++8jOeci+W+l+aIkeWPiOeUnOWPiOmFuOOAggrosKLosKLmmKjlpKnlpKflrrbnmoTnlJ/ml6XnpZ3npo/vvIzov5nmmK/lhZTlrZDlk6Xnu5nmiJHnmoTnlJ/otLrvvIzkuZ/nrpfmiJHku6znu5nlpKflrrbnmoTvvIjlvIDlrabvvInnpLzniankuobvvIE="
+[[parts]]
+cid = 224892541
+name = "返夏_final"
+length = 214
+resolution = "1280x720"
+
+[[staff]]
+uid = 396194
+title = "UP主"
+name = "COPY"
+
+[[staff]]
+uid = 481413
+title = "视频制作"
+name = "唯Tu"
+
+[upper]
+uid = 396194
+name = "COPY"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110886.295451
+plays = 178112
+danmakus = 911
+likes = 17835
+favorites = 12998
+coins = 11595
+comments = 2081

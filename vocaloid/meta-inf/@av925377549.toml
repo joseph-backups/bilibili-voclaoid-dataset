@@ -1,0 +1,46 @@
+avid = 925377549
+bvid = "BV16T4y1g77Y"
+title = "【洛天依原创】不死的宇宙【pv付】"
+category = "VOCALOID·UTAU"
+create-time = 1587991899
+publish-time = 1588249207
+desc-base64 = "5LqO5a6H5a6Z6ICM6KiA77yM5Lq657G755qE55Sf5q275LiN6L+H5LiA556sCuiwg+aVme+8muiLj+a+iOeEtgrmm7Lnu5jvvJrkuInlr7vlpJwK5puy57uY77ya5Lmd5aSpCuivjeabsue8lua3t+W9se+8mueLgumqqArmhJ/osKLlkITkvY1zdGFmZu+8ge+8geWkp+WutumDveaYr+elnuS7me+8ge+8gQrjgJDluLjlubTmi5vmlLbml6Dlgb/mm7Lnu5jluIjlkoxwduW4iO+8jOWSseS7rOS4gOi1t+eUqOeIseWPkeeUteKdpOOAkQrliY3kvZzvvJoK44CQ5LmQ5q2j57ur5Y6f5Yib5puy44CRUmVkIERyZXNz77yaQlYxZzc0MTE5N3FrCuOAkOa0m+WkqeS+neWOn+WIm+OAkeS7luWPquaYr+efreaagueahOeIseS6huaIkeS4gOS4i++8mkJWMWk3NDExNDdDVQ=="
+[[parts]]
+cid = 183966194
+name = "不死的宇宙"
+length = 254
+resolution = "1920x1080"
+
+[[staff]]
+uid = 4200071
+title = "UP主"
+name = "狂骨爱唱歌"
+
+[[staff]]
+uid = 32794556
+title = "调校"
+name = "苏澈然Sanroku_啥时候6级"
+
+[[staff]]
+uid = 287254999
+title = "曲绘"
+name = "九了个天天吧唧"
+
+[[staff]]
+uid = 5069049
+title = "曲绘"
+name = "是一只咕咕怪"
+
+[upper]
+uid = 4200071
+name = "狂骨爱唱歌"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110892.2672906
+plays = 26959
+danmakus = 170
+likes = 3057
+favorites = 2875
+coins = 1694
+comments = 394

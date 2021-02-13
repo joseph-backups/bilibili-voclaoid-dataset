@@ -1,0 +1,36 @@
+avid = 842823089
+bvid = "BV1e54y1z7XM"
+title = "【洛天依原创】HOME【手书PV】"
+category = "VOCALOID·UTAU"
+create-time = 1605237771
+publish-time = 1605252015
+desc-base64 = "5ryU5ZSx77ya5rSb5aSp5L6dCuivjeabsu+8mkNPUApwdu+8muWUr1R1CgrmlLblvZXkuo7jgIrllK95aeOAi0JWMW80NDExNDfkuK3vvIzlhZTlrZDlk6Xlv73nhLblsLHogp3lroxwduS6hu+8gQrlvZPmiJHku6znlKjnrJTloqjliJvpgKDlh7rkurrvvIhkYW/vvInnianvvIh6ae+8ie+8jOi6q+WcqOaVheS6i+S4reeahOWlueS7rOWmguaenOefpemBk+iHquW3seeahOWRvei/kOW3sue7j+iiq+WuieaOkuWlve+8jOS4jeiuuuS9nOS9leWKquWKm+mDveazqOWumuS6huaCsuaDqOeahOe7k+WxgO+8jOS8muS9nOS9leaEn+aDs++8nwrmnKzmm7Llj4jlkI3jgIrlj5HliIDkuYvliY3opoHkuInmgJ3jgIvvvIjvvJ/vvInvvIzphY3mlofop4Hor4TorrrjgII="
+[[parts]]
+cid = 255269882
+name = "home"
+length = 256
+resolution = "1920x1080"
+
+[[staff]]
+uid = 396194
+title = "UP主"
+name = "COPY"
+
+[[staff]]
+uid = 481413
+title = "视频制作"
+name = "唯Tu"
+
+[upper]
+uid = 396194
+name = "COPY"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110889.5897777
+plays = 62693
+danmakus = 287
+likes = 9014
+favorites = 6727
+coins = 7401
+comments = 723

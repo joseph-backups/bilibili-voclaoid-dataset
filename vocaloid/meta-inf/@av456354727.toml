@@ -1,0 +1,66 @@
+avid = 456354727
+bvid = "BV1K5411e7Cs"
+title = "【洛天依原创曲】牵一半"
+category = "VOCALOID·UTAU"
+create-time = 1594324142
+publish-time = 1594382435
+desc-base64 = "5L2c6K+NwrfkvZzmm7LCt+e8luabssK36LCD5pWZL+mYv+iJr+iJr+acqOWBpQpQVi/pmL/oia/oia/mnKjlgaUK55S75biIL+ingVBWCgrnibnliKvmhJ/osKIv5LqR5bed5aiY77yI6buRTllB56S+77yJCuS7peWPiiDmiYDmnInlj4LkuI7nlZnoqIDnmoTnsonkuJ3mnIvlj4vku6wKCuWmguaenOS9oOmXruaIkQrmnIDlpKfnmoTlv4PmhL/mmK/ku4DkuYgK5oiR5Lya5Zue562UCuaDs+WwhuS9oOeahOaJiwrnibXkuIDljYo="
+[[parts]]
+cid = 211080866
+name = "牵一半 PV 压制版"
+length = 247
+resolution = "1920x1080"
+
+[[staff]]
+uid = 112428
+title = "UP主"
+name = "阿良良木健"
+
+[[staff]]
+uid = 4385544
+title = "曲绘"
+name = "果酱酱jam"
+
+[[staff]]
+uid = 11842113
+title = "曲绘"
+name = "偶尤大肥羊"
+
+[[staff]]
+uid = 3557283
+title = "曲绘"
+name = "深谷Shintani"
+
+[[staff]]
+uid = 3193224
+title = "曲绘"
+name = "今天咬蛋填完坑了吗"
+
+[[staff]]
+uid = 21609980
+title = "曲绘"
+name = "冷蝉RenChain"
+
+[[staff]]
+uid = 229038
+title = "曲绘"
+name = "历历路路"
+
+[[staff]]
+uid = 696258
+title = "策划"
+name = "云川川川川打一个就哭"
+
+[upper]
+uid = 112428
+name = "阿良良木健"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110866.9182308
+plays = 260184
+danmakus = 2762
+likes = 26632
+favorites = 19997
+coins = 25739
+comments = 3893

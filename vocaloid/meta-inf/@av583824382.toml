@@ -1,0 +1,66 @@
+avid = 583824382
+bvid = "BV1Lz4y1D7nx"
+title = "【洛天依原创曲】异界美食评鉴【HB to 天依2020】"
+category = "VOCALOID·UTAU"
+create-time = 1594480113
+publish-time = 1594522845
+desc-base64 = "5ru05ru05ru0772e5rSb5aSp5L6d55Sf5pel5YWr5ZGo5bm077yM56ys5LqU5Y+35YWs5Lqk6L2m77yM546w5Zyo5q2j5byP5Y+R6L2m77yB77yBCuetluWIku+8muWknOa0ui/mtJvlpKnkvp3nm7jlhbPmlLbpm4bnq5kgIOivje+8muWInee5geiogCAg6LCD5qCh77yaQ3JldXplciAgUFbvvJrkuIPluqfmnIjmuZbmoaUgIOWIhumVnO+8muWPtuWtkOeMq+eMq+WEvyAgTU1E5Yqo55S777yaQUhL44Gh44KD44KTICBSUEfliqjnlLvvvJroj4roj4roj4roj4roj4roirHnjLkg5puy77ya5biM5pyb57Si5Lu75ZCI6LWECuWFtuS7llN0YWZm5Lus5Lya5Y+R5Zyo6K+E6K665Yy65bm25LiU572u6aG26LW35p2l772eCjHlj7flhazkuqQgQlYxdHM0MTF5N0ZZCjLlj7flhazkuqQgQlYxYng0MTFxN01yCjPlj7flhazkuqQgQlYxVHM0MTFIN3hSCjTlj7flhazkuqQgQlYxYng0MTFmN1hN"
+[[parts]]
+cid = 266329310
+name = "yishijiexin"
+length = 319
+resolution = "1920x1080"
+
+[[staff]]
+uid = 317866
+title = "UP主"
+name = "希望索任合资T-L-S"
+
+[[staff]]
+uid = 1856472
+title = "作词"
+name = "初繁言"
+
+[[staff]]
+uid = 3241451
+title = "调校"
+name = "Creuzer"
+
+[[staff]]
+uid = 34727551
+title = "策划"
+name = "洛天依相关收集站"
+
+[[staff]]
+uid = 2249958
+title = "视频制作"
+name = "七座月湖桥"
+
+[[staff]]
+uid = 789167
+title = "视频制作"
+name = "叶子猫猫儿"
+
+[[staff]]
+uid = 3046683
+title = "视频制作"
+name = "AHKちゃん"
+
+[[staff]]
+uid = 11491502
+title = "视频制作"
+name = "菊菊菊菊菊花猹"
+
+[upper]
+uid = 317866
+name = "希望索任合资T-L-S"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110871.6691036
+plays = 115668
+danmakus = 1103
+likes = 15477
+favorites = 11580
+coins = 10975
+comments = 1439

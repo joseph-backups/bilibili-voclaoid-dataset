@@ -1,0 +1,47 @@
+create-time = 1605897086
+publish-time = 1605931211
+avid = 842757415
+bvid = "BV1d54y1r77g"
+title = "【洛天依原创】百戏人间【昆山百戏盛典国风宣传曲】“戏传千载 风流永徘徊”"
+category = "VOCALOID·UTAU"
+desc-base64 = "4oCc57mB5aSN4oCd5oiW4oCc566A5rSB4oCd6YO95peg5rOV5qaC5ous44CCCuKAnOmrmOmbheKAneaIluKAnOS/muS/l+KAnemDveS4jeiDvemJtOWIq+OAggrkuI3mlaLkuZ/kuI3lsZHmtojkuqHvvIzkuI3oiI3kuZ/kuI3lupTmt6Hnga3jgIIK5Lq66Ze055m+5oiP77yM55m+5oiP5Lq66Ze044CCCuKAlOKAlOaAjuiDveW/mOWRou+8jOaYr+Wug+S7rO+8jOaJv+i9vei/h+S6uumXtOS4gOWIh++8jOmTreiusOS6hue5geWNjuS4lueVjOOAggoK55m+5oiP5Lq66Ze0CuetluWIku+8muWHnembque/vArkvZzmm7LvvJpwYXBhd+azoeazoQrnvJbmm7LvvJpwYXBhd+azoeazoQrkvZzor43vvJpWYWdhcnkK6LCD5qCh77ya57qz5YWw5a+76aOOCua8lOWUse+8mua0m+WkqeS+nQrlkI7mnJ/mt7fnvKnvvJrlhqzlrZAK5piG5bGx55m+5oiP55ub5YW45Li75Yqe5Y2V5L2N77ya5Lit5Y2O5Lq65rCR5YWx5ZKM5Zu95paH5YyW5ZKM5peF5ri46YOo44CB5rGf6IuP55yB5Lq65rCR5pS/5bqcCuWNj+WKnuWNleS9je+8muS4reWNjuS6uuawkeWFseWSjOWbveaWh+WMluWSjOaXhea4uOmDqOiJuuacr+WPuOOAgeaxn+iLj+ecgeaWh+WMluWSjOaXhea4uOWOheOAgeaYhuWxseW4guS6uuawkeaUv+W6nA=="
+[[parts]]
+cid = 257974415
+name = "哔哩吧啦5stv"
+length = 237
+resolution = "1920x1080"
+
+[[staff]]
+favorite-time = 12450
+uid = 893950
+title = "UP主"
+name = "纳兰寻风"
+
+[[staff]]
+favorite-time = 12450
+uid = 541480
+title = "作词"
+name = "写词的那个Vagary"
+
+[[staff]]
+favorite-time = 12450
+uid = 760265
+title = "混音"
+name = "冬子小哥"
+
+[[staff]]
+favorite-time = 12450
+uid = 18207096
+title = "作曲"
+name = "papaw泡泡"
+
+[uploader]
+uid = 893950
+name = "纳兰寻风"
+
+[snapshot]
+snapshot-time = 1612901950.2252603
+danmakus-count = 377
+likes-count = 5238
+favorites-count = 6594
+snapshot-by = "moe.lty.bgetlib/1.x"

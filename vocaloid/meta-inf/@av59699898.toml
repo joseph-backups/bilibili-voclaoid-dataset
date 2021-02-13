@@ -1,0 +1,66 @@
+avid = 59699898
+bvid = "BV1Gt41137Yu"
+title = "【初音未来×洛天依原创曲】梦幻共演·双星轨迹【星电感应系列/科幻电子】"
+category = "VOCALOID·UTAU"
+create-time = 1563453924
+publish-time = 1563454456
+desc-base64 = "5Y+M5a2Q5pif5piv5Lik6aKX6LSo6YeP5p6B5YW25o6l6L+R55qE5pif5L2T77yM5aW55Lus5b285q2k5ZC45byV77yM6Led56a75oGS5a6a77yM57uV5b285q2k5peL6L2s77yM5rC45LiN5YiG56a744CC5pel5paH54mI77yaYXY2NTgxNjk3Mwo85Y+M5pif6L2o6L+5Pu+8iOaYn+eUteaEn+W6lOezu+WIl++8iQrnvJbmm7Iv5re36Z+z77yaTFMqCuS9nOivje+8muiUq+Wwj+WdjyoK5L2c5puyL+etluWIki9QVi/lkozlo7DnvJblhpnvvJpDcmltc29u6IycCua8lOWUse+8muWInemfs+acquadpeOAgea0m+WkqeS+nQrosIPmoKHvvJrnurPlhbDlr7vpo44K5Lq66K6+77ya6Zi/5pK4Cuabsue7mO+8mlN1bUVyeeOAgeaxoOWyqSAKTG9nb++8mkdSU01BS08K5Lq65aOw54mIL1BW5o2i5rqQ6aKE6K6hOOaciOWInQrmjaLmupBQVuW4iO+8mlBpbm9FbGl6YQrvvIgq5Li65Y+M5a2Q5bqnc3RhZmbvvIkK5pif55S15oSf5bqU4oCU4oCU5rWq5ryr55qE56eR5bm755S15a2Q57O75YiXCuezu+WIl+aUtuiXj+Wkue+8mmh0dHBzOi8vd3d3LmJpbGliaWxpLmNvbS9tZWRpYWxpc3QvcGxheS9tbDQ0NDU3NTMyCu+8iOS4remXtOivremfs+WHuuiHquafkOWkluWbveaVmeaOiOWFs+S6juWPjOaYn+ezu+e7n+eahOa8lOiusmh0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9Z3BoMzlzTXJsTTQmdD0xN3PvvIk="
+[[parts]]
+cid = 104056746
+name = "双星轨迹1.0"
+length = 241
+resolution = "1920x1080"
+
+[[staff]]
+uid = 893950
+title = "UP主"
+name = "纳兰寻风"
+
+[[staff]]
+uid = 671842
+title = "作词"
+name = "蔫小坏"
+
+[[staff]]
+uid = 1887958
+title = "编曲"
+name = "LS=_="
+
+[[staff]]
+uid = 870832
+title = "视频制作"
+name = "墨白茜兔"
+
+[[staff]]
+uid = 2453318
+title = "曲绘"
+name = "SumEry光之咸鱼"
+
+[[staff]]
+uid = 694797
+title = "曲绘"
+name = "三茶踏鸽"
+
+[[staff]]
+uid = 38134498
+title = "曲绘"
+name = "机智的阿撸撸"
+
+[[staff]]
+uid = 381940985
+title = "参演"
+name = "Grsmako"
+
+[upper]
+uid = 893950
+name = "纳兰寻风"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110873.5382028
+plays = 338442
+danmakus = 3596
+likes = 24749
+favorites = 25149
+coins = 16852
+comments = 1093

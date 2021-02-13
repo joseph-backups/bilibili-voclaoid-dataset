@@ -1,0 +1,59 @@
+create-time = 1611230960
+publish-time = 1611244805
+avid = 798846570
+bvid = "BV1Wy4y117w7"
+title = "【洛天依原创】最终我成为了一束微光（双本家/PV付）"
+category = "VOCALOID·UTAU"
+desc-base64 = "5pyA57uI5oiR5oiQ5Li65LqG5LiA5p2f5b6u5YWJClN0YWZmIGxpc3QK562W5YiS77yaQWRkaWN0X+afkwrkvZzmm7LvvJrokKTlpLFIaW5hbm8K57yW5puy77ya6JCk5aSxSGluYW5vCuS9nOivje+8mkFkZGljdF/mn5MK6LCD5qCh77ya5ZOI5aOr5aWHUArmt7fpn7PvvJrlhrDlsbFfaHlvemFuLCDlk4jlo6vlpYdQCuabsue7mO+8mueUu+aJi+Wkp+mxvOmxvApQVu+8mueQieeSg+eMq+aYoOWDjwoK6bi95LqG6K645LmF77yM6KKr5ZCE56eN5YKs44CC56i/5a2Q5piv5rKh5pyJ5b+Y5LqG77yM5L2G5oC75Zug5Li65rKh5pyJ54G15oSf5bCx5bCG56yU5pS+5LiL5bCx6YCD6LWw5LqG44CC5oOz5YaZ5Ye65omT5Yqo5Lq65b+D55qE6K+N77yM5L2G5Y205oC76L+Y5pyJ5Lqb6Led56a744CC5pys6Lqr5piv5Yaz5a6a5Y+R5Y+m5LiA6aaW5puy5a2Q55qE77yM5L2G5piv6YKj6aaW5puy5a2Q5pyJ5Lqb5Y6f5Zug5bCx5Y+I6KKr5oiR5ZKV5LqG44CC6L+Z6YeM55yf55qE54m55Yir5a+55LiN6LW35ZKM5oSf6LCi6KKr5oiR5o+Q5Ye655qE5ZCE56eN6KaB5rGC5LiA5bqm6Ieq6Zet55qE6bG86ICB5biI5ZKM5p6c6YWx6ICB5biI44CC5oiR55yf55qE6Z2e5bi45oSf6LCi77yB5pys5qyh5L6d5pen5L2c5Li65Yia5q2l5YWl5ZyI5a2Q55qEVVDnrZbliJLkvJrlvojlubznqJrvvIzkuIDliIfpg73mmK/oh6rlt7HmkbjntKLnmoTmnaXnmoTvvIzmsqHmnInnu5nlh7rlhbfkvZPopoHmsYLlr7zoh7TkuKTkvY3ogIHluIjot5/nnYDmiJHnmoTorqHliJLkuI3lgZznmoTov5Tlt6XkvJrmhJ/liLDlvojmirHmrYnvvIHmiJHvvIHmhJ/osKJzdGFmZumHjOWFqOmDqOeahOiAgeW4iOOAguWunumZheS4iuWlveWHoOS9jeiAgeW4iOmDveaYr+aIkeeci+WIsOS8mOengOeahOS9nOWTgeWQjuS4gOebtOaJgOWQkeW+gOedgO+8jOayoeaDs+WIsOS7iuWkqeiDveacieW5uOWSjOiAgeW4iOS7rOS4gOi1t+WQiOS9nO+8jOS5n+mdnuW4uOeahOaEn+iwouWHoOS9jeiAgeW4iOiDveW4puaIkeS4gOi1t+eOqeOAggoK5b6u5YWJ5ZWK77yM5Lmf56Wd5ZCs5Yiw6L+Z6aaW5q2M55qE5aSn5a626IO95aSf5oiQ5Li65LiA5p2f5b6u5YWJ77yM54Wn5Lqu6Ieq5bex44CC"
+[[parts]]
+cid = 285482287
+name = "2977"
+length = 284
+resolution = "1920x1080"
+
+[[staff]]
+favorite-time = 12450
+uid = 49692128
+title = "UP主"
+name = "Addict_染"
+
+[[staff]]
+favorite-time = 12450
+uid = 567708
+title = "作曲"
+name = "萤失Hinano"
+
+[[staff]]
+favorite-time = 12450
+uid = 529083
+title = "调校"
+name = "哈士奇P"
+
+[[staff]]
+favorite-time = 12450
+uid = 367321
+title = "混音"
+name = "冰山_hyozan"
+
+[[staff]]
+favorite-time = 12450
+uid = 20010362
+title = "曲绘"
+name = "画手大鱼鱼"
+
+[[staff]]
+favorite-time = 12450
+uid = 281804983
+title = "视频制作"
+name = "琉璃猫映像"
+
+[uploader]
+uid = 49692128
+name = "Addict_染"
+
+[snapshot]
+snapshot-time = 1612502781.3416378
+danmakus-count = 52
+likes-count = 2499
+favorites-count = 2904
+snapshot-by = "moe.lty.bgetlib/1.x"

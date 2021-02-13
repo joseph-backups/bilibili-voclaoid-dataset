@@ -1,0 +1,81 @@
+avid = 65878935
+bvid = "BV1a4411q7xK"
+title = "【洛天依原创曲】Time Traveler【心画Project】【原创PV付】"
+category = "VOCALOID·UTAU"
+create-time = 1567069871
+publish-time = 1567069871
+desc-base64 = "4oCc5bCG57q45LiK6L+e57u15paH5a2X5bC95oOF6aWx6KeIIOWNtOS4jeWPiuS6juaIkeecvOS4reaYn+ays+eDgua8q+KAnQrkurrlo7DmnKzlrrbvvJphdjY5NTAzNTA2CuetluWIku+8muiQvemqngrkvZzor43vvJrokL3pqp4g56eL5bCP6IOWCuaWh+ahiO+8muiQvemqngrkvZwv57yW5puyL+S8tOWlj+a3t+mfs++8mumXuemXueS4tgrkurrlo7Dmt7fpn7PvvJrlsI/mrKfOqQrosIPmlZnvvJpTYXBwaGlyZSDmt7HmtbfkuYvpsb8K5ryU5ZSx77ya5rSb5aSp5L6dCuabsue7mO+8muWFremdkiDlkI7kupXkuIDnsq4KUFbvvJrnjovpmL/lsYHvvIhUU+aYoOeUu++8iQrnvo7lt6XvvJrnu77nq7nvvIhUU+aYoOeUu++8iQrljY/lipvvvJrnq7nmtaNyZWJvb3TvvIhUU+aYoOeUu++8iQoK5Liq5Lq65LiT6L6R44CK5b+D55S744CL5pS25b2V5puy77yM5Zac5qyi55qE6K+d6K+35aSa5aSa5YWz5rOo5ZWKfuWIq+W/mOS6huS4iei/nu+8ge+8ge+8gQ=="
+[[parts]]
+cid = 114282122
+name = "链接的序列1_4"
+length = 240
+resolution = "1920x1080"
+
+[[staff]]
+uid = 171467126
+title = "UP主"
+name = "落騫er"
+
+[[staff]]
+uid = 15217717
+title = "作词"
+name = "秋小胖啾了你一下"
+
+[[staff]]
+uid = 11870424
+title = "编曲"
+name = "丨闹闹丶丨"
+
+[[staff]]
+uid = 2156649
+title = "混音"
+name = "小欧O"
+
+[[staff]]
+uid = 11272072
+title = "曲绘"
+name = "氵六青"
+
+[[staff]]
+uid = 228317905
+title = "曲绘"
+name = "后井一粮"
+
+[[staff]]
+uid = 4521386
+title = "调校"
+name = "深海之鱿"
+
+[[staff]]
+uid = 5945437
+title = "调校"
+name = "Sapphire-9"
+
+[[staff]]
+uid = 10866983
+title = "视频制作"
+name = "王阿屁-"
+
+[[staff]]
+uid = 3676394
+title = "参演"
+name = "绾竹-"
+
+[[staff]]
+uid = 299732210
+title = "参演"
+name = "-TS映画-"
+
+[upper]
+uid = 171467126
+name = "落騫er"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110877.679701
+plays = 188770
+danmakus = 968
+likes = 20454
+favorites = 21005
+coins = 16369
+comments = 840

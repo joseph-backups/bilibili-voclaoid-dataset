@@ -1,0 +1,26 @@
+avid = 68176813
+bvid = "BV12J411g7KK"
+title = "【洛天依】酒醉的蝴蝶"
+category = "VOCALOID·UTAU"
+create-time = 1568801825
+publish-time = 1568801825
+desc-base64 = "6YWS6YaJ55qE6J206J22IAoK6K+N77ya5YiY5rW35LicCuabsu+8muWImOa1t+S4nArnvJbmm7LvvJrlhq/kuLkK5Y6f5ZSxOiDltJTkvJ/nq4sK57+75ZSxOua0m+WkqeS+nQrosIPmt7c65oiRCgrphZLphonnmoTlpKnkvp0h"
+[[parts]]
+cid = 118169550
+name = "酒醉的蝴蝶"
+length = 203
+resolution = "1920x1080"
+
+[upper]
+uid = 332983338
+name = "御绫军执法总长"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110878.7968445
+plays = 10736
+danmakus = 29
+likes = 600
+favorites = 403
+coins = 209
+comments = 147

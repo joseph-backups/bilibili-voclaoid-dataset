@@ -1,0 +1,26 @@
+avid = 93656313
+bvid = "BV1XE411s7uG"
+title = "【初音未来】 Hand in Hand (Magical Mirai ver.)【MAGICAL MIRAI 2015】"
+category = "VOCALOID·UTAU"
+create-time = 1583343419
+publish-time = 1583343420
+desc-base64 = "5Yid6Z+z5pyq5p2l4oCcTUFHSUNBTCBNSVJBSSAyMDE14oCd5a6Y5pa5TXVzaWMgVmlkZW8KCuS9nOivjeOAgeS9nOabsuOAgee8luabsu+8mmt6KGxpdmV0dW5lKQrop4bpopHjgIHmj5LnlLvvvJrnqYLltosKCk1BR0lDQUwgTUlSQUnmtLvliqjlrpjmlrnkuLvpobXihpJodHRwOi8vbWFnaWNhbG1pcmFpLmNvbS8="
+[[parts]]
+cid = 159881200
+name = "MMMV0701mp4_ニコニコ用"
+length = 320
+resolution = "1920x1080"
+
+[upper]
+uid = 399918500
+name = "初音未来_Crypton"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110893.1167603
+plays = 350977
+danmakus = 11044
+likes = 47021
+favorites = 31438
+coins = 32726
+comments = 2228

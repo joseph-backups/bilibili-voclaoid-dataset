@@ -1,0 +1,26 @@
+avid = 71892573
+bvid = "BV1xE41167yG"
+title = "【洛天依】 左手指月"
+category = "VOCALOID·UTAU"
+create-time = 1571568930
+publish-time = 1571568930
+desc-base64 = "5pG46bG85LitLi4uLi4uLi4u5aSp5aSq5Ya3Li4uLi4u5omL5Ya75YO15LqGLi4uLi4uLi4u"
+[[parts]]
+cid = 124571474
+name = "左手指月"
+length = 184
+resolution = "1920x1080"
+
+[upper]
+uid = 332983338
+name = "御绫军执法总长"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110883.2103765
+plays = 4453
+danmakus = 22
+likes = 411
+favorites = 228
+coins = 124
+comments = 54

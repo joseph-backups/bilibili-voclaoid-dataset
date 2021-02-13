@@ -1,0 +1,26 @@
+avid = 63365632
+bvid = "BV1p4411Q7W8"
+title = "【乐正绫原创】希望之名【史诗管弦/原创PV付】【踏云社】"
+category = "VOCALOID·UTAU"
+create-time = 1565613234
+publish-time = 1565776823
+desc-base64 = "4oCc5aSp6ZmF5peg5a+777yM6Ieq6YCg5aSp5qKv6ICM5LiK77yb5paH5piO5beo5aGU562R5LqO5Y+M5omL56m66I2h44CC4oCdCueUseiCpeeaguiPjOa8lOWUseeahOS6uuWjsOacrOWutueJiO+8mmF2NjMzNjgxMTgKCuS9nOabsi/nvJbmm7Iv5re36Z+z77yaQVBU6aOe5p6cCuetluWIki/kvZzor43vvJrliJ3nuYHoqIAK6LCD5pWZ77ya5Z2Q5qCHUArmm7Lnu5jvvJrpmrwKUFbvvJrnvqHmhZXnmoTopoHmrbsK5ryU5ZSx77ya5LmQ5q2j57urCuWHuuWTge+8mui4j+S6keekvgrlhbPkuo7kurrnsbvvvIzlhbPkuo7luIzmnJvvvJvlhbPkuo7lnKjov5nkuIDmi5nliqPnmoTniannp43ohJHlhoXvvIzkuI3mlq3pl6rnjrDov4fnmoTvvIznu4blsI/ljbTmmI7kuq7nmoTlvq7lhYnjgILmiJHku6znu5nkurrnsbvmlofmmI7lj7LlhpnkuobkuIDpppbmrYzjgII="
+[[parts]]
+cid = 110003797
+name = "1(1)"
+length = 321
+resolution = "1280x720"
+
+[upper]
+uid = 1856472
+name = "初繁言"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110875.9754136
+plays = 41343
+danmakus = 289
+likes = 3775
+favorites = 4104
+coins = 2978
+comments = 1748

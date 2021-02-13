@@ -1,0 +1,66 @@
+avid = 711355152
+bvid = "BV1yD4y1S7vt"
+title = "【言和原创曲】甜度71.1%"
+category = "VOCALOID·UTAU"
+create-time = 1594386625
+publish-time = 1594465874
+desc-base64 = "5Yaw5YeJ55qE5p+g5qqs6IuP5omT57yT6Kej5LqG5aSP5a2j55qE6Ze354Ot77yM5LiN55+l6YGT5Y2I5ZCO55qE6aOO5Lya5LiN5Lya56Kw5ben6K6p5L2g5ZCs6KeB6L+Z6aaW5q2M77yfCuWmguWQjOeis+mFuOawlOazoeiIrOWwj+iAjOe7huWvhueahOW/g+aAne+8jOijueedgOW+rueUnOeahOW/teaDs++8jOWSjOS6m+iuuOacn+W+heOAggoK4oCU4oCUc3RhZmbigJTigJQK5L2c5puy77ya5ZGz57SgCuS9nOivje+8muWInee5geiogCAK6LCD5qCh77yaQ3JldXplcgrnlLvluIjvvJrllK9UdQrop4bpopHvvJpLaW5fZW4K5Yi25L2c5Lq6JuebkeWItu+8muS6uuW9ouWFjgrlh7rlk4HvvJpWc2luZ2Vy"
+[[parts]]
+cid = 210997124
+name = "言和-甜度71.1%"
+length = 251
+resolution = "1920x1080"
+
+[[staff]]
+uid = 406948276
+title = "UP主"
+name = "言和"
+
+[[staff]]
+uid = 35595309
+title = "作曲"
+name = "味素_"
+
+[[staff]]
+uid = 1856472
+title = "作词"
+name = "初繁言"
+
+[[staff]]
+uid = 3241451
+title = "调校"
+name = "Creuzer"
+
+[[staff]]
+uid = 481413
+title = "曲绘"
+name = "唯Tu"
+
+[[staff]]
+uid = 267441
+title = "视频制作"
+name = "小忻Kin_en"
+
+[[staff]]
+uid = 2382132
+title = "策划"
+name = "人形兎"
+
+[[staff]]
+uid = 10878474
+title = "策划"
+name = "vsinger团队"
+
+[upper]
+uid = 406948276
+name = "言和"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110881.4372308
+plays = 229639
+danmakus = 3484
+likes = 24559
+favorites = 16540
+coins = 16473
+comments = 3000

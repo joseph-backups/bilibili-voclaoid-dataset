@@ -1,0 +1,26 @@
+avid = 541992262
+bvid = "BV1ci4y1u7JX"
+title = "【初音ミク／中文字幕】世界【DECO*27×堀江晶太(kemu)】【手机游戏「世界计划 多彩舞台 feat.初音ミク」主题曲】"
+category = "VOCALOID·UTAU"
+create-time = 1598433570
+publish-time = 1598433570
+desc-base64 = "aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj05dnlJUFdCZVJlcwpERUNPKjI3w5floIDmsZ/mmbblpKooa2VtdSkgLSDjgrvjgqvjgqQgZmVhdC4g5Yid6Z+z44Of44KvCuaJi+acuua4uOaIj+OAjuODl+ODreOCuOOCp+OCr+ODiOOCu+OCq+OCpCDjgqvjg6njg5Xjg6vjgrnjg4bjg7zjgrjvvIEgZmVhdC4g5Yid6Z+z44Of44Kv44CP5Li76aKY5puy5LmL5LiACuWPpuWkluS4gOmmluS4u+mimOabsuS4ukdpZ2HDl01pdGNoaWVN55qE44CM44Ov44O844Ov44O844Ov44O844Or44OJKOWTh+WTh+S4lueVjCnjgI0gQlYxbno0eTFRN1VKCgrkvZzor406IERFQ08qMjcK5L2c5puyOiDloIDmsZ/mmbblpKooa2VtdSkK57yW5puyOiBSb2Nrd2VsbAoKTVbliLbkvZwgYnkgT1RPSVJPCuWvvOa8lDogWXVtYSBTYWl0bwrnvJboiJ46IOOCgeOCjeOBoeOCkwpzdHVkaW86IOODkOODq+OCueagquW8j+S8muekvgoK44CQ5a6Y5pa5572R56uZ44CRCmh0dHBzOi8vcGpzZWthaS5zZWdhLmpwCuOAkOWumOaWuVR3aXR0ZXLjgJEKaHR0cHM6Ly90d2l0dGVyLmNvbS9wal9zZWthaQoKKEMpIFNFR0EKKEMpIENyYWZ0IEVnZyBJbmMuIERldmVsb3BlZCBieSBDb2xvcmZ1bCBQYWxldHRlCihDKSBDcnlwdG9uIEZ1dHVyZSBNZWRpYSwgSU5DLiB3d3cucGlhcHJvLm5ldA=="
+[[parts]]
+cid = 229094371
+name = "DECO-27×堀江晶太(kemu) - セカイ feat. 初音ミク_Mux_x264"
+length = 258
+resolution = "1920x1080"
+
+[upper]
+uid = 13148307
+name = "Project_SEKAI资讯站"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110870.2539468
+plays = 22718
+danmakus = 16
+likes = 1579
+favorites = 1781
+coins = 374
+comments = 61

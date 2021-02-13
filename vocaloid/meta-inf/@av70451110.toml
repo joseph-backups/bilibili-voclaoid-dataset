@@ -1,0 +1,26 @@
+avid = 70451110
+bvid = "BV1RJ411F7yt"
+title = "【洛天依】今天唱起浏阳河【原创曲PV付】"
+category = "VOCALOID·UTAU"
+create-time = 1570437717
+publish-time = 1570437717
+desc-base64 = "5Lul5q2k5Y6f5Yib5puy55uu56Wd56aP56WW5Zu95LiD5Y2B5bKB55Sf5pel5b+r5LmQ77yBCuWQjOaXtuiHtOaVrOa1j+mYs+ays+WOn+absuS4u+WIm+WboumYn++8gQoK5L2c5puyL+e8luabsi/osIPmlZnvvJrnuq/nmb1QCuS9nOivje+8mueMm+iZjuiUt+iWhwrmvJTllLHvvJrmtJvlpKnkvp0K6LCD5pWZ77ya5oqYdgrnq7nnrJvvvJrog6HlpJrlpJrvvIjlvoXmjaLmupDvvIkK5LqM6IOh77ya5LqM6IOh5aa5CueQteeQtu+8muWwj+S6jOaipgrmm7Lnu5jvvJrmloflsoEKUFbvvJrpu5HoibLlsI/nmb3lhZQK5Ye65ZOB77ya5a6J5b6X6Z+z5LmQ"
+[[parts]]
+cid = 122053976
+name = "今天唱起浏阳河"
+length = 261
+resolution = "1920x1080"
+
+[upper]
+uid = 123372
+name = "純白"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110880.0492454
+plays = 75125
+danmakus = 375
+likes = 7888
+favorites = 6637
+coins = 5953
+comments = 1014

@@ -1,0 +1,26 @@
+avid = 42875755
+bvid = "BV1Kb411674b"
+title = "【洛天依&言和原创曲】大学生活真快乐（原创PV付）"
+category = "VOCALOID·UTAU"
+create-time = 1549532804
+publish-time = 1549532803
+desc-base64 = "5L2c5ZOB57G75Z6L77ya5Y6f5Yib5puyCumZpOS6huabsue7mO+8muaui+WFg1AK5puy57uY77ya5o2h6IKJ5p2l5ZCDCuKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlOKAlArkvLTlpY/vvJpodHRwczovL211c2ljLjE2My5jb20vc29uZz9pZD0xMzQ2NTI3MDQwCueUu+W4iOW+ruWNmu+8mmh0dHBzOi8vd2VpYm8uY29tL3UvMjUzNTk0MzM1NQrigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJQK5aSn5a625paw5bm05b+r5LmQ44CCCuatpOabsueMrue7meaJgOacieWNs+WwhuatpeWFpeWkp+WtpuOAgeWvueWkp+WtpuWFhea7oeaGp+aGrOeahOS6uu+8m+W3sue7j+Wkp+WtpuWcqOivu+OAgeiiq+aKmOejqOW+l+elnuW/l+S4jea4heeahOS6uu+8m+aXqeW3suatpeWFpeekvuS8muOAgeaAgOW/teWkp+WtpueUn+a0u+eahOS6uuOAggrluIzmnJvkvaDku6zlkKzlvpflvIDlv4PjgII="
+[[parts]]
+cid = 75182350
+name = "大学生活真快乐"
+length = 201
+resolution = "1920x1080"
+
+[upper]
+uid = 524461
+name = "残元P"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110865.5757258
+plays = 144669
+danmakus = 1295
+likes = 13815
+favorites = 12238
+coins = 9427
+comments = 1775

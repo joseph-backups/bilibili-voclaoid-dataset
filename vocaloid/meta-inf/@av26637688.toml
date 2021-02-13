@@ -1,0 +1,26 @@
+avid = 26637688
+bvid = "BV1Ts411H7xR"
+title = "【洛天依原创曲】未完成的·乐章【生贺3号】【2018洛天依生贺曲】"
+category = "VOCALOID·UTAU"
+create-time = 1531312806
+publish-time = 1531324859
+desc-base64 = "5ryU5ZSx77ya5rSb5aSp5L6d77yI6JCM77yJ77yM5rSb5aSp5L6d77yI5Yed77yJCuS9nOivje+8muiiluiTnS/pmL/oia/oia/mnKjlgaUK5L2c5puyL+e8luabsu+8mumYv+iJr+iJr+acqOWBpQrosIPmlZnvvJpPUVEK562W5YiS77ya5aSc5rS6IC8g5rSb5aSp5L6d55u45YWz5pS26ZuG56uZCgror6bnu4ZTVEFGRuWQjeWNleingeivhOiuuuOAgg=="
+[[parts]]
+cid = 45814511
+name = "未完成的乐章 最终版PV 压制版"
+length = 328
+resolution = "1920x1080"
+
+[upper]
+uid = 112428
+name = "阿良良木健"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110854.9367092
+plays = 314669
+danmakus = 9807
+likes = 18945
+favorites = 25380
+coins = 24654
+comments = 11687

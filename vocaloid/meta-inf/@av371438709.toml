@@ -1,0 +1,46 @@
+avid = 371438709
+bvid = "BV1MZ4y1g7DP"
+title = "【洛天依原创】光"
+category = "VOCALOID·UTAU"
+create-time = 1594983650
+publish-time = 1595044851
+desc-base64 = "44CM5oOz56C45o6J6Ze56ZKf5Lii5byA5b+Z56KM5aCG56ev55qE6YeN6YeP77yM5YaN5LmY552A5omr5oqK6L+9552A5aSp6ams6aOe57+U44CC44CNIAoK6K+NL+absi/nvJbvvJrlhazlhZQgIArosIPvvJrmmbTmtbcv5YWs5YWUICAK57uY77ya5pm05rW3ICAK6KeG6aKR77ya5aa557O75Y6oIArlrZfvvJrplb/lrok="
+[[parts]]
+cid = 213502435
+name = "光-0604_Mux"
+length = 228
+resolution = "1920x1080"
+
+[[staff]]
+uid = 2374053
+title = "UP主"
+name = "公兔"
+
+[[staff]]
+uid = 3092339
+title = "曲绘"
+name = "晴海再不画画就剁手"
+
+[[staff]]
+uid = 2041907
+title = "视频制作"
+name = "妹系厨_NichRabbit"
+
+[[staff]]
+uid = 225689826
+title = "字幕"
+name = "长安肚子饿了"
+
+[upper]
+uid = 2374053
+name = "公兔"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110861.545899
+plays = 79174
+danmakus = 354
+likes = 9727
+favorites = 7777
+coins = 5421
+comments = 837

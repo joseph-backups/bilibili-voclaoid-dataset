@@ -1,0 +1,51 @@
+avid = 288096232
+bvid = "BV1nf4y1i7f7"
+title = "【乐正绫原创】满天星（沙雕教/HB to 溱绫西陌）"
+category = "VOCALOID·UTAU"
+create-time = 1607772147
+publish-time = 1607788810
+desc-base64 = "4p2A5L2c6K+N77ya6I2j54SJbGF2YQrinYDmm7LnvJbosIPmt7flvbHvvJrmmJ/okbUK4p2A5puy57uY77ya5rSL6IqLIFN1eWFUcmFjZQrinYDlsIHpnaIvTG9nby/op4bpopHljY/lipvvvJrntoTpo44KCuelneaIkeS7rOeahOWwj+iKseWQjOWtpueUn+aXpeW/q+S5kA=="
+[[parts]]
+cid = 265874904
+name = "【绫】满天星"
+length = 177
+resolution = "1920x1080"
+
+[[staff]]
+uid = 8192640
+title = "UP主"
+name = "星葵"
+
+[[staff]]
+uid = 14665819
+title = "作词"
+name = "荣焉lava"
+
+[[staff]]
+uid = 2468984
+title = "曲绘"
+name = "鲜洋芋"
+
+[[staff]]
+uid = 11218480
+title = "曲绘"
+name = "酥牙"
+
+[[staff]]
+uid = 13651772
+title = "视频制作"
+name = "綄风"
+
+[upper]
+uid = 8192640
+name = "星葵"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110856.5259244
+plays = 39423
+danmakus = 154
+likes = 5148
+favorites = 4605
+coins = 3764
+comments = 470

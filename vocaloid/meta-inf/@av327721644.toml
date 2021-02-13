@@ -1,0 +1,71 @@
+avid = 327721644
+bvid = "BV1MA411b7zy"
+title = "【乐正绫原创曲】赞美太阳！炸裂前的凤凰挽歌《日心陨落》【科幻电音/星电感应系列】"
+category = "VOCALOID·UTAU"
+create-time = 1586692938
+publish-time = 1586692938
+desc-base64 = "5LuK5pelI+S5kOato+e7q+S6lOWRqOW5tOeUn+aXpSPvvIzkuqbmmK/lpI3mtLvoioLjgILnlKjnlLXpn7PkuablhpnlpKrnqbrlj7Lor5fvvIzmnaXop4Hor4Hov5nlnLrnm5vlpKfnmoTmtoXmp4PjgILnlJ/lkb3or57nlJ/kuI7mtojpgJ3vvIzljp/lp4vkuI7njrDku6PvvIzmr4Hnga3kuqbmlrDnlJ/vvIznlJ/ml6Xlv6vkuZDvvIzpmL/nu6sK5Y+M6KeG6KeSIOS5iyDlpKrpmLPnr4fvvJvlnLDnkIPnr4fvvJphdjg3NjY2OTY3ICDnuqLlt6jmmJ/nr4fvvJphdjk4NDIwMDgK5pif55S15oSf5bqU57O75YiX5ZCI6ZuG77yaaHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL21lZGlhbGlzdC9kZXRhaWwvbWw0NDQ1NzUzMgoKPOaYn+eUteaEn+W6lFByb2plY3TCt+WkqumYs+WdoOiQveevhz4K5Ye65ZOB77ya6ZO25rKz6ISR5rSe5Lit5b+D77yI5pif55S15oSf5bqUUHJvamVjdO+8iQrnvJbmm7LvvJpCb3l1YW5QCuS9nOabsu+8muWiqOeZveiMnOWFlArkvZzor43vvJrolKvlsI/lnY8K5ryU5ZSx77ya5LmQ5q2j57urCuiwg+agoe+8muWRqOWwj+ialQrmt7fpn7PvvJrlsI/mrKfOqQpQVu+8mum7keiJsuWwj+eZveWFlEhQX0wK5puy57uY77ya6IuN5bKpL+mbqOacqOacqC/oja/nlKjkuZnng68KCuKAlOKAlOWkqumYs+atu+S6huOAguW5uOi/kOeahOaYr++8jOi/mOacieS6uua0u+edgO+8iOaRmOiHquOAiua1gea1quWcsOeQg+OAi++8ieW4puedgOWkqumYs+ezu+WUr+S4gOeahOaWh+aYju+8jOWllOWQkeeUn+WRveW7tue7reeahOW4jOacmwoK5rWq5ryr55qE56eR5bm755S15a2Q57O75YiX4oCU4oCUCuaNleaNieW5tuWIm+mAoOWFsem4oyDlsZ7kuo7kvaDmiJHnmoTigJzmmJ/nlLXmhJ/lupTigJ0KCumDqOWIhuinhumikei1hOaWmeadpea6kO+8mgpGYWNlcyBvZiBBZnJpY2EgLSBUaGUgU2FoYXJhClRJTUVMQVBTRSBPRiBUSEUgRlVUVVJFXyBBIEpvdXJuZXkgdG8gdGhlIEVuZCBvZiBUaW1l"
+[[parts]]
+cid = 187954926
+name = "修正过PV"
+length = 215
+resolution = "1920x1080"
+
+[[staff]]
+uid = 10996289
+title = "UP主"
+name = "周小蚕"
+
+[[staff]]
+uid = 527801602
+title = "策划"
+name = "银河脑洞中心"
+
+[[staff]]
+uid = 23634400
+title = "编曲"
+name = "BoyuanP_Official"
+
+[[staff]]
+uid = 671842
+title = "作词"
+name = "蔫小坏"
+
+[[staff]]
+uid = 870832
+title = "作曲"
+name = "墨白茜兔"
+
+[[staff]]
+uid = 694797
+title = "曲绘"
+name = "三茶踏鸽"
+
+[[staff]]
+uid = 4869837
+title = "曲绘"
+name = "药用乙烯"
+
+[[staff]]
+uid = 2156649
+title = "混音"
+name = "小欧O"
+
+[[staff]]
+uid = 10028608
+title = "视频制作"
+name = "黑色小白兔HP_L"
+
+[upper]
+uid = 10996289
+name = "周小蚕"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110859.3433733
+plays = 138366
+danmakus = 625
+likes = 11122
+favorites = 10595
+coins = 6041
+comments = 1362

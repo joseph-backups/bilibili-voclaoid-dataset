@@ -1,0 +1,56 @@
+avid = 89744912
+bvid = "BV1f7411j7Ei"
+title = "【洛/言/绫/尘】♥恋与术术人♥ VCF4魅力来袭【原创pv付】"
+category = "VOCALOID·UTAU"
+create-time = 1581959294
+publish-time = 1581998751
+desc-base64 = "44CQ5Y6f5ZSx77ya5p2O6KKB5p2wL+abvuaDnCAg57yW5puy77ya5L2V6K+X6JKZICDor43kvZzvvJrpu4TnhLbjgJEK4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCUCuKZpeWJp+acrC/mt7cv6LCD77yI5LmQ5q2j57ur77yJ77ya5rqx57ur6KW/6ZmMCuKZpeiwg++8iOa0m+WkqeS+ne+8ie+8muaYn+iRtQrimaXosIPvvIjoqIDlkozvvInvvJpDcmV1emVyCuKZpeiwg++8iOaYn+WwmO+8ie+8muWdkOagh3AK4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCUCuKdgOabsue7mOWkp+Wkp++8mua0i+iKiwrinYDop4bpopHlpKflpKfvvJrntoTpo44K4p2A5aW55L+p55qE6ZO66ImyL+eri+e7mOWKqOaAgeW3peWFt+S6uu+8mua6see7qy/mmJ/okbUK4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCUCui/n+adpeeahOaDheS6uuiKguW/q+S5kH4KY3Doh6rnlLHlv4Por4Eg5aSn5a626ZqP5oSP57uE5ZCIfgrpmYTluKbnlLvlk63mtIvoiovnmoTlpbPlm6LogZTliqjvvJphdjg4NzY1MjY3"
+[[parts]]
+cid = 153350183
+name = "讲真的1.0（可能换源）"
+length = 239
+resolution = "1920x1080"
+
+[[staff]]
+uid = 4113629
+title = "UP主"
+name = "溱绫西陌"
+
+[[staff]]
+uid = 8192640
+title = "调校"
+name = "星葵"
+
+[[staff]]
+uid = 3241451
+title = "调校"
+name = "Creuzer"
+
+[[staff]]
+uid = 9416977
+title = "调校"
+name = "坐标P"
+
+[[staff]]
+uid = 2468984
+title = "曲绘"
+name = "鲜洋芋"
+
+[[staff]]
+uid = 13651772
+title = "视频制作"
+name = "綄风"
+
+[upper]
+uid = 4113629
+name = "溱绫西陌"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110891.8273613
+plays = 890944
+danmakus = 17423
+likes = 53448
+favorites = 57310
+coins = 42635
+comments = 4100

@@ -1,0 +1,46 @@
+avid = 70952657
+bvid = "BV1EE411Z7wm"
+title = "测测你的战斗力有几鹅【洛天依原创】鹅哥的歌【表情包PV】大鹅模拟器同人曲/米库喵"
+category = "VOCALOID·UTAU"
+create-time = 1570860791
+publish-time = 1570874432
+desc-base64 = "5Y675bm055qEYuermeiQjOiKguacn+mXtOS4gOmmliPnq7npvKDnha7nhp/mnK8jYXYzMzY3NjkwNyDokIzokIzlk5Lnq7npvKDnmoTlkITnp43mrbvms5XokIzljJbkuobkuI3lsJHlsI/kvJnkvLTlkKd+CuS7iuW5tOeruem8oOaNouS6huWkp+m5he+8jOi/meWbnuWPr+iDveimgeaNouS9oOatu+S6huWRos+IKO+9gOKIh8K0Kc+ICgrkvZzor43jgIHkvZzmm7LjgIHnvJbmm7LjgIHmt7fpn7PvvJpA5Yid5b+D56S+57Gz5bqT5Za1IO+8iOWXr+WRgE55Ye+8ieOAgeaxquS7lO+8iEBXT09GRVJfIO+8iSAgfCAgIOiwg+aVmeOAgeWIhumVnO+8mkDliJ3lv4PnpL7nsbPlupPllrUK5o+S55S777yaQOaftOiJvi15YWwgICB8ICAg6KeG6aKR77yaQEFQYXNzYnlEcmVnIO+8iEAtVFPmmKDnlLstIO+8iQoK5ri45oiP6KeG6aKR6IqC6YCJ6IeqCuOAkOiAgUXjgJHlj7LkuIrmnIDlnY/vvIHlpKfmr43puYXmqKHmi5/lmajvvIFhdjY5NDc0NjkyCuOAkOe9l+axieino+ivtOOAkei/meWPqum5heacieeCueS4nOilv34gYXY3MDUxNjYzMgrjgJDmlaPkurrjgJHmiJHmmK/lpKfpuYXmiJHotoXlh7Yg6KGX5aS05qiq552A6LWwIGF2Njk5MDEyNDYK5oSf6LCi5ZCE5L2NVVDkuLvvvIE="
+[[parts]]
+cid = 123004927
+name = "测测你的战斗力有几鹅【洛天依原创】鹅哥的歌【表情包PV】大鹅模拟器同人曲"
+length = 189
+resolution = "1920x1080"
+
+[[staff]]
+uid = 25666164
+title = "UP主"
+name = "米库喵"
+
+[[staff]]
+uid = 174907
+title = "曲绘"
+name = "柴艾-yal"
+
+[[staff]]
+uid = 8020246
+title = "视频制作"
+name = "APassbyDreg"
+
+[[staff]]
+uid = 291735725
+title = "编曲"
+name = "音乐人WOOFER"
+
+[upper]
+uid = 25666164
+name = "米库喵"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110880.6809883
+plays = 168637
+danmakus = 333
+likes = 6219
+favorites = 4609
+coins = 3733
+comments = 450

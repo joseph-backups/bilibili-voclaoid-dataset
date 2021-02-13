@@ -1,0 +1,41 @@
+avid = 712410991
+bvid = "BV1JD4y1d71S"
+title = "【洛天依原创】空【pv付】"
+category = "VOCALOID·UTAU"
+create-time = 1602605458
+publish-time = 1602673233
+desc-base64 = "44CM5ZCs5Yiw77yM6K+35Zue562U44CC44CNCuepuuaXoOS4gOS6uueahOaYn+eQg++8jOWQkeedgOWuh+WumeWPkemAgeeUteazoueahOWtqeWtkO+8jOaYr+WQpuacieS4gOWkqeS8muW+l+WIsOa4qeaflOeahOWbnuW6lOWRou+8nwrigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJQK6K+N5puy57yW6LCDcHbvvJrmoLzlrZAK5Zu+77ya5LiA5qCR576K576KCuWUse+8mua0m+WkqeS+nQrmkq3miqXphY3pn7PvvJrmoqjlrZAK5bCd6K+V552A5YaZ5LqG5LiA6aaW5a6H5a6Z5Li76aKY55qE5bCP5pWF5LqLfuWNgeS4gOeIhuiCneabsuWtkOWQjuWPiOeIhuiCneS4pOWkqeWBmuS6hui/mOeul+WDj+agt+eahHB244CCCuaYr+WQrOS6huWQtOmdkuWzsOiAgeW4iOWSjOWUkOaxiemchOiAgeW4iOeahOWuh+WumeebuOWFs+eahOS9nOWTgeacieaJgOaEn+aCn+S4jueBteaEn37ku5bku6znnJ/nmoTlpKrmo5LkuoblkZzlkZwK6L+Z6YeM6KaB5oSf6LCi576K576K57qm56i/77yB5oS/5oSP57uZ5oiR6L+Z5Liq5a2k5a+hdXDnlLvmm7Lnu5jvvIzmiJHkuZ/mmK/mnInlg4/moLdwdueahOS6uuS6hu+8iOivtOi1t+adpei/meaYr+S4jeaYr+aIkeesrOS4gOasoeWBmuWHuuadpeato+W4uOeahHB25ZOI5ZOI5ZOI77yJCuifueifueaiqOWtkO+8geWcqOm4veWtkOaZmuacn+eahOaXtuWAmei/mOiDveaLv+WHuuiuvuWkh+W4ruaIkeW9leWls+WjsOaSreaKpe+8jOS4gOebtOS7peadpeeahOaSreaKpeaLheW9k+i+m+iLpuWVpuWTiOWTiOWTiArmlYXkuovlvoDlkI7lj6/og73ov5jmnInkuKTpppbmrYznmoTlhoXlrrnvvIzkuI3ov4fpgqPpg73mmK/lkI7or53llaZ+5biM5pyb5aSn5a625ZCs5q2M5byA5b+D77yM5oSf6LCi5p2l5ZCs5q2M77yB"
+[[parts]]
+cid = 247916417
+name = "空_成品_修正"
+length = 201
+resolution = "1920x1080"
+
+[[staff]]
+uid = 13059937
+title = "UP主"
+name = "Grid格子君"
+
+[[staff]]
+uid = 5035378
+title = "曲绘"
+name = "一树羊羊"
+
+[[staff]]
+uid = 7405975
+title = "配音"
+name = "梨子烫Liztom"
+
+[upper]
+uid = 13059937
+name = "Grid格子君"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110882.1385503
+plays = 29921
+danmakus = 243
+likes = 4379
+favorites = 3351
+coins = 2391
+comments = 636

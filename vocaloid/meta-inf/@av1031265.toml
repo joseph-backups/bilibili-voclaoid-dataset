@@ -1,0 +1,26 @@
+avid = 1031265
+bvid = "BV1qs411Z7dm"
+title = "【洛天依原创】八秒之语【PoKeR】【一图流pv付】【咏吟轩】"
+category = "VOCALOID·UTAU"
+create-time = 1497418720
+publish-time = 1395994177
+desc-base64 = "6Ieq5Yi2IOabsue8luiwg+Wtl+W5lXB2OuaJk+eJjOeahOWInemfsyDor43vvJrmnY/oirHljIXlrZDvvIjliY3mrrXvvIkr5omR5YWL77yI5ZCO5q6177yJIOe7mOWbvu+8mlN5YSDlpb3kuYXmsqHmnInmipXnqL/kuoblkaLjgILjgILov5nmrKHmg7PmnaXkuIDlj5HlronpnZnogIzlj4jnqbrngbXkuIDkupvnmoTmm7LlrZDjgILov5nmrKHlpKnkvp3lj4jmiJDkuoblraTljZXnmoTkuIDkuKrkurrlkaLvvIjlv4Pnlrw="
+[[parts]]
+cid = 1492887
+name = ""
+length = 300
+resolution = "540x360"
+
+[upper]
+uid = 312381
+name = "PoKeR_扑克"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110842.7031724
+plays = 57248
+danmakus = 1390
+likes = 812
+favorites = 6562
+coins = 1140
+comments = 292

@@ -1,0 +1,26 @@
+avid = 17961420
+bvid = "BV1hW411B7so"
+title = "【洛天依V4】Feel Your Dream 2018 2.0【重编曲翻唱】"
+category = "VOCALOID·UTAU"
+create-time = 1515124851
+publish-time = 1515124849
+desc-base64 = "5L2c5ZOB57G75Z6LOiDljp/liJvmm7IK6LCD5pWZOiDnuq/nmb1QCuS9nOivjTogdHJpaQrkvZzmm7I6IHRyaWkK57yW5puyL+a3t+mfszog57qv55m9UArmm7Lnu5g6IOebkApQVjog57O76LGG5rKZCueugOS7i+ihpeWFhTog4oCc5oiR5oOz6KaB5Yqq5Yqb5ZSx5q2M77yB4oCdCgrlpKnkvp3nu4jkuo7ku45WM+i/m+WMluWIsFY05ZWm77yM6YeN57yW5puy6LCD5pWZ5LqG6L+Z6aaW5Ye66YGT5LiT6L6R6YeM5pyA5Zac5qyi55qE5q2M77yM5biM5pyb5aSn5a625Lya5Zac5qyi77yBCueUqOeahOWjsOW6k+aYr+a0m+WkqeS+nVY06JCMClBW5bey5o2i5rqQ"
+[[parts]]
+cid = 31592664
+name = ""
+length = 244
+resolution = "640x360"
+
+[upper]
+uid = 123372
+name = "純白"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110851.1556582
+plays = 133913
+danmakus = 1507
+likes = 6039
+favorites = 12217
+coins = 9517
+comments = 2613

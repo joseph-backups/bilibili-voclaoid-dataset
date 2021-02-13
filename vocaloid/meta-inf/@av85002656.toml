@@ -1,0 +1,26 @@
+avid = 85002656
+bvid = "BV1G7411k7cx"
+title = "【心华翻唱】横竖撇点折（2020拜年祭）"
+category = "VOCALOID·UTAU"
+create-time = 1579954716
+publish-time = 1579998658
+desc-base64 = "5Lyg6YCB6Zeo77yaYXY3ODk3NzczNgrkvIHliJLvvJrlubPlronlpJznmoTlmanmoqYK5L2c5puy77yacGFwYXfms6Hms6EK5L2c6K+N77yaU3QK5Ye65ryU77ya5Y+25bKaCua8lOWUse+8muexs+eZvQrpn7PpopHlkI7mnJ/vvJrnlLHliqkK5LqM6IOh77ya5by55qOJ6Iqx55qE5ZOl5ZOlCuinhumike+8mum6puS5i+ivl+OAgeW5s+WuieWknOeahOWZqeaipgrliIbplZzvvJrpmLPliLsK5Yqo55S757Sg5p2Q77ya5Zub5qyh5pa55Yqo55S7CuinkuiJsuiuvuiuoe+8mktpZWVkCuWNj+WKm++8muafv+WtkAoK57+75ZSx77ya5b+D5Y2OCuiwg+agoe+8muWKo+iAheaIkQrmt7fpn7PvvJrlhqzlrZAKCu+8iOW/g+aDheWkjeadgi5qcGfvvInlubbmsqHmnInku4DkuYjliKvnmoTmg7Por7TnmoTor53vvIzmlrDlubTlv6vkuZDjgII="
+[[parts]]
+cid = 145347201
+name = "【心华翻唱】横竖撇点折"
+length = 239
+resolution = "1920x1080"
+
+[upper]
+uid = 893950
+name = "纳兰寻风"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110890.3914227
+plays = 190009
+danmakus = 2156
+likes = 10850
+favorites = 8513
+coins = 9585
+comments = 31583

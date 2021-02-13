@@ -1,0 +1,36 @@
+avid = 288066254
+bvid = "BV1pf4y1i7sB"
+title = "【言和翻唱】左手指月（cover 萨顶顶）"
+category = "VOCALOID·UTAU"
+create-time = 1607667697
+publish-time = 1607680816
+desc-base64 = "5bem5omL5oyH5pyICuS9nOabsu+8muiQqOmhtumhtgrkvZzor43vvJrllrvmsZ8K57yW5puy77ya5YiY6IOh6L2244CB5bi455+z56OKCuWOn+WUse+8muiQqOmhtumhtgoK57+75ZSx77ya6KiA5ZKMCuaRuOmxvO+8mue6s+WFsOWvu+mjjuOAgee6pemqqOW9k+W9kgoK5bem5omL5LiA5Y+q6bihCuWPs+aJi+S4gOWPqum4rQrog4zkuIrov5jog4znnYDkuIDkuKrog5blqIPlqIM="
+[[parts]]
+cid = 265263216
+name = "【言和翻唱】左手指月（cover 萨顶顶）"
+length = 231
+resolution = "1920x1080"
+
+[[staff]]
+uid = 893950
+title = "UP主"
+name = "纳兰寻风"
+
+[[staff]]
+uid = 26202150
+title = "曲绘"
+name = "Axs_"
+
+[upper]
+uid = 893950
+name = "纳兰寻风"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110855.930193
+plays = 48683
+danmakus = 207
+likes = 6625
+favorites = 4295
+coins = 3730
+comments = 471

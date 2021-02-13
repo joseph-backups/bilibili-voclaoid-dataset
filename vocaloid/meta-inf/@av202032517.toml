@@ -1,0 +1,56 @@
+avid = 202032517
+bvid = "BV14h411R7B1"
+title = "【洛天依·乐正绫原创曲】反抗之城【PV付/砖厂浪人】【南北止战Project】"
+category = "VOCALOID·UTAU"
+create-time = 1600062798
+publish-time = 1600079098
+desc-base64 = "5L2g55qE6Lqr5ZCO77yM55Sx5oiR5a6I5oqkLi4uCuOAkFNUQUZG44CR6K+N5puy77ya56CW5Y6C5rWq5Lq6L+WQieS7lu+8mkxpdHRlcnp5L+a3t+mfs++8mue6r+eZvS/osIPmlZnvvJpDT1Av5Lq66K6+77yaU2V0c3V5YS/mm7Lnu5jvvJroj4zliIAvUFbvvJrmn7Plu7bkuYsvVuWutua8lOWUse+8mua0m+WkqeS+nSDkuZDmraPnu6sK5YmN5L2c44CK5ZCv56iL5LmL5YWJ44CLQlYxVkU0MTFXN0VDCuaDheiKguingeivhOiuuuWMuuOAggpQUzror7jlkJvvvIzmlL7lvIPlubvmg7PvvIzlh4blpIfmiJjmlpcKUFMyOuelneafkOibpOiHquW3seS4ieWNgeeUn+W/q3d3dw=="
+[[parts]]
+cid = 235207848
+name = "【洛天依 乐正绫】反抗之城"
+length = 256
+resolution = "1920x1080"
+
+[[staff]]
+uid = 2664345
+title = "UP主"
+name = "砖厂浪人"
+
+[[staff]]
+uid = 43855
+title = "演奏"
+name = "litterzy"
+
+[[staff]]
+uid = 123372
+title = "混音"
+name = "純白"
+
+[[staff]]
+uid = 396194
+title = "调校"
+name = "COPY"
+
+[[staff]]
+uid = 1649228
+title = "曲绘"
+name = "菌刀Poi"
+
+[[staff]]
+uid = 4671829
+title = "视频制作"
+name = "柳柳柳柳延之"
+
+[upper]
+uid = 2664345
+name = "砖厂浪人"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110851.5989926
+plays = 88275
+danmakus = 312
+likes = 11043
+favorites = 8697
+coins = 5887
+comments = 1041

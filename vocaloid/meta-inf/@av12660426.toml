@@ -1,0 +1,68 @@
+avid = 12660426
+bvid = "BV17x411W7Cc"
+title = "【纯白P】删稿合集"
+category = "VOCALOID·UTAU"
+create-time = 1501192426
+publish-time = 1501192427
+desc-base64 = "5Yig6L+H5LiN5bCR56i/5a2Q77yM5aSn6YOo5YiG5piv5Zug5Li65a+55LqO5oqV56i/6LSo6YeP5LiN5aSq5ruh5oSP55qEDQrkvYbmmK/mnIDov5HmhJ/op4nov5nmoLflgZrlpKroh6rnp4HkuobvvIzmr5Xnq5/lpKfpg6jliIbpg73mmK/lkIjkvZznmoTnqL/ku7bvvIzmiYDku6Xov5jmmK/lhrPlrprkuIrkvKDkuIDkuIsNCuWmguaenOS7peWQjui/mOacieWIoOeov++8jOW6lOivpeS5n+S8muWcqOi/memHjOabtOaWsA=="
+[[parts]]
+cid = 20825525
+name = "【初音未来】杏花的季节【翻唱曲Remix】"
+length = 128
+resolution = "640x360"
+
+[[parts]]
+cid = 20847187
+name = "【纯白】野子(ft.御江)【Remix】"
+length = 175
+resolution = "640x360"
+
+[[parts]]
+cid = 20825521
+name = "【洛天依】夏日恋歌【原创曲PV付】"
+length = 250
+resolution = "640x360"
+
+[[parts]]
+cid = 20825523
+name = "【洛天依】神明关错了另一扇门【原创曲PV付】"
+length = 123
+resolution = "640x360"
+
+[[parts]]
+cid = 20847188
+name = "【纯白&洛天依】五月梦【改编曲】"
+length = 136
+resolution = "640x360"
+
+[[parts]]
+cid = 20825527
+name = "【乐正绫】映山绫【翻唱曲PV付】"
+length = 248
+resolution = "640x360"
+
+[[parts]]
+cid = 20847185
+name = "【纯音乐】Evans【Remix】"
+length = 137
+resolution = "500x280"
+
+[[parts]]
+cid = 20825529
+name = "【洛天依】唱给雅音宫羽Ⅱ【原创曲PV付】"
+length = 320
+resolution = "640x360"
+
+[upper]
+uid = 123372
+name = "純白"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110847.5368361
+plays = 46922
+danmakus = 553
+likes = 880
+favorites = 3742
+coins = 1316
+comments = 813

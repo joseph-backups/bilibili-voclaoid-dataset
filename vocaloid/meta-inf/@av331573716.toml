@@ -1,0 +1,23 @@
+create-time = 1612516156
+publish-time = 1612516156
+avid = 331573716
+bvid = "BV1PA411g7Ux"
+title = "【言和翻唱】姐就是女王【哈士奇】"
+category = "VOCALOID·UTAU"
+desc-base64 = "5Y6f5puy77ya546L6I6O6I6OLeWnkOWwseaYr+Wls+eOiwrkvZzor43vvJrlv4Pmn5QK5L2c5puy77ya5L2V6bmPCuiwg+WjsO+8muWTiOWjq+WlhwrkuI3ooYzllabnjrDlnKjohJHlrZDph4zpg73mmK/ov5nkuKo="
+[[parts]]
+cid = 293183801
+name = "Single"
+length = 221
+resolution = "1920x1080"
+
+[uploader]
+uid = 529083
+name = "哈士奇P"
+
+[snapshot]
+snapshot-time = 1612901921.282193
+danmakus-count = 235
+likes-count = 1652
+favorites-count = 2866
+snapshot-by = "moe.lty.bgetlib/1.x"

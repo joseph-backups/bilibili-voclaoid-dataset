@@ -1,0 +1,26 @@
+avid = 458353257
+bvid = "BV1Q5411H7w5"
+title = "【洛天依】杀死那个石家庄人--2分30秒后超级燃的天依！"
+category = "VOCALOID·UTAU"
+create-time = 1609280659
+publish-time = 1609280659
+desc-base64 = "5L2c5ZOB57G75Z6L77ya57+76LCDCuWOn+absu+8muS4h+iDvemdkuW5tOaXheW6ly3mnYDmrbvpgqPkuKrnn7PlrrbluoTkuroK6LCD5pWZ77yaSWFzb25QCuabsue7mO+8mklhc29uUArlhbbku5bmiYDmnInvvJpJYXNvblAKKElhc29uUOaYr+aIkeiHquW3sXfvvIkKCuaYr+ecn+ato+eahOaWsOS6unDkuLvlkaLvvIEK77yI5pqX56S65LiJ6L+eIDpEKQ=="
+[[parts]]
+cid = 272565575
+name = "杀死那个石家庄人-洛天依"
+length = 345
+resolution = "1280x720"
+
+[upper]
+uid = 127362344
+name = "IasonAi"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610244629.632465
+plays = 130
+danmakus = 0
+likes = 18
+favorites = 8
+coins = 4
+comments = 6

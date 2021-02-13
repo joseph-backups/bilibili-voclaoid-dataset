@@ -1,0 +1,26 @@
+avid = 6098166
+bvid = "BV1is41167sf"
+title = "【星尘原创】曙光 {First Drop}"
+category = "VOCALOID·UTAU"
+create-time = 1497431206
+publish-time = 1472622519
+desc-base64 = "5YmN6KGM5ZCn77yB5ZCR552A5pyA6ICA55y855qE6YKj5p2f5YWJ77yBClN0YWZm5b6u5Y2a77yaQEZpcnN0X0Ryb3DjgIFATXJ0d2xpZ2h044CBQOWlh+W8gueUnOmjn1JhcmVDYW5keeOAgUBEcm9wX+mbqC3mnIjjgIFA6JCn6K+6LXNodW5v77yIUOerme+8muiQp+ivui1zaHVub++8ieOAgUBIdWh2X25ld3PvvIhQ56uZ77yaSHVodi7vvInjgIFA5bCP5qynzqnjgIIK5puy5a2Q5LiL6L2977yaIGh0dHA6Ly81c2luZy5rdWdvdS5jb20veWMvMzE3MzYxMi5odG1sP3FxLXBmLXRvPXBjcXEuYzJjIOWbvuWMheivt1Dnq5nlr7vmib7nu5jluIh+CkZpcnN0IERyb3Dpmo/ml7bmrKLov47pq5jmvZzlipvoibrmnK/ogIXnmoTliqDimYLlhaXvvZ4wdjAg77yI6K+356eB5L+h5LiK5pa55b6u5Y2a772e77yJCuabsuivpuaDheivt+ingeivhOiuuuWMuu+9ng=="
+[[parts]]
+cid = 22850766
+name = ""
+length = 275
+resolution = "640x360"
+
+[upper]
+uid = 9592421
+name = "雨-月"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110874.0087447
+plays = 22945
+danmakus = 908
+likes = 1142
+favorites = 3048
+coins = 2715
+comments = 976

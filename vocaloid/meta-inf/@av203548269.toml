@@ -1,0 +1,47 @@
+create-time = 1610272492
+publish-time = 1610286301
+avid = 203548269
+bvid = "BV1Kh41127Mz"
+title = "【洛天依原创】一首很安静的歌-余光水印"
+category = "VOCALOID·UTAU"
+desc-base64 = "5Zac5qyi5b6I5a6J6Z2Z55qE5q2MCnBz77ya5q+P5qyh5oOz5paH5qGI6YO95piv5oqY56OoCgrmvJTllLHvvJrmtJvlpKnkvp0K6LCD5qCh77ya54+K5rSLUArmt7fpn7PvvJrni67omY4K5puy57uY77ya5Yeg5bqm5pil5p2P6Iqx5YS/5a+SCuS9nOe8luivje+8muael+WtkOa6qgpQVu+8mua4uOWPtuS4jeS8mua4uArnrZbliJLvvJrml7blsJo="
+[[parts]]
+cid = 280669201
+name = "余光水印定稿"
+length = 216
+resolution = "1920x1080"
+
+[[staff]]
+favorite-time = 12450
+uid = 57251621
+title = "UP主"
+name = "Nc时尚"
+
+[[staff]]
+favorite-time = 12450
+uid = 8959156
+title = "调校"
+name = "珊洋P"
+
+[[staff]]
+favorite-time = 12450
+uid = 14721376
+title = "混音"
+name = "狮虎受P"
+
+[[staff]]
+favorite-time = 12450
+uid = 1759502
+title = "视频制作"
+name = "游叶游不动"
+
+[uploader]
+uid = 57251621
+name = "Nc时尚"
+
+[snapshot]
+snapshot-time = 1612899026.0120406
+danmakus-count = 39
+likes-count = 1449
+favorites-count = 1722
+snapshot-by = "moe.lty.bgetlib/1.x"

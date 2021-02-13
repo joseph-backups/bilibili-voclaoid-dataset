@@ -1,0 +1,32 @@
+avid = 30347368
+bvid = "BV1oW411D7G6"
+title = "【中文翻调】声【心华 feat.心明】"
+category = "VOCALOID·UTAU"
+create-time = 1535262323
+publish-time = 1535262326
+desc-base64 = "5pys5a6277yaYXYxNDUwODA0Mg0K5Lit5paH5pys5a6277yaYXYyOTg1Nzc1Nw0K6LCD5pWZ77yaY2lsbGlh77yI5pyJ5Y+CdnNxeO+8ieOAgeS8iuawtF9VcnlhbuOAgeaXtua8qg0K6K+N77ya5rW35LuU5YS/X0t5bw0K5a2X5bmV77ya5pe25ryqDQoNCuS4gOebtOaDs+iwg+i/memmluadpeedgO+8jOWcqOW8gOWtpuWJjeaRuOS6huS4gOeovyDku6Xlj4rmhJ/osKLkvIrkvJjogIHluIjnmoTljY/lipvosIPmt7d4DQrjgJDmnKzmnaXmiZPnrpfmipVrZXNlcmHkuK3nv7vnmoTkvYbmmK/mt7fpn7PngrjkuobmiYDku6Xov5jkuI3kvJrmipUoKQ0KKuazqOaEj+atpOeov+Wll+eUqOS6hmPnpZ7nmoTmnInlj4Llt6XnqIvvvIzmnKzkurrku4XkvZzkuobmm7/mjaLmrYzor43nrYnlvq7lsI/lt6XkvZzjgIINCuaJgOS7peivt+S4jeimgeWcqOivhOiuuuWMuuWPkeKAnHVw5Li76LCD5b6XWFhY4oCd57G755qE55WZ6KiA44CC"
+[[parts]]
+cid = 53149829
+name = "伊水_Uryan&时漪 心华 feat.心明 ver"
+length = 278
+resolution = "1280x720"
+
+[[parts]]
+cid = 52945002
+name = "时漪 心华 ver"
+length = 278
+resolution = "1280x720"
+
+[upper]
+uid = 12949519
+name = "時漪"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110858.106035
+plays = 3360
+danmakus = 12
+likes = 215
+favorites = 221
+coins = 205
+comments = 85

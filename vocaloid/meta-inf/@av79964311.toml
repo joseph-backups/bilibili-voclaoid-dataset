@@ -1,0 +1,36 @@
+avid = 79964311
+bvid = "BV16J411x7nS"
+title = "【SNOW MIKU 2020】暖暖的星 / 春卷饭 feat. 初音未来【原创MV】"
+category = "VOCALOID·UTAU"
+create-time = 1576836698
+publish-time = 1576922433
+desc-base64 = "4oCcU05PVyBNSUtVIDIwMjDigJ3lrpjmlrnkuLvpopjmm7IKCgrilqDkuLvpopjmm7IKCuaaluaalueahOaYn++8iOOBveOBi+OBveOBi+OBruaYn++8iSAvIOaYpeWNt+mlrSBmZWF0LiDliJ3pn7PmnKrmnaUKTHlyaWNzICYgTXVzaWM6IOaYpeWNt+mlre+8iOOBr+OCi+OBvuOBjeOBlOOBr+OCk++8iSBA5pil5Y236aWtaGFydW1ha2lnb2hhbgpNb3ZpZTogU3R1ZGlvIEdvaGFuCgoK4pag4oCcU05PVyBNSUtVIDIwMjDigJ3mg4XmiqUK4oCc6Zuq5pyq5p2l77yI5Yid6Z+z5pyq5p2l77yJ4oCd5aOw5o+05Yas5a2j5YyX5rW36YGT55qE55ub5YW477yBCi3mtLvliqjmnJ/pl7TvvJoyMDIw5bm0MuaciDTml6XvvIjmmJ/mnJ/kuozvvInvvZ4xMeaXpe+8iOaYn+acn+S6jO+8iQot6K+m5oOF44CQIGh0dHBzOi8vc25vd21pa3UuY29tLzIwMjAg44CR"
+[[parts]]
+cid = 136849091
+name = "ぽかぽかの星MV_FINAL3MIX1220_03_b"
+length = 250
+resolution = "1920x1080"
+
+[[staff]]
+uid = 399918500
+title = "UP主"
+name = "初音未来_Crypton"
+
+[[staff]]
+uid = 251134371
+title = "作曲"
+name = "春卷饭harumakigohan"
+
+[upper]
+uid = 399918500
+name = "初音未来_Crypton"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110887.1615481
+plays = 412431
+danmakus = 3369
+likes = 37260
+favorites = 33692
+coins = 36685
+comments = 2123

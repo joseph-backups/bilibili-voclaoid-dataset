@@ -1,0 +1,15 @@
+cookies = "bilibili.com_cookies.txt"
+tempdir = "tmp"
+cdn = 0
+chunk-size = 4096
+
+[vocaloid]
+id = 467191862
+flags.data = 1
+flags.aiff = 1
+flags.flac = 1
+copy.base="F:\\OneDrive - 66CCFF\\哔哩哔哩备份计划\\dotMOE\\Vocaloid 2.0 (Current)"
+copy.replace.dash="DASH Video"
+copy.replace.aiff="Apple Playable Audio"
+copy.replace.flac="FLAC Audio"
+copy.replace.data="Dataset"

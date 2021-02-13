@@ -1,0 +1,26 @@
+avid = 330667868
+bvid = "BV1sA411s7RR"
+title = "《我想要把你的头給按到水里》【洛天依原创曲】"
+category = "VOCALOID·UTAU"
+create-time = 1608314745
+publish-time = 1608314745
+desc-base64 = "6K+N5puy57yW6LCD5re377yaMTc3Cue7mO+8muS4gOagkee+iue+igrmhJ/osKLnvornvornmoTnlLvvvIHvvIHvvIHlj6/niLHlj6/niLHlj6/niLHlj6/niLHlj6/niLHlj6/niLHlj6/niLHlj6/niLHlj6/niLHlj6/niLEK5LmL5YmN55qE566A5LuL5pi+5b6X5oiR6K+d5aW95aSa5omA5Lul6L+Z5qyh5bCx5LiN5YaZ5LqG"
+[[parts]]
+cid = 268283895
+name = "我想要把你的頭給按到水裡"
+length = 120
+resolution = "1280x720"
+
+[upper]
+uid = 100018065
+name = "177_Official"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110860.2808058
+plays = 88409
+danmakus = 137
+likes = 10726
+favorites = 7814
+coins = 2618
+comments = 567

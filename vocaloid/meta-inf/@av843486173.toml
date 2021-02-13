@@ -1,0 +1,51 @@
+avid = 843486173
+bvid = "BV1w54y147gC"
+title = "【洛天依原创】最初的距离"
+category = "VOCALOID·UTAU"
+create-time = 1609419550
+publish-time = 1609459212
+desc-base64 = "5Y+q5piv5LiA6aaW6L275p2+55qE5oGL5puy77yM5biM5pyb5aSn5a626IO95ZCs5Liq5byA5b+D5bCx5aW944CC6L+Z6YeM5piv5peg6IGK5bCP5bCP5LuZ44CC5ZyoVkPov5nlnIjlrZDpg73lkYbkuoblv6s55bm05ZWm77yM5LiA55u05rKh6Ieq5bex55qE5L2c5ZOB44CC6L+Z5qyh57uI5LqO5oaL5Ye65p2l5LqG77yI5YW25a6e5bey57uP5piv56ys5LiJ6aaW5LqG77yM56yR44CC5Y+m5aSW5Lik6aaW5puy5a2Q6YO95Y2h5ZyoUFbmsqHog73mipXnqL/jgILvvInov5nmrKHljprpopzmi5zmiZjlkajliIrnu4TluK7lv5nmipXnqL/vvIzluIzmnJvlpKflrrbkuI3opoHku4vmhI/vvIzluIzmnJvlpKflrrbmnInmnLrkvJrog73lkKzliLDlj6blpJbkuKTpppbmm7LlrZDlkKfjgIIK5L2c6K+NOiDml6DogYrlsI/lsI/ku5kK5L2c5puyOkNoYW1iZXLmqZkK57yW5puyOiDmr5vmr5vomasK5puy57uYOuiWh+e6uArosIPmlZk65q+b5q+b6JmrCua3t+mfszpBeWEKUFY65LiJ55Sf54Of54GrLOeBteWuuOmfsw=="
+[[parts]]
+cid = 274389665
+name = "DEMO_Final_1"
+length = 202
+resolution = "1920x1080"
+
+[[staff]]
+uid = 156489
+title = "UP主"
+name = "非洲のGUMI酱"
+
+[[staff]]
+uid = 2577707
+title = "混音"
+name = "Aya-啊呀呀"
+
+[[staff]]
+uid = 513946
+title = "调校"
+name = "毛毛虫zzzzz"
+
+[[staff]]
+uid = 20787898
+title = "视频制作"
+name = "w_三生烟火"
+
+[[staff]]
+uid = 435433620
+title = "视频制作"
+name = "缘宵应援团_official"
+
+[upper]
+uid = 156489
+name = "非洲のGUMI酱"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110889.9705582
+plays = 17021
+danmakus = 49
+likes = 3783
+favorites = 2392
+coins = 1704
+comments = 297

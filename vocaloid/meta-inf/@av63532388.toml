@@ -1,0 +1,26 @@
+avid = 63532388
+bvid = "BV1h4411S7Lc"
+title = "【洛天依原创】奇妙之旅——致我教过的第一届学生"
+category = "VOCALOID·UTAU"
+create-time = 1565686854
+publish-time = 1565686854
+desc-base64 = "44CQ5aWH5aaZ5LmL5peF44CRCuKAlOKAlOiHtOaIkeaVmei/h+eahOesrOS4gOWxiuWtpueUnwoK44CQ5Lq65aOw5pys5a6244CRCuS8oOmAgemXqO+8mmF2NjQ0MTkwNTQK5ryU5ZSx77ya5LqI5py+CgrjgJBTdGFmZuWIl+ihqOOAkQrkvZzor40v5L2c5puyL+e8luabsi/mt7fpn7PvvJrogq/lvrfpvp/jgIIK6LCD5qCh77ya5qGC5pyI6ZSB5b+D44CCCuWSjOWjsOe8luWGme+8mueOi+mfqeS4gOa3i+OAggrmm7Lnu5jvvJrpnZLpqqhGSUNUSU9O44CCCuinhumikS/lsIHpnaLvvJpDcnlzdGZhbGzjgIIKCuOAkOatjOabsueugOS7i+OAkQrlhbblrp7ov5npppbmrYzlm5vkuKrmnIjliY3miJHlsLHlhpnlpb3kuobvvIzlm6DkuLrlkITnp43ljp/lm6DigKbigKbllInjgILpgIHnu5kz54+t44CBNeePreOAgTbnj63nmoTltL3lrZDku6zvvIzmg7Por7TnmoTpg73lnKjmrYzph4zvvIzluIzmnJvkvaDku6zog73lronpnZnlkKzlrozjgILkuIDlubTnnJ/nmoTov4fnmoTpo57lv6vvvIzku4rlkI7nmoTml6XlrZDkuIDlrpropoHliqDmsrnvvIwg5bm25LiU77yM6K+35Yqh5b+F54+N5oOc5L2g5Lus55qE5a2m55Sf5pe25Luj77yB"
+[[parts]]
+cid = 110321005
+name = "奇妙之旅"
+length = 225
+resolution = "1920x1080"
+
+[upper]
+uid = 27810217
+name = "肯德龟"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110876.399653
+plays = 2905
+danmakus = 31
+likes = 534
+favorites = 382
+coins = 266
+comments = 128

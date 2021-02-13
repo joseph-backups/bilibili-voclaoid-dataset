@@ -1,0 +1,23 @@
+create-time = 1610358709
+publish-time = 1610358709
+avid = 458516329
+bvid = "BV1c5411n7Lr"
+title = "*Hello,Planet. feat.初音未来 ＊ハロー、プラネット。 [official HQ MV] /sasakure.UK"
+category = "VOCALOID·UTAU"
+desc-base64 = "44GN44G/44Go44GN44G/44Gu44GC44GE44GZ44KL44Gy44Go44KS44Gf44GE44Gb44Gk44Gr44Gt44CB44Kq44OP44Oo44O844OP44Oo44O844CCCgrilr1NdXNpYyAmIEx5cmljIHNhc2FrdXJlLlVLCmh0dHBzOi8vd3d3LndlaWJvLmNvbS91LzY1Mzc5OTkwOTEKCuKWvOKWveKWvOWcqOe6v+mfs+S5kOKWvOKWveKWvAorIHNhc2FrdXJlLlVLIC0g6YW354uX6Z+z5LmQCmh0dHA6Ly93d3cua3Vnb3UuY29tL3l5L3Npbmdlci9ob21lLzE3NjQ3OC5odG1sCgorIFFR6Z+z5LmQL1FRIE1VU0lDCmh0dHBzOi8veS5xcS5jb20vbi95cXEvYWxidW0vMDAwdEFqUEYyOXVwSUouaHRtbAoKKyDphbfmiJHpn7PkuZAvS1VXTwpodHRwOi8va3dtaW9zanVtcC5rdXdvLmNuL2FydGlzdC9jb250ZW50P25hbWU9c2FzYWt1cmUuVUsKCivnvZHmmJPkupHpn7PkuZAvTmV0RWFzZSBNdXNpYwpodHRwczovL211c2ljLjE2My5jb20vIy9hcnRpc3Q/aWQ9MTUzOTY="
+[[parts]]
+cid = 281108246
+name = "hello_planet_remas20200111_1080p"
+length = 311
+resolution = "1920x1080"
+
+[uploader]
+uid = 321598222
+name = "sasakure_uk"
+
+[snapshot]
+snapshot-time = 1612899021.3227909
+danmakus-count = 326
+likes-count = 8005
+favorites-count = 9322
+snapshot-by = "moe.lty.bgetlib/1.x"

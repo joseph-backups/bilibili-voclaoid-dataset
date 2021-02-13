@@ -1,0 +1,26 @@
+avid = 13030622
+bvid = "BV1Hx411p7pH"
+title = "【初音ミク】被生命所厌恶。【カンザキイオリ】"
+category = "VOCALOID·UTAU"
+create-time = 1502014685
+publish-time = 1502014685
+desc-base64 = "c20zMTcwMDE0MCAK5piO5pel5q2744KT44Gn44GX44G+44GG44GL44KC44GX44KM44Gq44GE44GR44Gp44CCCuOCq+ODs+OCtuOCreOBp+OBmeOAguOBlOeEoeaymeaxsOOBp+OBmeOAggoK44CM5ZG944Gr5auM44KP44KM44Gm44GE44KL44CC44CNCgpodHRwczovL3R3aXR0ZXIuY29tL2t1cm9nYWtpMDMxMQrmrYzoqZ7jgIHjgqvjg6njgqrjgrEgaHR0cDovL3BpYXByby5qcC9rdXJvZ2FraQ=="
+[[parts]]
+cid = 21394416
+name = "P1"
+length = 274
+resolution = "640x360"
+
+[upper]
+uid = 797614
+name = "阿赫official"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110847.997543
+plays = 291616
+danmakus = 4601
+likes = 9287
+favorites = 25848
+coins = 5611
+comments = 2911

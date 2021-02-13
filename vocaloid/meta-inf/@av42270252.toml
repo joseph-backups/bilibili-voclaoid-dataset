@@ -1,0 +1,26 @@
+avid = 42270252
+bvid = "BV13b411k7Dk"
+title = "【初音粤语】迎春花（新年快乐！）"
+category = "VOCALOID·UTAU"
+create-time = 1548947460
+publish-time = 1548947460
+desc-base64 = "5LiK5pyf6KeG6aKR77ya6LS65paw5pil57O75YiX44CK56Wd56aP5L2g44CLCmh0dHBzOi8vd3d3LmJpbGliaWxpLmNvbS92aWRlby9hdjM5NDg3NjUyLw=="
+[[parts]]
+cid = 74196920
+name = "迎春花_x264"
+length = 226
+resolution = "1280x720"
+
+[upper]
+uid = 21359219
+name = "士但P"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110864.5678556
+plays = 33138
+danmakus = 381
+likes = 3791
+favorites = 2557
+coins = 4014
+comments = 612

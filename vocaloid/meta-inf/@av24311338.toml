@@ -1,0 +1,26 @@
+avid = 24311338
+bvid = "BV1WW411N7JU"
+title = "【洛天依V4日语】我的偶像宣言【Cover by Selio】"
+category = "VOCALOID·UTAU"
+create-time = 1527993319
+publish-time = 1527993319
+desc-base64 = "44CO44Gh44KH44Gj44G044KK44Oe44K444Gq44Gu5pyf5b6F44GX44Gm44GE44GE44Gn44GZ44GL77yf44CPDQotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0NCuKAu+acrOWutu+8mkNIaUNPIHdpdGggSG9uZXlXb3Jrc++8iHNtMzI4MjUzNjPvvIkNCuKAu1ZvY2Fs77yaVk9DQUxPSUQ0IOa0m+WkqeS+nQ0K4oC7VlNRWCAmIFZvY2FsIEVkaXQgJiBNaXjvvJpNZQ0K4oC7U3BlY2lhbCBUaGFua3PvvJrlpbbmsrnomJHoj4cNCg0K5paw5Lq657uD5Lmg55Sf5rSb5aSp5L6d5YG25YOP5Ye66YGT77yB6K+35aSa5oyH5pWZ77yB77yI5YiS5o6J"
+[[parts]]
+cid = 40784402
+name = "┗ ∵ ┓私、アイドル宣言／HoneyWorks feat.初音ミク_Mux"
+length = 268
+resolution = "640x360"
+
+[upper]
+uid = 174338
+name = "Selio"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110852.3978357
+plays = 6431
+danmakus = 70
+likes = 378
+favorites = 587
+coins = 203
+comments = 57

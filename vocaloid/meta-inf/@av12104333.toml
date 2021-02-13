@@ -1,0 +1,26 @@
+avid = 12104333
+bvid = "BV1ix411q7WP"
+title = "【洛天依】唱给雅音宫羽·终【原创曲PV付】【洛天依诞生祭】"
+category = "VOCALOID·UTAU"
+create-time = 1499770596
+publish-time = 1499817637
+desc-base64 = "5oiR55qE5LiA55Sf77yM5Zug5Li65L2g6ICM5Y+Y5b6X5LiN5ZCM44CCCui/meS6lOW5tOadpe+8jOiwouiwoiDkvaDnu5nmiJHnmoTmoqbmg7PjgIIK55Sf5pel5b+r5LmQ77yM5aSp5L6d44CCCuabsue8luiwg+a3t+WQieS7lu+8mue0lOeZvVAv6K+N77ya6JaH6YeH5LmL5L6dL+e7mO+8muebkC/liqjnlLvvvJrojqvpm6oKCuWUsee7membhemfs+Wuq+e+veKGkmF2MzMzMDY5IOWUsee7membhemfs+Wuq+e+vTLihpJhdjE3NzM1NDIg5ZSx57uZ6ZuF6Z+z5a6r5769M++8iOmDqOWIhu+8ieKGkmF2NTQ2MTYwOA=="
+[[parts]]
+cid = 19964894
+name = ""
+length = 220
+resolution = "640x360"
+
+[upper]
+uid = 123372
+name = "純白"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110843.5350075
+plays = 83851
+danmakus = 2814
+likes = 1418
+favorites = 7745
+coins = 6383
+comments = 1931

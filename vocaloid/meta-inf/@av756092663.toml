@@ -1,0 +1,26 @@
+avid = 756092663
+bvid = "BV18r4y1T7FY"
+title = "【洛天依】天冷就回来2021【原创PV付】"
+category = "VOCALOID·UTAU"
+create-time = 1610029661
+publish-time = 1610064008
+desc-base64 = "5L2c5ZOB57G75Z6L77ya5pS557yWCuWOn+absuWHuuWkhO+8mumZiOa0geS7quOAiuWkqeWGt+WwseWbnuadpeOAiwrmvJTllLHvvJrmtJvlpKnkvp0K6LCD5pWZ77ya5p2o5q2j5qyjCuS9nOivje+8muaigeaWh+emjwrkvZzmm7LvvJrmooHmlofnpo8K5pS557yW6K+N77ya5p2o5q2j5qyjCua3t+mfs++8muadqOato+asowpQVu+8muadqOato+asowrnroDku4vooaXlhYXvvJrmlrDlubTnmoTnrKzkuIDpppbkvZzlk4HvvIzogIzkuJTmmK9VUOS4u+aIkeeahOesrOS4gOmmluWPguS4juaUuee8lueahOatjOabsu+8jOS4k+S4uuWkqeS+neS4gOS4quS6uuiAjOiuvuiuoe+8jOW4puedgOS4gOeCueS6suaDheWSjOWPi+aDheOAguiAg+iZkeWIsOi/keaXpeWvkua9ruadpeiire+8jOW4jOacm+i/memmluatjOiDvea4qeaalui/meS4quWGrOWkqeOAguWkqeWGt+Wwsei1tue0p+WbnuWutuWQp++8jOWIq+WcqOmjjuS4reW+mOW+iuS6huOAguWQjOaXtu+8jOeOsOWcqOWkp+WtpuW3sue7j+W8gOWni+aUvuWvkuWBh++8jOaIkei6q+S4uuS4gOS4quacrOWcsOeahOWkp+WtpueUn++8jOaIkeaDs+aPkOmGkuS4gOS4i+WutuS9j+WkluWcsOW5tuS4lOadpeaIkeS7rOWTiOWwlOa7qOS4iuWkp+WtpueahOaci+WPi++8jOi3r+S4iuWbnuWutuS4gOWumuimgeeFp+mhvuWlveiHquW3seWTpu+8jOWuieWFqOawuOi/nOaYr+esrOS4gOS9jeeahOOAgg=="
+[[parts]]
+cid = 278997250
+name = "天冷就回来--洛天依"
+length = 297
+resolution = "1920x1080"
+
+[upper]
+uid = 375633229
+name = "杨正欣_"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610244631.4883497
+plays = 737
+danmakus = 2
+likes = 142
+favorites = 67
+coins = 14
+comments = 28

@@ -1,0 +1,41 @@
+avid = 583151061
+bvid = "BV1Fz4y1d76M"
+title = "【洛天依原创】褪色"
+category = "VOCALOID·UTAU"
+create-time = 1589531657
+publish-time = 1589544057
+desc-base64 = "44CM6K+35aSa5YGc55WZ54mH5Yi777yM6K+35Yir5YaN5qih57OK5LqG44CC44CNIArkurrlo7DmnKzlrrbvvJpCVjF2QzR5MUg3MVQK6K+NL+absi/nvJbvvJrlhazlhZQgIArnu5gv6KeG6aKR77ya6Je7IArosIPvvJrmmbTmtbcv5YWs5YWU"
+[[parts]]
+cid = 191138301
+name = "褪色-洛天依_x264_Mux"
+length = 327
+resolution = "1920x1080"
+
+[[staff]]
+uid = 2374053
+title = "UP主"
+name = "公兔"
+
+[[staff]]
+uid = 4221563
+title = "视频制作"
+name = "mizaro"
+
+[[staff]]
+uid = 3092339
+title = "调校"
+name = "晴海再不画画就剁手"
+
+[upper]
+uid = 2374053
+name = "公兔"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110871.0954747
+plays = 31552
+danmakus = 159
+likes = 4139
+favorites = 3868
+coins = 2651
+comments = 778

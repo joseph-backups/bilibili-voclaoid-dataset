@@ -1,0 +1,51 @@
+avid = 372739359
+bvid = "BV1KZ4y157xQ"
+title = "【洛天依原创】所以我选择被人讨厌3.0【现实逃避Project】"
+category = "VOCALOID·UTAU"
+create-time = 1604800490
+publish-time = 1604814358
+desc-base64 = "5LiN55+l6YGT5L2g5piv5ZCm5Lmf5ZKM5oiR5LiA5qC377yM5pyJ552A6Ieq5bex54Ot54ix55qE5LqL5oOF44CCCuS9huaYr+WFtuS7luS6uuS8muWYsueskeS9oO+8jOS8mueWj+i/nOS9oOOAggrniLbmr43kvJrotKjnlpHkvaDlgZrnmoTkuovmg4XnmoTmhI/kuYnjgIIK5LuW5Lus55yL5LiN5Yiw77yM5oiR5Lus55qE6YKj5Lu95omn552A44CCCuaJgOS7peaIkemAieaLqeiiq+S6uuiuqOWOjO+8jOWOu+WujOaIkOW/g+S4reeahOaipuOAggroh7PlsJHor4HmmI7vvIzkvaDkuLroh6rlt7HmtLvov4fjgIIKCuS9nOivjeS9nOabsue8luabsu+8mue0lOeZvVAK5bym5LmQ57yW5puy77ya6bG8Cuiwg+aVme+8mkZGRuWQmwrmm7Lnu5jvvJpGemFuZ28K5Yqo55S777ya5Ya35Ya75a2QCua3t+mfs++8mklyZWNvcmRlcgrnibnliKvmhJ/osKLvvIzns7vosYbmspl+CgrliY3kvZzvvJoK5ri65bCP55qEcHJvZHVjZXIgQlYxdHM0MTFtN0VaClBvbGl0aWNhbOS4jeato+ehriBCVjFneDQxMVM3Z3UK5oqE6KKtUGFyYW5vaWEgQlYxMXg0MTFIN1VZCuWBtuWDj1ByaW9yaXR5IEJWMXJwNDExbzc1Vw=="
+[[parts]]
+cid = 255209784
+name = "P1.3_Mux"
+length = 249
+resolution = "1920x1080"
+
+[[staff]]
+uid = 123372
+title = "UP主"
+name = "純白"
+
+[[staff]]
+uid = 123133
+title = "编曲"
+name = "魚咕噜"
+
+[[staff]]
+uid = 7062983
+title = "调校"
+name = "某FFF的V家粉"
+
+[[staff]]
+uid = 1824508
+title = "曲绘"
+name = "Fzango"
+
+[[staff]]
+uid = 11257019
+title = "视频制作"
+name = "Crystfall-"
+
+[upper]
+uid = 123372
+name = "純白"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110862.8448558
+plays = 149836
+danmakus = 766
+likes = 16202
+favorites = 13783
+coins = 12837
+comments = 1178

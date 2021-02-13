@@ -1,0 +1,26 @@
+avid = 800315235
+bvid = "BV18y4y1z7eC"
+title = "【言和翻唱】外婆的澎湖湾"
+category = "VOCALOID·UTAU"
+create-time = 1605866421
+publish-time = 1605866408
+desc-base64 = "44CM5aSW5amG55qE5r6O5rmW5rm+44CNCuWOn+WUse+8mua9mOWuiemCpgrloavor43vvJrlj7bkvbPkv64K6LCx5puy77ya5Y+25L2z5L+uCgrkvLTlpY/vvJrnjovmnbAKCue/u+WUse+8muiogOWSjArmkbjpsbzvvJrnurPlhbDlr7vpo44KCuWlveS5heayoeeisOadv+WtkO+8jOayoeaDs+WIsOeUu+i1t+adpei/mOaYr+i3n+S7peWJjeS4gOagt+W+ruWmme+8jOWVp+OAgg=="
+[[parts]]
+cid = 257689291
+name = "【言和翻唱】外婆的澎湖湾"
+length = 196
+resolution = "1920x1080"
+
+[upper]
+uid = 893950
+name = "纳兰寻风"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110887.6027372
+plays = 24269
+danmakus = 60
+likes = 3361
+favorites = 1568
+coins = 1398
+comments = 246

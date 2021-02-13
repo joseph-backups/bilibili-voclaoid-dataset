@@ -1,0 +1,26 @@
+avid = 6890480
+bvid = "BV1Xs411s7Ux"
+title = "【Siren】告白【初音ミクdark】"
+category = "VOCALOID·UTAU"
+create-time = 1497424059
+publish-time = 1477817129
+desc-base64 = "6Ieq5Yi277yMbWlrdeesrOS4ieS9nOOAguivt+WLv+i9rOi9veOAggpO56uZ6K+35oiz77yac20yOTkzNzYzNQrjgJDliJ3pn7Pjg5/jgq/jgJHlkYrnmb3jgJDjgqrjg6rjgrjjg4rjg6vjgJEK5q2M77ya5Yid6Z+z44Of44KvCuabsu+8huipqe+8mlNpcmVuIOW+ruWNmkBTaXJlbl90aGVfU3R1ZGlv44CA44CA44CACue7mDog6Iqx5rSSIEBIYW5hc2Ff6Iqx5rSSCkFUZGFuIEDlsI/ljp/ljp/ljp/lrZBEYW4KUFY657O76LGG5rKZ77yIT1NBU++8iUDll5znorHns7vosYbmspkK5Ly05aWP5Lya5ZKM5LmL5YmN5LiA5qC35ZyocGlhcHJv5ZKM6LGG55Oj5pS+5Ye6CuelneWQhOS9jSDlkajmnKvmhInmgqYg4pmC4pmC"
+[[parts]]
+cid = 11225255
+name = ""
+length = 206
+resolution = "640x360"
+
+[upper]
+uid = 438335
+name = "大鱼Siren"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110879.4118507
+plays = 197471
+danmakus = 2032
+likes = 1886
+favorites = 20992
+coins = 10715
+comments = 1291

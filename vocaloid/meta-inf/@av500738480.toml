@@ -1,0 +1,66 @@
+avid = 500738480
+bvid = "BV1fK411u7sU"
+title = "【洛天依原创曲】枫糖牛奶【幻茶会 x 神兔小P】【心画Project】"
+category = "VOCALOID·UTAU"
+create-time = 1608354672
+publish-time = 1608368713
+desc-base64 = "5L2c5ZOB57G75Z6L77ya5Y6f5Yib5puyCuetluWIku+8muW5u+iMtuS8miB4IOelnuWFlOWwj1AK55uR5Yi277ya6JC96aqeIOmAnee+vQrmlofmoYjvvJrpgJ3nvr0K5L2c6K+NL+S9nOivl++8muiQvemqngrkvZwv57yW5puyL+WIhui9qOa3t+mfs++8muelnuWFlOWwj1AK6LCD5pWZ77ya5ZGo5bCP6JqVCua8lOWUse+8mua0m+WkqeS+nQrkurrlo7Dmt7fpn7PvvJrlsI/mrKfOqQrmm7Lnu5jvvJrpnIHmnIgK576O5bel77ya6Ze56Ze55Li2ClBWOua1gee7qgrlh7rlk4HvvJrlv4PnlLtQcm9qZWN0CgrnnJ/lsLHmmK/lubTliJ3kuIDkuKrnqL/vvIzlubTlupXkuIDkuKrnqL/lk4jlk4jlk4jlk4jlk4jvvIHlv4PnlLvns7vliJfnmoTnrKzkuInpppbnu4jkuo7lkozlpKflrrbop4HpnaLllabvvZ7vvIHmoLnmja7pgJ3nvr3ogIHluIjnmoTmlofmoYjvvIzov5npppbmm7LlrZDkuLvopoHmg7Pooajovr7kuIDmrrXigJzlvojnvo7lpb3vvIzlm57lv4botbfmnaXomb3nhLblpLHljrvkuobkvYbmmK/kuZ/kuI3mg4vmg5znmoTliJ3mgYvigJ3vvIzlnKjnu4/ljobkuoYz5Liq5pyI55qE5pe26Ze05ZCO77yM5Lmf5piv6aG65Yip55qE55Sf5LqG5LiL5p2lMjMzMzPvvIzmnIDlkI7or7flkITkvY3op4LkvJflpJrlpJrkuInov57lkozmlK/mjIHvvIHlho3pobrkvr/ngrnkuKrlhbPms6jvvZ7vvIzkvaDku6znmoTmlK/mjIHmmK/miJHliY3ov5vnmoTmnIDlpKfliqjlipvvvZ7vvIHosKLosKLlkITkvY3op4LkvJfllabvvZ7vvIE="
+[[parts]]
+cid = 268375901
+name = "枫糖牛奶(Mix9)"
+length = 196
+resolution = "1920x886"
+
+[[staff]]
+uid = 171467126
+title = "UP主"
+name = "落騫er"
+
+[[staff]]
+uid = 25558101
+title = "编曲"
+name = "神兔小P"
+
+[[staff]]
+uid = 10996289
+title = "调校"
+name = "周小蚕"
+
+[[staff]]
+uid = 2156649
+title = "混音"
+name = "小欧O"
+
+[[staff]]
+uid = 60271719
+title = "曲绘"
+name = "霁月没头脑"
+
+[[staff]]
+uid = 8226658
+title = "视频制作"
+name = "流绪绪绪"
+
+[[staff]]
+uid = 168589355
+title = "字幕"
+name = "逝羽P"
+
+[[staff]]
+uid = 375098503
+title = "策划"
+name = "幻茶会"
+
+[upper]
+uid = 171467126
+name = "落騫er"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110868.1402743
+plays = 14185
+danmakus = 77
+likes = 2792
+favorites = 2429
+coins = 1966
+comments = 210

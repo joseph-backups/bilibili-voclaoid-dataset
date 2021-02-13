@@ -1,0 +1,26 @@
+avid = 347275
+bvid = "BV1Jx411F7a5"
+title = "【洗脑向翻唱】天依投食歌=w=壮哉我大吃货帝国！【专治各种挑食厌食】"
+category = "VOCALOID·UTAU"
+create-time = 1497423778
+publish-time = 1346232052
+desc-base64 = "5rij5rWqIH4o4omn4pa94ommKS9+5Y6f5L2c6ICF5Li6QOilv+eTnOWQg+afj+aZk+OAguWOn+absuS4ukZhbWlseU1hcnTvvIjlhajlrrbkvr/liKnlupfvvInnmoTlhaXlupfpn7PjgIrjg5XjgqHjg5/jg57lhaXlupfpn7PjgIvjgJDmtJvlpKnkvp3lkIPotKfmtJfohJHnu4Tmm7Ir5Y6f5Yib5pq06LWw5Yqo55S744CR6IGU5Yqo5Y2D5bm06aOf6LCx6aKCYXYzMDgwNDAg55m+5bqm5pCc44CQ5oqV6aOf5q2M5aSn56S85YyF44CR5Y2z5Y+v5LiL6L29fuaEn+iwouaPkOW7uuiurueahOaci+WPi+asoui/juWkp+WutuWIsOaIkeeahOWbtOiElui9rOi9rCZhbXA7Z3Q744CCJmFtcDtsdDsg"
+[[parts]]
+cid = 1011536
+name = ""
+length = 200
+resolution = "480x360"
+
+[upper]
+uid = 373554
+name = "我叫小灰宇"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110860.736654
+plays = 535654
+danmakus = 10442
+likes = 3819
+favorites = 16644
+coins = 2506
+comments = 1386

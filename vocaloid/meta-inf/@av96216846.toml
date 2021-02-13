@@ -1,0 +1,36 @@
+avid = 96216846
+bvid = "BV1TE411379f"
+title = "粤语虚拟歌姬，在线迷人【心华粤语】处处吻【原创PV 完整版cover】"
+category = "VOCALOID·UTAU"
+create-time = 1584274656
+publish-time = 1584274656
+desc-base64 = "LeS9oOWwj+W/gyAg5LiA5ZC75L6/6aKg5YCS5LyX55SfLQotLS0tLS0tLS0K6LCi6LCiaGlzYemVnOmVnOeahOWAvuaDhee7mOWItu+8ge+8ge+8geW/g+WNjuWkqeS9v+i/t+atu+S4quS6uuS6hu+8gQrkuo7mmK/lgZrlpb3kuoblrozmlbTniYjvvIzlj4jliqDkuIrkuobljp/liJvmlrBQVu+8jOW4jOacm+Wkp+WutuWWnOasou+8ge+8gQotLS0tLS0tLS0K5Y6f5puy77ya44CK5aSE5aSE5ZC744CLCuWOn+WUse+8muadqOWNg+WshQrkvZzmm7LjgIHnvJbmm7LvvJrpm7fpooLlvrcK5L2c6K+N77ya5p6X5aSVCgrnv7vllLHvvJrlv4PljY52NArnu5jlm77vvJpoaXNh6ZWcCuiwg+OAgea3t+OAgWxpdmUyZOOAgVBW77ya5oqYdgotLS0tLS0tLS0K5Liq5Lq65YW25LuW57Kk6K+t6Leo6K+t56eN6LCD5pWZ77yaCuS7iueUn+WmguaipmF2NDUzMDA1NQpzaGFsbCB3ZSB0YWxrYXYxNjk2NjQwMwrmo67mnpdhdjY0NDM1MTEw"
+[[parts]]
+cid = 164254993
+name = "处处吻新PV"
+length = 201
+resolution = "1920x960"
+
+[[staff]]
+uid = 1963756
+title = "UP主"
+name = "折v折微微"
+
+[[staff]]
+uid = 1816534
+title = "曲绘"
+name = "hisa镜"
+
+[upper]
+uid = 1963756
+name = "折v折微微"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110894.0151362
+plays = 472533
+danmakus = 2796
+likes = 34026
+favorites = 27928
+coins = 24455
+comments = 2784

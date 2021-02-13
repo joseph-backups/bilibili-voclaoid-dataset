@@ -1,0 +1,26 @@
+avid = 30349030
+bvid = "BV1oW411D7cU"
+title = "【初音未来中文原创】今天有好好创作我的同人吗？【PV付】"
+category = "VOCALOID·UTAU"
+create-time = 1535259975
+publish-time = 1535259978
+desc-base64 = "6YCB57uZTWlrdeeahOeUn+i0uuabsu+8gU1pa3XnlJ/ml6Xlv6vkuZDvvIEK5ZCs5LqG6L+Z6aaW5q2M77yMUOS4u+S7rOi/mOaVouWSleWSleWSleWQl++8iOmbvgrnrZbliJLvvJpA5pmv6L6JX2thZ2V0ZXJ1CuS9nOabsu+8mkBKaW5rZWxhUArkvZzor43vvJpA5pmv6L6JX2thZ2V0ZXJ1Cuiwg+WjsO+8mkDmtbfku5TlhL9fS3lvCua3t+mfs++8mkDlpKfnmb3nhorlkYDlpKfnmb3nhooK5o+S55S777yaQG1pa3Xjga7lroEgCiAgICAgICAgICBAS3VCb19ZYWdhbWkK6KeG6aKR77yaQOaZr+i+iV9rYWdldGVydSAKICAgICAgICAgIEBKaW5rZWxhUArlsIHpnaLvvJpATHlkaWEK5Y2P5Yqp77yaQOWbm+i/uQ=="
+[[parts]]
+cid = 52949474
+name = "序列 04_1"
+length = 174
+resolution = "1920x1080"
+
+[upper]
+uid = 2283296
+name = "小猪P_"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110858.4820666
+plays = 89893
+danmakus = 3065
+likes = 6580
+favorites = 6431
+coins = 7753
+comments = 1144

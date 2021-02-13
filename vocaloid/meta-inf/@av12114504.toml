@@ -1,0 +1,26 @@
+avid = 12114504
+bvid = "BV1tx411q78N"
+title = "【洛天依原创曲】亲爱的【阿良良木健】【PV付】"
+category = "VOCALOID·UTAU"
+create-time = 1499801665
+publish-time = 1499801666
+desc-base64 = "44CM5Lqy54ix55qE77yM5oSf6LCi6L+Z5peF6YCU5aeL57uI5pyJ5L2g44CNCjXlsoHnlJ/ml6Xlv6vkuZDjgILosKLosKLkvaDvvIzlpKnkvp3jgIIKCuOAjOS6sueIseeahOOAjQrlhajplb/vvJo15YiGNTXnp5IKCuS9nOivjS/kvZzmm7Iv57yW5puyL+iwg+aVmS9QVu+8mumYv+iJr+iJr+acqOWBpQrmm7Lnu5jvvJror5fpqa8K5ZKM5aOw77ya5rSb5aSp5L6dL+S5kOato+e7qy/oqIDlkowv6Zi/6Imv6Imv5pyo5YGlCgpBbHNvIGZvciDlqaflqac="
+[[parts]]
+cid = 19980225
+name = ""
+length = 355
+resolution = "640x360"
+
+[upper]
+uid = 112428
+name = "阿良良木健"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110844.0039911
+plays = 185314
+danmakus = 7345
+likes = 6225
+favorites = 12036
+coins = 12973
+comments = 4936

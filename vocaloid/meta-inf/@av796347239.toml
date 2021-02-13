@@ -1,0 +1,56 @@
+avid = 796347239
+bvid = "BV1tC4y1h7dP"
+title = "【洛天依712原创曲】小城堡【感谢你们陪伴】"
+category = "VOCALOID·UTAU"
+create-time = 1594303262
+publish-time = 1594555242
+desc-base64 = "5LiN55+l5LiN6KeJ6L+H5Y675LqGOOW5tAoK5oC75Z+L5oCo5L2g5YWz6ZSu5pe25Yi75LiN6Kej6aOO5oOF55qE562U5qGICuWNtOS5n+aHguS9oOS4jeWWhOiogOihqOeahOmZquS8tA=="
+[[parts]]
+cid = 210680452
+name = "合成 1_2"
+length = 234
+resolution = "1920x1080"
+
+[[staff]]
+uid = 890489
+title = "UP主"
+name = "没有龟壳的乌龟"
+
+[[staff]]
+uid = 893950
+title = "调校"
+name = "纳兰寻风"
+
+[[staff]]
+uid = 2415595
+title = "作词"
+name = "是纪远不是之元"
+
+[[staff]]
+uid = 1961304
+title = "曲绘"
+name = "阿铃养鲸鱼"
+
+[[staff]]
+uid = 26202150
+title = "视频制作"
+name = "Axs_"
+
+[[staff]]
+uid = 652833
+title = "演奏"
+name = "Snoi1996"
+
+[upper]
+uid = 890489
+name = "没有龟壳的乌龟"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110885.8162491
+plays = 53436
+danmakus = 419
+likes = 8367
+favorites = 5575
+coins = 4539
+comments = 571

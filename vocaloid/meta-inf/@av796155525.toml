@@ -1,0 +1,51 @@
+avid = 796155525
+bvid = "BV1bC4y1877G"
+title = "【洛天依、乐正绫】赛博孟姜女 By:绛舞乱丸、瞳荧。只因城墙下埋的不是万喜良，是千千万万个炸号的虚拟化身"
+category = "VOCALOID·UTAU"
+create-time = 1593677508
+publish-time = 1594870203
+desc-base64 = "6L+Z5LiN5LuF5piv5q2M5puy77yM6L+Z5Y+q5piv5LiA56+H5LuF5Yet6aKY55uu5bCx5Y+v5Lul6I635aWW55qE5paH56ug77yaCuOAiuS6jOi/m+WItuadqOaIrOS8muaLpeacieS6uuW3peaZuuiDveWTruWkqeeKrOWQl++8n+OAiyAgICAgICAgIArjgIrmiJHmtYHnmoTnnLzms6rpg73mmK80MDTnmoTlvaLnirblkJfvvJ/jgIsK44CK5Lu/55Sf5Y2h6KW/6I6r5aSa5Lya5pWy55S15a2Q6ZKf5ZCX77yf44CLCuOAiuS7v+eUn+WcsOeyvuWwkeW5tOS8muaipuWIsOeUteWtkOeZveWvjOe+juWtpuWnkOWQl++8n+OAiwrku4rlpKnmiJFDeWJlcuWtn+WnnOWls+ayoeacieWTreWAkumVv+Wfju+8jOWPjeiAjOaMguS6hjEz5Liq54S25ZCO5oiR5Y+I5Lmw5LqGM+S4quaWsOeahOWtn+WnnOWls+iKgueCueOAguOAguOAguaIkei/mOimgeWKoOayue+8gQoKU1RBRkY6ClZvY2FsOua0m+WkqeS+nS/kuZDmraPnu6sK5L2c6K+NOuees+iNpwrkvZzmm7Iv6LCD5pWZL+a3t+mfszrnu5voiJ7kubHkuLgK5puy57uYOuWUr1R1ClBWOuaXtuS7o+S6u+WFiOmpseiAhQrllKLlkZDlrp7lvZXvvJrmmbTml7bmmp0="
+[[parts]]
+cid = 208026405
+name = "改"
+length = 253
+resolution = "1920x1080"
+
+[[staff]]
+uid = 188951
+title = "UP主"
+name = "绛舞乱丸"
+
+[[staff]]
+uid = 4386639
+title = "作词"
+name = "瞳荧荧"
+
+[[staff]]
+uid = 481413
+title = "曲绘"
+name = "唯Tu"
+
+[[staff]]
+uid = 14890867
+title = "视频制作"
+name = "时代亻先驱者"
+
+[[staff]]
+uid = 24772474
+title = "演奏"
+name = "晴时暝"
+
+[upper]
+uid = 188951
+name = "绛舞乱丸"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110884.674263
+plays = 56058
+danmakus = 259
+likes = 6828
+favorites = 5635
+coins = 4125
+comments = 1127

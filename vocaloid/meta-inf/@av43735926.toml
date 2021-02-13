@@ -1,0 +1,26 @@
+avid = 43735926
+bvid = "BV1wb411m7LL"
+title = "【洛天依乐正绫】婆婆纳甸长河长3.0【原创曲PV付】"
+category = "VOCALOID·UTAU"
+create-time = 1550296518
+publish-time = 1550296518
+desc-base64 = "5aSn5Y+45b6S57O75YiX55qE56ys5LiJ5L2c44CCCuWJjeS9nCDnmb3nn7PmuqrvvJphdjM2NzUxMjIg6Ziz5bGx57ud77yaYXY4NDEwOTA2Cui/measoeeahOaVheS6i+WPkeeUn+WcqOaetuepuueahOiNieWOn+S4iuOAggoK5puy57yW77ya57qv55m9UArkvZzor43vvJrmnpzmsYHlh4noj5wK6LCD5pWZ77ya5peg5b2i5q2M5peg5b2iCua3t+mfs++8mklyZWNvcmRlcgrlkInku5bvvJpsaXR0ZXJ6eQrpqazlpLTnkLTvvJrmvKDljJfooYzogIUK5q+N5bim77ya5YiY5ZiJ5LymCuaPkuWbvu+8mm1vdGgK5Yqo55S777ya57O76LGG5rKZCgrov5vooYzkuobph43mlrDmt7fpn7Pmr43luKbku6Xlj4pQVue7huiKgueahOS/ruaUueOAgg=="
+[[parts]]
+cid = 77851749
+name = "婆婆纳甸长河长FIN"
+length = 300
+resolution = "1920x1080"
+
+[upper]
+uid = 123372
+name = "純白"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110866.4438772
+plays = 127855
+danmakus = 1313
+likes = 10692
+favorites = 10053
+coins = 10116
+comments = 4994

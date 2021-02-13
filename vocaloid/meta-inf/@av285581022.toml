@@ -1,0 +1,46 @@
+avid = 285581022
+bvid = "BV1Uf4y1m7rf"
+title = "【初音ミク原创曲】Miku证券化·上世纪科普曲【无名社】"
+category = "VOCALOID·UTAU"
+create-time = 1588789142
+publish-time = 1588824013
+desc-base64 = "5LiA6aaW5LiK5LiW57qq6aOO5qC855qE5puy5a2Q77yM55Sa6Iez6L+Y5bim54K556eR5pmu55qE5YaF5a6544CCCuS7juWJjeacieS6uumXruaIkeadpeS5sOaIkeS4jeWGjemcgOimgeeahOS4nOilv++8jOaIkeaYr+aLkue7neeahO+8jOWboOS4uuaIkeiIjeS4jeW+l+OAguWQjuadpeaIkeaDs+mAmuS6hu+8jOS4jeaYr+aIkeS4jemcgOimgeS7lu+8jOiAjOaYr+S7luW3sue7j+WOjOWApuS6huaIkeOAgui/meWwseaYr+ivgeWIuOWMliAoPeODu8+J44O7PSkKCuetluWIku+8muWwj+aiheOAgeeQtOWNl+OBk+OBqeOBjwrkvZzor43vvJrlsI/mooXjgIHnkLTljZfjgZPjganjgY8K5L2c5puy77ya55C05Y2X44GT44Gp44GP44CB5bCP5qKFCue8luabsu+8mueQtOWNl+OBk+OBqeOBjwrkvLTlpY/mt7fpn7PvvJrnkLTljZfjgZPjganjgY8K5pel5paH6K+N5oyH5a+877ya55C05Y2X44GT44Gp44GPCjgwcyBrZXnmvJTlpY/vvJrlr6fjgIXjgZXjgpPjga7pn7Pmpb0K6LCD5pWZ77ya5ZGo5bCP6JqVCui0tOWUse+8mumHkeeZvuS4hwrmm7Lnu5jvvJpOb25lLjI1ClBW77ya55CJ55KD54yr5pig5YOP"
+[[parts]]
+cid = 187960802
+name = "Miku证券化（fin ver）"
+length = 265
+resolution = "1920x1080"
+
+[[staff]]
+uid = 545629
+title = "UP主"
+name = "无名社"
+
+[[staff]]
+uid = 348134
+title = "作曲"
+name = "梅津泰臣"
+
+[[staff]]
+uid = 2045542
+title = "作词"
+name = "琴南こどく"
+
+[[staff]]
+uid = 281804983
+title = "视频制作"
+name = "琉璃猫映像"
+
+[upper]
+uid = 545629
+name = "无名社"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110855.4596217
+plays = 2230
+danmakus = 23
+likes = 525
+favorites = 257
+coins = 188
+comments = 72

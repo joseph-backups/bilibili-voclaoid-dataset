@@ -1,0 +1,59 @@
+create-time = 1610334068
+publish-time = 1610359209
+avid = 801073330
+bvid = "BV1Ey4y1v7ko"
+title = "★洛天依原创曲—分不了【初灵社】"
+category = "VOCALOID·UTAU"
+desc-base64 = "6K+N5puy57yW77ya576K6am854i45q+UCuWQieS7lu+8mue+iumpvOeIuOavlArmm7Lnu5jvvJrohb7ohb7pqpHnjKrmkp7kvaAKUFbvvJrkuI7pub90YXJ3Cua3t+mfs++8muW/huaXoOeXlUFpcgrnrZbliJLvvJrngbXmoqZQCuiwg+aVme+8muWiqOWwj+WiqFAKCuWFtuWunuW5tuS4jeaYr+WIhuS4jeS6hu+8jOWPquaYr+W+iOmavuWIhuW+l+WlvQ=="
+[[parts]]
+cid = 280934603
+name = "天依CC"
+length = 329
+resolution = "1920x1080"
+
+[[staff]]
+favorite-time = 12450
+uid = 20334164
+title = "UP主"
+name = "羊驼爸比"
+
+[[staff]]
+favorite-time = 12450
+uid = 11592557
+title = "混音"
+name = "忆无痕Air"
+
+[[staff]]
+favorite-time = 12450
+uid = 291329298
+title = "曲绘"
+name = "腾腾骑猪撞你"
+
+[[staff]]
+favorite-time = 12450
+uid = 25005081
+title = "视频制作"
+name = "与鹿tarw"
+
+[[staff]]
+favorite-time = 12450
+uid = 387811211
+title = "策划"
+name = "初灵社"
+
+[[staff]]
+favorite-time = 12450
+uid = 3178737
+title = "策划"
+name = "灵梦P"
+
+[uploader]
+uid = 20334164
+name = "羊驼爸比"
+
+[snapshot]
+snapshot-time = 1612899138.6106427
+danmakus-count = 11
+likes-count = 532
+favorites-count = 799
+snapshot-by = "moe.lty.bgetlib/1.x"

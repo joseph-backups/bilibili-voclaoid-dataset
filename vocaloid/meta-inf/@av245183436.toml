@@ -1,0 +1,46 @@
+avid = 245183436
+bvid = "BV1Kv411r7H8"
+title = "【乐正绫原创】用我的双腿来换百万粉丝好吗"
+category = "VOCALOID·UTAU"
+create-time = 1604794074
+publish-time = 1604808635
+desc-base64 = "MC4g5oSf6LCiIOexs+W6k+WWteOAgeWRqOWwj+ialeOAgeS7iuWklVJ6b+OAgUJhbkPlpKfkvaznmoTlkIjkvZzluK7liqnvvIEKCjEuIOS4gOS4quiZmuaehOeahOaVheS6i+OAggoyLiDmmK/nnIvkuobmn5DkuKrmiqXpgZPlkI7mnInmhJ/ogIzlj5HnmoTvvIzkuZ/orrjmmK/lvojkuYXliY3nmoTmiqXpgZPkuobjgIIKMy4g6YKj56eN5omL5pyv77yM6L+Y6K+35LiJ5oCd5omN5piv44CCCjQuIOWNs+S9v+aXtuW4uOaCsuS8pO+8jOS5n+S4jeimgeW/mOS6huiHquW3seWJjei/m+eahOaWueWQkeOAggo1LiDmnIDph43opoHnmoTvvIzku47mnaXpg73mmK/lhoXlnKjvvIzogIzkuI3mmK/lpJbooajjgIIKNi4g5a695a655a+55b6F5LiA5Lqb54qv5LqG6ZSZ55qE5Lq65ZCn77yM5oiW6K6477yM5LuW5Lus5Y+q5piv5LiA5pe26L+357OK77yM5oiW6K6477yM5LuW5Lus5Y+q5piv6L+Y5LiN5oiQ54af44CCCjcuIOiDjOaZr+aVheS6i+ivt+eci+i/memHjOWQp++8mmN2ODI2NzQ2NwoKCgror43jgIHmm7LvvJrlhrDmopN5dXJpICDnvJbvvJrnsbPlupPllrUg6LCD77ya5ZGo5bCP6JqVIFBW77ya5LuK5aSVUnpvIOa3t+mfs++8mkJhbkM="
+[[parts]]
+cid = 253776139
+name = "粉丝"
+length = 234
+resolution = "1920x1080"
+
+[[staff]]
+uid = 19532030
+title = "UP主"
+name = "冰梓yuri"
+
+[[staff]]
+uid = 10996289
+title = "调校"
+name = "周小蚕"
+
+[[staff]]
+uid = 86257324
+title = "视频制作"
+name = "今夕Rzo"
+
+[[staff]]
+uid = 36037233
+title = "混音"
+name = "班超BanC"
+
+[upper]
+uid = 19532030
+name = "冰梓yuri"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110853.5502164
+plays = 17689
+danmakus = 31
+likes = 2485
+favorites = 1710
+coins = 869
+comments = 187

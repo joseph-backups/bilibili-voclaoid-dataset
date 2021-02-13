@@ -1,0 +1,23 @@
+create-time = 1608563990
+publish-time = 1608563990
+avid = 628127228
+bvid = "BV1Ft4y1k7n6"
+title = "【钢琴】为了你唱下去 — 洛天依"
+category = "演奏"
+desc-base64 = "5pys5a62QlYxdHM0MTF5N0ZZCuacrOWutnN0YWZmCuetluWIku+8muWknOa0ui/nprvpgJTvvIjlvq7ljZpA5rSb5aSp5L6d55u45YWz5pS26ZuG56uZ77yJCuivjeabsu+8mkNPUArop4bpopHvvJrnuqXpqqjlvZPlvZLvvIjliLbkvZzvvIkvWkhpZGVy77yI5riy5p+TL+WOi+WItu+8iQpNTUTvvJpBSEsK5a6h5qC477ya5Y+25a2Q54yr54yr5YS/CueUu+W4iO+8muahkeahkeS6lS/pm77phbEv55Wq6Jav5a2QL+S4neS4nS8K6bm/57uu57uuL+iNieS9mS/mt7HosLcv5a6J5a2QL+S+neeTty/lj4Llrr/kuIMv5ruh5pif5aScL+mjjueBry/nuqXpqqjlvZPlvZIvaGlzYemVnC/ms6Xms6Uv6Zi/5b27L+aciOWchi/pmL/kuIMv6K+X6amvL+axoOWnhi/ojrHli5Iv5rOK6Z+zL+W3neWkrS/phaXlpoMv5ZC+6L6I5LmD5piv5Za15LmfL+WPtuWtkOWWteWWteWEvy/lsKTnsbPlppblppYv5ZSvVHUvcmltaS93aGlybGluL2t1dXVzL3lhbC9NdXUvMTIz"
+[[parts]]
+cid = 269422922
+name = "【钢琴】为了你唱下去"
+length = 340
+resolution = "1920x1080"
+
+[uploader]
+uid = 128548736
+name = "逆卷一多"
+
+[snapshot]
+snapshot-time = 1612899012.8040502
+danmakus-count = 3
+likes-count = 111
+favorites-count = 236
+snapshot-by = "moe.lty.bgetlib/1.x"

@@ -1,0 +1,56 @@
+avid = 800761126
+bvid = "BV1vy4y1i73U"
+title = "【赤羽原创】野心家【原创PV付】【踏云社】"
+category = "VOCALOID·UTAU"
+create-time = 1608853232
+publish-time = 1608897600
+desc-base64 = "5LiW55WM5pyr5pel5LmL5YmN5q+P5Liq5Lq655qE5q275rOV5pyJ5LiA55m+56eN44CCCgrmm7Iv5re377yaS2V2aW56Cuivje+8muWInee5geiogArosIPvvJrlk4jlo6vlpYcK57uY77ya6LSw6bG8Cuetli/lvbHvvJrmn7Plu7bkuYsK5ZSx77ya6LWk5769CuWHuuWTge+8mui4j+S6keekvg=="
+[[parts]]
+cid = 277872019
+name = "野心家final"
+length = 326
+resolution = "1920x1080"
+
+[[staff]]
+uid = 4671829
+title = "UP主"
+name = "柳柳柳柳延之"
+
+[[staff]]
+uid = 3334365
+title = "作曲"
+name = "-Kevinz-"
+
+[[staff]]
+uid = 1856472
+title = "作词"
+name = "初繁言"
+
+[[staff]]
+uid = 529083
+title = "调校"
+name = "哈士奇P"
+
+[[staff]]
+uid = 204249
+title = "曲绘"
+name = "愚雨贰鱼Arieh"
+
+[[staff]]
+uid = 538927043
+title = "参演"
+name = "踏云社"
+
+[upper]
+uid = 4671829
+name = "柳柳柳柳延之"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110888.060257
+plays = 27741
+danmakus = 103
+likes = 3230
+favorites = 2801
+coins = 2753
+comments = 305

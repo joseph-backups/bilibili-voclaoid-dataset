@@ -1,0 +1,26 @@
+avid = 456679355
+bvid = "BV1p5411879s"
+title = "《苍蝇》 赤羽 原创"
+category = "VOCALOID·UTAU"
+create-time = 1597021810
+publish-time = 1597021810
+desc-base64 = "MS7ov5nmm7LlrZDopoHor7TkuZ/kuI3nrpfmlrDkuobvvIzmm77lm6DkuLrmn5Dkupvljp/lm6DmsqHlj5HvvIzku4rlpKnog73lnKh1cOi/memHjOWGjeasoeWQrOWIsOaIkeS7rOmdnuW4uOW8gOW/gw0KMi7omb3nhLbkuI3mmK/nrKzkuIDmrKHot5/otaTnvr3kvazlkIjkvZzvvIzkvYbmmK/mmK/nrKzkuIDmrKHnu5nlpbnllLHljp/liJvmrYzmm7LjgILotaTnvr3ooajnjrDlvojlpb3vvIzllLHlvpflvojmnInmsJTotKgNCjMu6IaI5bqU5b2S6IaI5bqU77yM5oiR5a+56IuN6J2H6L+Z546p5oSP6L+Y5piv5pyJ552A5p+Q56eN5oSf5oOF55qE77yM5Y6f5Zug5LiN5piODQo0LuW9k+eEtuS4u+imgei/mOaYr+iGiOW6lA0KNS7miJHop4nlvpfop4bpopHog73kuI3og73nnIvov5nkuKrpl67popjkvaDku6zlupTor6Xpg73kuaDmg6/kuobkuYjkuYjlk5LvvIzmg6/kvovnmoToh6rlt7Hns4rkuobns4oNCjYu6K+N5YWF5ruh5LqG5Y+k5pep55qE5Lit5LqM5oSP5ZGz77yM5pu+57uP5pyJ5q615q2M6K+N5piv5Zeh5Zeh5Zeh5Zeh5Zeh5Zeh5Zeh5Zeh5Zeh5Zeh5Zeh5Zeh77yM5ZCO5p2l5aSq6Ze55b6X5oWM5LqG5oiR57uZ5pGY5LqG77yM5L2g5Lus6Ieq5bex5Zyo6K+E6K665oiW6ICF5by55bmV5ZWl55qE5Zeh552A546p5ZCn"
+[[parts]]
+cid = 222565892
+name = "苍蝇_bilibili"
+length = 201
+resolution = "1920x1080"
+
+[upper]
+uid = 3379951
+name = "ilem"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110867.3310814
+plays = 3378377
+danmakus = 13926
+likes = 261978
+favorites = 139310
+coins = 191464
+comments = 17395

@@ -1,0 +1,46 @@
+avid = 328751398
+bvid = "BV1VA411e79u"
+title = "【2020言和生贺原创曲】言传"
+category = "VOCALOID·UTAU"
+create-time = 1594124613
+publish-time = 1594396836
+desc-base64 = "44CK6KiA5Lyg44CLCgrnrZbliJLvvJrnmb3msLTpu5HlsbEK5L2c6K+N77ya5Yal5YewCuS9nC/nvJbmm7Iv5re36Z+z77yabGl0dGVyenkK5ryU5ZSx77ya6KiA5ZKMCuiwg+agoe+8mue6s+WFsOWvu+mjjgrnrJvlrZDvvJrmsLTnjqXlhL8K5puy57uY77ya54Gw5LmM6bimCumimOWtl++8mui/n+a0sgrnvo7lt6XvvJrpmLvpm6oK6KeG6aKR77ya6aG65YW25bCP54S2CuinhumikeWNj+WKqe+8muW9semaj+m+memjjgrkvIHliJLnm5HliLbvvJpDbENIMkNPQ2w="
+[[parts]]
+cid = 209883591
+name = "言传 PV定稿 7.7"
+length = 294
+resolution = "1920x1080"
+
+[[staff]]
+uid = 43855
+title = "UP主"
+name = "litterzy"
+
+[[staff]]
+uid = 5798
+title = "作词"
+name = "冷鸟"
+
+[[staff]]
+uid = 893950
+title = "调校"
+name = "纳兰寻风"
+
+[[staff]]
+uid = 3217277
+title = "曲绘"
+name = "灰鸦鸦"
+
+[upper]
+uid = 43855
+name = "litterzy"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110859.7858136
+plays = 148449
+danmakus = 2669
+likes = 17850
+favorites = 14091
+coins = 14758
+comments = 2202

@@ -1,0 +1,26 @@
+avid = 11394206
+bvid = "BV1Px411h7Qe"
+title = "【洛天依原创】举头三尺【pv付】【超语速系列】"
+category = "VOCALOID·UTAU"
+create-time = 1497682668
+publish-time = 1497682668
+desc-base64 = "6L+Z5piv5LiA5Liq6K6y6L+w5LqG5aaC5L2V6Lez5qW855qE77yM6LaF6K+t6YCf55qE56We56eY5q2M5puy44CCCuabsi/osIMv5re377ya5riF6aOO55a+6KGMICDor43vvJrmsajnvZfmsrPnq6UgIOe7mC/lvbHvvJrnsqLnsbMgIOWNj+WKm++8muWNg+WuuArov5zlj6Tlt6jlnZ/vvIjnrJHvvIk="
+[[parts]]
+cid = 18839664
+name = ""
+length = 300
+resolution = "640x360"
+
+[upper]
+uid = 23087252
+name = "清风疾行没有q"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110843.1380277
+plays = 22985
+danmakus = 489
+likes = 894
+favorites = 1941
+coins = 1081
+comments = 377

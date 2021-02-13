@@ -1,0 +1,56 @@
+avid = 95751223
+bvid = "BV1NE41157ZZ"
+title = "【乐正绫/洛天依】 Fly me to the star【少女歌剧ed】"
+category = "VOCALOID·UTAU"
+create-time = 1584121549
+publish-time = 1584180001
+desc-base64 = "44CQ4piF5pys5a6277yaYXYyODE5Nzg4OeOAkQrimIVWb2NhbO+8muS5kOato+e7qy/mtJvlpKnkvp0K4piF6LCDL+a3t++8mua6see7q+ilv+mZjC/mmJ/okbUK4piF5aGr6K+N77ya5p6c5rGB5YeJ6I+cCuKYheabsue7mO+8muWdpuahkS/mtIvoiosK4piFcHbvvJrntoTpo44="
+[[parts]]
+cid = 163462970
+name = "飞我去星"
+length = 102
+resolution = "1920x1080"
+
+[[staff]]
+uid = 4113629
+title = "UP主"
+name = "溱绫西陌"
+
+[[staff]]
+uid = 8192640
+title = "调校"
+name = "星葵"
+
+[[staff]]
+uid = 1629850
+title = "作词"
+name = "果汁凉菜"
+
+[[staff]]
+uid = 11769563
+title = "曲绘"
+name = "坦桑想吃豆沙包"
+
+[[staff]]
+uid = 2468984
+title = "曲绘"
+name = "鲜洋芋"
+
+[[staff]]
+uid = 13651772
+title = "视频制作"
+name = "綄风"
+
+[upper]
+uid = 4113629
+name = "溱绫西陌"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110893.498042
+plays = 33971
+danmakus = 280
+likes = 4828
+favorites = 3199
+coins = 1650
+comments = 378

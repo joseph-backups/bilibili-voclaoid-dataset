@@ -1,0 +1,26 @@
+avid = 17679427
+bvid = "BV1SW411t71Z"
+title = "【鏡音リン・レン】你的百科【Junky】"
+category = "VOCALOID·UTAU"
+create-time = 1514374410
+publish-time = 1514374409
+desc-base64 = "aHR0cHM6Ly93d3cubmljb3ZpZGVvLmpwL3NtMzI0ODg0MDcK44Gp44GG44KC44CBSnVua3njgafjgZnjgIIK44GT44GuMTDlubTjgafmsqLlsbHjga7jgJDjgq3jg5/jgJHjgpLnn6XjgovjgZPjgajjgYzjgafjgY3jgZ/jgIIKCk11c2ljL0x5cmlj77yaSnVua3kgIHR3aXR0ZXLvvJpASnVua3lfQm94CklsbHVzdO+8muOBoeOBuyAgVHdpdHRlcu+8mkBjaGlob3kgIApNb3ZpZe+8muOBquOBlOOBv+OAgCBUd2l0dGVy77yaQG5hZ29taW50ZXJuZXQKS0FSRU5UIHByZXNlbnRzIOmPoemfs+ODquODs+ODu+ODrOODsyAxMHRoIEFubml2ZXJzYXJ5IC1MT0RFU1RBUi3jgIAyMDE3LjEyLjI3IFJlbGVhc2U="
+[[parts]]
+cid = 28863557
+name = "P1"
+length = 221
+resolution = "640x360"
+
+[upper]
+uid = 797614
+name = "阿赫official"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110850.7219918
+plays = 63890
+danmakus = 604
+likes = 2579
+favorites = 8386
+coins = 1875
+comments = 456

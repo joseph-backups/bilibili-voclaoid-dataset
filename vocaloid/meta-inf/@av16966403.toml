@@ -1,0 +1,26 @@
+avid = 16966403
+bvid = "BV1LW411Y7cE"
+title = "【虚拟歌手×人声的合唱，你听过几首？】Shall We Talk【心华、折v】【完整版粤语cover】"
+category = "VOCALOID·UTAU"
+create-time = 1512460635
+publish-time = 1512460635
+desc-base64 = "5Y6f5ZSx77ya6ZmI5aWV6L+FICAgICAK5puy77ya6ZmI6L6J6ZizICAgCuivje+8muael+WklQrmvJTllLHvvJrlv4PljY7jgIHmiph2ICAgICAK6LCD5re35pGE5b2xOiDmiph2ICAgCgrlp5HkuJTlsLHlj6vov5nkuKrmmK/jgJDmipjlv4Pnu4TjgJHlkKfvvIEK5rKh5oOz5Yiw5LuK5bm05pyA5ZCO6L+Z5Liq5pyI6YeM5bGF54S25Zug5Li66ICD5LqG576O5pyv5LqM5qih5pS+5LqG5Lik5aSp5YGH44CCCuS4jeWbnuWutuaRuOmxvOWvueS4jeS9j+iHquW3se+8gQrljp/llLHotoXnuqfmo5LvvIzpnZ7luLjmnInmhJ/op6bnmoTkuIDmrKHnv7vllLHjgIIK55So55qE5piv5b+D5Y2O55qE5Lit5paHVjTvvIzmi4bpn7Pmi4blvpfmiJHlk5/Ct8K3wrfCtwrlj5HnjrDoh6rlt7HotormnaXotorkuI3kvJrotLTmt7fjgIIK6Z+z6aKR5bey5LiK5Lyg5Yiw6Z+z6aKR5Yy677yMNXNpbmfkuIvovb3lnLDlnYBodHRwOi8vNXNpbmcua3Vnb3UuY29tL2ZjLzE2Mjg3ODY4Lmh0bWw="
+[[parts]]
+cid = 27735554
+name = ""
+length = 229
+resolution = "800x360"
+
+[upper]
+uid = 1963756
+name = "折v折微微"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110850.1918354
+plays = 23988
+danmakus = 262
+likes = 1295
+favorites = 1768
+coins = 1924
+comments = 450

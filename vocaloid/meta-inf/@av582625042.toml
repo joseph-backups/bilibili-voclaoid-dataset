@@ -1,0 +1,56 @@
+avid = 582625042
+bvid = "BV1464y1u7yy"
+title = "【乐正绫原创曲】焰愿2.0版·因为你始终在我的身旁【乐正绫五周年生日】"
+category = "VOCALOID·UTAU"
+create-time = 1586589142
+publish-time = 1586668504
+desc-base64 = "5Ye65ZOB77ya5peg5ZCN56S+Cuetlu+8mlNlbWFh5bCP6LWbCuabsu+8mk9yYW5nZSBzb2Rh77yI5peg5ZCN5ZWw5ZWw5Zem5Zem5LiA5a6a6KaB5oiR5pS5LSAt77yJCuivje+8muW9semSpgrosIPvvJroia/oia/lrZAK5re377yaT3JhbmdlIHNvZGHvvIjml6DlkI3llbDllbDll6bll6bkuIDlrpropoHmiJHmlLktIC3vvIkK57uY77ya54eV5a2QCnB277yaTW9uYXJjaAoK5LuO5a2x5byx55qE54Ob54GrIOWIsOa8q+WkqeeahOaYn+iKkgrmiJHlrojnnYDluIzlhoAg5a6I552A5p+U6L2v55qE5qKm5oOzCuWwhumCo+autemXquS6rueahOaXtuWFiQrovbvovbvlvLnllLEK4oCU4oCU5Zug5Li65L2g5aeL57uI5Zyo5oiR55qE6Lqr5peBCgrkupTlkajlubTnlJ/ml6Xlv6vkuZB+6Zi/57urCuaIkeS7rOS4gOebtOmDveWcqH4KCirlj6/mgJzlha7lha7nmoTmiJHku6xRQVEq"
+[[parts]]
+cid = 177386416
+name = "终于"
+length = 219
+resolution = "1920x1080"
+
+[[staff]]
+uid = 545629
+title = "UP主"
+name = "无名社"
+
+[[staff]]
+uid = 839696
+title = "策划"
+name = "Semaa小赛"
+
+[[staff]]
+uid = 2058936
+title = "作曲"
+name = "Orangesoda橙子汽水"
+
+[[staff]]
+uid = 2000704
+title = "调校"
+name = "良良子p"
+
+[[staff]]
+uid = 3277358
+title = "曲绘"
+name = "燕子辞"
+
+[[staff]]
+uid = 16266694
+title = "视频制作"
+name = "殘酷電動小狗"
+
+[upper]
+uid = 545629
+name = "无名社"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110870.6646912
+plays = 7626
+danmakus = 59
+likes = 1524
+favorites = 1206
+coins = 493
+comments = 251

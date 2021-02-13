@@ -1,0 +1,51 @@
+avid = 752661216
+bvid = "BV1Qk4y197ux"
+title = "【乐正绫原创】春华烟云【乐正绫五周年生贺】【PV附】"
+category = "VOCALOID·UTAU"
+create-time = 1586647784
+publish-time = 1586746803
+desc-base64 = "6Zi/57ur55Sf5pel5b+r5LmQ77yB5Lq65aOw5pys5a6254mI5pys5Lya5Zyo5LmL5ZCO5pS+5Ye677yBCuivje+8mueni+OBruWiqF8K5puy77ya5b6Q5r2HCue8lu+8jOiwg++8jOa3t++8muaoseiKseWQuembqgrmm7Lnu5jvvJrluIPlhrAKUFbvvJpzZW1hYeWwj+i1mwrosKLosKLmiJHlrrblsI/otZvlp5Dlp5DluK7miJHotbbnmoRQVu+8ge+8gQ=="
+[[parts]]
+cid = 177605969
+name = "2(2)_Mux"
+length = 251
+resolution = "1920x1080"
+
+[[staff]]
+uid = 5296500
+title = "UP主"
+name = "樱花吹雪丶"
+
+[[staff]]
+uid = 144734091
+title = "作词"
+name = "秋の墨_"
+
+[[staff]]
+uid = 16380667
+title = "曲绘"
+name = "布布布冰"
+
+[[staff]]
+uid = 839696
+title = "视频制作"
+name = "Semaa小赛"
+
+[[staff]]
+uid = 545629
+title = "参演"
+name = "无名社"
+
+[upper]
+uid = 5296500
+name = "樱花吹雪丶"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110883.6867146
+plays = 9105
+danmakus = 76
+likes = 1528
+favorites = 1272
+coins = 642
+comments = 366

@@ -1,0 +1,76 @@
+avid = 59111196
+bvid = "BV1Yt411V7C3"
+title = "【初音未来、洛天依原创曲】初心依然【BML同台应援曲】"
+category = "VOCALOID·UTAU"
+create-time = 1563075768
+publish-time = 1563094823
+desc-base64 = "5Li657qq5b+15Yid6Z+z5pyq5p2l5ZKM5rSb5aSp5L6d5ZyoQk1M5Y6G5Y+y5oCn55qE6aaW5qyh5ZCM5Y+w5ryU5Ye677yM6ICM5Yib5L2c5LqG44CK5Yid5b+D5L6d54S244CL6L+Z6aaW5q2M77yM5Li65q2k5qyh5ZCM5Y+w5bqU5o+044CCCgror43mm7LnvJbvvJrnsbPlupPllrUK6LCD5pWZ77ya5Yqo54K5cO+8iOa0m+WkqeS+ne+8ieOAgeexs+W6k+WWte+8iOWInemfs+acquadpe+8iQrotJ3lj7jvvJrkurrlvaLlhY4K5re36Z+z77yaRGlnaWZhbgrmj5LnlLvvvJrmt7Hpm6rjgIHmn7Toib7jgIFQ5a2Q44CB5rWF6JOd44CB55Cq6YWxCuinhumike+8mueMq+OBruaipu+8iFRT5pig55S777yJ"
+[[parts]]
+cid = 103068118
+name = "合成 1_x264"
+length = 237
+resolution = "1920x1080"
+
+[[staff]]
+uid = 12481783
+title = "UP主"
+name = "动次打次的动点p"
+
+[[staff]]
+uid = 25666164
+title = "作曲"
+name = "米库喵"
+
+[[staff]]
+uid = 2382132
+title = "演奏"
+name = "人形兎"
+
+[[staff]]
+uid = 14158486
+title = "混音"
+name = "Digifan"
+
+[[staff]]
+uid = 95407912
+title = "曲绘"
+name = "深雪_桃花源的长期住民"
+
+[[staff]]
+uid = 174907
+title = "曲绘"
+name = "柴艾-yal"
+
+[[staff]]
+uid = 299732210
+title = "视频制作"
+name = "-TS映画-"
+
+[[staff]]
+uid = 149066
+title = "曲绘"
+name = "Pelokio"
+
+[[staff]]
+uid = 2252944
+title = "曲绘"
+name = "浅蓝bluesky"
+
+[[staff]]
+uid = 23182457
+title = "视频制作"
+name = "猫の夢が消えた"
+
+[upper]
+uid = 12481783
+name = "动次打次的动点p"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110873.0180337
+plays = 351519
+danmakus = 8193
+likes = 35182
+favorites = 33381
+coins = 29707
+comments = 2890

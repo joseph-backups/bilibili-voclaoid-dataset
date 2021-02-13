@@ -1,0 +1,26 @@
+avid = 62102098
+bvid = "BV1Vt411g7df"
+title = "【洛天依原创】从你的余生缺席"
+category = "VOCALOID·UTAU"
+create-time = 1564884053
+publish-time = 1564884044
+desc-base64 = "44CQ5LuO5L2g55qE5L2Z55Sf57y65bit44CRCua8lOWUse+8mua0m+WkqeS+nQrnrZbliJIv5L2c6K+NL+S9nOabsu+8muiRl+Wwj+eUn++8iOWNiuacqOeUn++8iQrnvJbmm7LvvJrpm7blsI/kuIMK6LCD5pWZL+WQjuacn++8muajieiKsXDvvIjljYrmnKjnlJ/vvIkK5ZKM5aOw6K6+6K6h77ya6LGG6IWQUO+8iOWNiuacqOeUn++8iQrog4zmma/nlLvluIjvvJrkuInmsLQK5Lq654mp55S75biI77ya5a+S6J2JCuinhumike+8mua4uOWPtgrpopjlrZfvvJrlhrDlnZfvvIjljYrmnKjnlJ/vvIkK5omL5YaZ77ya5Y2X5aSu55m96KGj77yI5Y2K5pyo55Sf77yJCuWHuuWTge+8muWNiuacqOeUn+W3peS9nOWupA=="
+[[parts]]
+cid = 107952669
+name = "缺席"
+length = 276
+resolution = "1920x1080"
+
+[upper]
+uid = 173583326
+name = "著小生zoki"
+
+[snapshot]
+snapshot-by = "bget-fav-vocaloid-toml/inforeg.py/2.0"
+snapshot-at = 1610110874.5302284
+plays = 73043
+danmakus = 503
+likes = 6849
+favorites = 7054
+coins = 5131
+comments = 542
