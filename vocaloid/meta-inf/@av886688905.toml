@@ -1,0 +1,77 @@
+create-time = 1613167777
+publish-time = 1613167777
+avid = 886688905
+bvid = "BV16K4y1n7VP"
+title = "原创新年贺曲《手写春联》洛天依&乐正绫"
+category = "原创音乐"
+desc-base64 = "5Y6f5Yib6LS65paw5q2M5puy44CK5omL5YaZ5pil6IGU44CLCuetluWIkuivjeS9nDpBenVsZXPmsaDpsbwK5L2c57yW5puyOnN3aXNzMTI2ClbosIM655av5a2QCuavjeW4pu+8muW8oOmbqOazvQrmt7fpn7M65pyI55aPCnB277ya6bG857G9CueUu+W4iDrlkrjpsbwK576O5belOumXqumXqiAK6aKY5a2XOuaYjuaciArmrYzmiYs65aKo6a2C44CB5Y2D5bGC54On6YWS44CB5rGf6ZOD5aSV44CB56eL5p6rCuW/teeZvTrlqYnlqYnjgIHovbbmtrXjgIHpo47nkoPjgIHmgJ3lu7/jgIHlj7bnrJnokJ3jgIHmsLTms7E="
+[[parts]]
+cid = 296951739
+name = "格式工厂混流 預覽V家"
+length = 186
+resolution = "1920x1080"
+
+[[staff]]
+favorite-time = 12450
+uid = 313105721
+title = "UP主"
+name = "Azules池鱼"
+
+[[staff]]
+favorite-time = 12450
+uid = 7493323
+title = "作曲"
+name = "swiss126"
+
+[[staff]]
+favorite-time = 12450
+uid = 13938564
+title = "调校"
+name = "0疯_子0"
+
+[[staff]]
+favorite-time = 12450
+uid = 178658769
+title = "混音"
+name = "bili赤碧"
+
+[[staff]]
+favorite-time = 12450
+uid = 335821597
+title = "母带"
+name = "酉州狱长"
+
+[[staff]]
+favorite-time = 12450
+uid = 9859254
+title = "曲绘"
+name = "咸鱼可以吃AwA"
+
+[[staff]]
+favorite-time = 12450
+uid = 436589672
+title = "视频制作"
+name = "鱼籽拌饭の仙女们"
+
+[[staff]]
+favorite-time = 12450
+uid = 514508456
+title = "演唱"
+name = "秋枫偶尔抽风"
+
+[[staff]]
+favorite-time = 12450
+uid = 187846102
+title = "演唱"
+name = "江铃夕呀"
+
+[uploader]
+uid = 313105721
+name = "Azules池鱼"
+
+[snapshot]
+snapshot-time = 1613319857.2191658
+danmakus-count = 6
+likes-count = 163
+favorites-count = 265
+snapshot-by = "moe.lty.bgetlib/1.x"

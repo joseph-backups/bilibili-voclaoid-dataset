@@ -1,0 +1,23 @@
+create-time = 1613277905
+publish-time = 1613277905
+avid = 246702788
+bvid = "BV1iv411a7uD"
+title = "【洛天依·乐正绫】大家来恋爱【feat.龙牙】【哈士奇/Cover】"
+category = "VOCALOID·UTAU"
+desc-base64 = "5L2c6K+N77ya5aea6Iul6b6ZCuS9nOabsu+8mkNobyBHeXUtTWFuCuWOn+WUse+8muWImOiLpeiLsSzlvpDmgIDpkrAs5a2U5Luk5aWHCue/u+WUse+8mua0m+WkqeS+ne+8jOS5kOato+e7q++8jOS5kOato+m+meeJmQrosIPlo7AmVlNRWO+8muWTiOWjq+Wlhwrml6nlsLHmg7PosIPov5npppbmrYzkuobvvIHkvYbmmK/kuYvliY3kuIDnm7TmsqHmib7liLDkvLTlpY/vvIzov5nmrKHmib7liLDkuobluKZyYXDnmoTkvLTlpY/vvIznhLblkI7lgZrkuobkuKrlnJ/lnJ/nmoTop4bpopHjgJDlubbkuI3mg7Pov5nmoLcK5oOF5Lq66IqC5b+r5LmQ77yB5aSn5a625p2l5oGL54ix77yB"
+[[parts]]
+cid = 297471008
+name = "投稿"
+length = 260
+resolution = "1920x1080"
+
+[uploader]
+uid = 529083
+name = "哈士奇P"
+
+[snapshot]
+snapshot-time = 1613319799.545742
+danmakus-count = 26
+likes-count = 142
+favorites-count = 329
+snapshot-by = "moe.lty.bgetlib/1.x"

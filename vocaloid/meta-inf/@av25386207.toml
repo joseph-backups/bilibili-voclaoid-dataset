@@ -1,0 +1,23 @@
+create-time = 1529665646
+publish-time = 1529665646
+avid = 25386207
+bvid = "BV1Hs41177ZZ"
+title = "【洛天依原创】多情岸【忘川风华录】"
+category = "VOCALOID·UTAU"
+desc-base64 = "5oC7562W5YiS77ya5pyo5a6B5pyo6JKZCuS8geWIkui/kOiQpe+8muWhlOW6kwrnm5HliLbvvJrokL3okL3ml6DlsJjjgIHljb/pm4XjgIHlsI/ku5kK5L2c5puy77ya54Gw5Y6f56m3IHwg57yW5puy77yaTXpm5bCP5oWVICB8IOS9nOivje+8muaLqeiNhwrmvJTllLHvvJrmtJvlpKnkvp0gfCDosIPmlZnvvJroirHlhL/kuI3lk60gfCDmt7fpn7PvvJpNci7mm77nu48gfCDkuozog6HvvJrovrDlsI/lvKYgfCDnrJvnrqvvvJrlm5rniZsgfCDop4bpopHvvJrpm7bkuYvlub3jgJDpurvolq/mmKDlg4/jgJF8IOabsue7mO+8muS8gem5heWtkArpgqPlnLrmtJvmsLTkuYvnlZTnmoTnm7jpgKLvvIzmnYPlvZPmmK/miJHnmoTkuIDlnLrlpKfmoqblkKfigKbigKY="
+[[parts]]
+cid = 177546901
+name = "多情岸_1"
+length = 293
+resolution = "1920x1080"
+
+[uploader]
+uid = 326258472
+name = "忘川风华录"
+
+[snapshot]
+snapshot-time = 1613319815.8595178
+danmakus-count = 6847
+likes-count = 69058
+favorites-count = 48850
+snapshot-by = "moe.lty.bgetlib/1.x"

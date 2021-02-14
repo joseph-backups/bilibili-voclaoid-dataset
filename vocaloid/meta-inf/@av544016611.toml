@@ -1,0 +1,59 @@
+create-time = 1612914991
+publish-time = 1612929617
+avid = 544016611
+bvid = "BV1Xv4y1o7iK"
+title = "【心华 feat.心明】Betelgeuse【心华六周年】【原创PV付】"
+category = "VOCALOID·UTAU"
+desc-base64 = "6YKj5Liq5piv5Liq5p6B5Ya355qE5Yas5pel77yMCuWNtOacieWFiea1gei/m+S6huecvOedm+OAggrkvaDnn6XpgZPvvIzlpbnnn6XpgZPvvIwK5YaN6YGl6L+c55qE5pif5Lmf57uI5bCG6Leo6LaK5Y2D6YeM4oCU4oCUCue7iOWwhumBh+ingeS9oOOAggrmlofmoYggYnkg5Yid57mB6KiACj09PT09PT09PT09PT09PT09PT09CuesrOS6lOW8uSDwn4y4a3BvcOWhq+e/u+S8geWIkuiBlOWKqPCfjLgK44CKQmV0ZWxnZXVzZeOAiwrljp/mm7LvvJpBS01VIC0g44CKRGlub3NhdXLjgIsK5aGr6K+N77ya56iX5a2QCuaJkuiwsS/lkozlo7DvvJpBZGFtX0sK6LCD5pWZ77ya5LyK5rC0X1VyeWFuCua3t+mfs++8muWGsOWxsV9oeW96YW4K5puy57uY77ya56aB6KiACuetluWIki/op4bpopHvvJrmn7Plu7bkuYsK5b+D6Iqx6ZmG5pS+5LyB5YiS5puy6IGU5Yqo77ya44CK5b+D5aaC5q2i5rC044CLQlYxeHI0eTFQN3lBIOOAiuiUk+ePoOiOjuWNjuOAi0JWMW12NDExZTdOWAprcG9w5aGr57+75LyB5YiS6IGU5Yqo77ya44CKSEFOTuOAi0JWMVY0NDExejc5RiDjgIpNaW5pc2tpcnTjgItCVjFaNzQxMTM3Nmcg44CKRG9uJ3TjgItCVjFoSzR5MXM3YmMg44CKRWdvdGlzdGlj44CLQlYxREM0eTF0N1lOIOOAikV2ZXJ5IE5pZ2h044CLQlYxWnA0eTFyN24z"
+[[parts]]
+cid = 295726460
+name = "Betelgeuse"
+length = 242
+resolution = "1920x1080"
+
+[[staff]]
+favorite-time = 12450
+uid = 4671829
+title = "UP主"
+name = "柳柳柳柳延之"
+
+[[staff]]
+favorite-time = 12450
+uid = 37723550
+title = "填词"
+name = "-稗子-"
+
+[[staff]]
+favorite-time = 12450
+uid = 37764186
+title = "曲绘"
+name = "禁止言说"
+
+[[staff]]
+favorite-time = 12450
+uid = 1645171
+title = "调校"
+name = "伊水_Uryan"
+
+[[staff]]
+favorite-time = 12450
+uid = 367321
+title = "混音"
+name = "冰山_hyozan"
+
+[[staff]]
+favorite-time = 12450
+uid = 1327031
+title = "参演"
+name = "Adam_K"
+
+[uploader]
+uid = 4671829
+name = "柳柳柳柳延之"
+
+[snapshot]
+snapshot-time = 1613319912.2504675
+danmakus-count = 52
+likes-count = 602
+favorites-count = 958
+snapshot-by = "moe.lty.bgetlib/1.x"

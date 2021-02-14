@@ -1,0 +1,23 @@
+create-time = 1613314854
+publish-time = 1613314854
+avid = 246714299
+bvid = "BV1mv411a7hq"
+title = "【洗脑向】~天依满天飞~  Vsinger三人合唱"
+category = "VOCALOID·UTAU"
+desc-base64 = "6Ieq5bex5YaZ55qE5Ly05aWPCueJiOadg+WOn+WboO+8jOS4jeiDveivtOWkquWkmgrmnInpl67popjor4TorrrljLrorqjorro="
+[[parts]]
+cid = 297734367
+name = "天依满天飞"
+length = 190
+resolution = "1080x1080"
+
+[uploader]
+uid = 128548736
+name = "逆卷一多"
+
+[snapshot]
+snapshot-time = 1613319812.6272848
+danmakus-count = 3
+likes-count = 11
+favorites-count = 23
+snapshot-by = "moe.lty.bgetlib/1.x"

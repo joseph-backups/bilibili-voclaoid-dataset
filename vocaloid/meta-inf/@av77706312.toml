@@ -1,0 +1,41 @@
+create-time = 1575196310
+publish-time = 1575604840
+avid = 77706312
+bvid = "BV17J411z74y"
+title = "【洛天依原创】化作繁星——写给昨天与明天"
+category = "VOCALOID·UTAU"
+desc-base64 = "44CM5oS/5YyW5L2c54K554K557mB5pif77yMCuS5mOedgOWknOmjjuWcqOS6uua1t+S4reaLpeaKseS9oOOAguOAjQrov5zlj6TnmoTliY3kvZzvvJphdjEwNDIzNjQKCuivjS/mm7Iv57yW77ya5YWs5YWUICAK6LCD77ya5pm05rW3L+WFrOWFlCAgCue7mO+8muaZtOa1tyAgCuinhumike+8muWmueezu+WOqArlrZfvvJrplb/lrok="
+[[parts]]
+cid = 132935513
+name = "化作繁星_Mux"
+length = 289
+resolution = "1280x720"
+
+[[staff]]
+favorite-time = 12450
+uid = 2374053
+title = "UP主"
+name = "公兔"
+
+[[staff]]
+favorite-time = 12450
+uid = 3092339
+title = "曲绘"
+name = "晴海再不画画就剁手"
+
+[[staff]]
+favorite-time = 12450
+uid = 2041907
+title = "视频制作"
+name = "妹系厨_NichRabbit"
+
+[uploader]
+uid = 2374053
+name = "公兔"
+
+[snapshot]
+snapshot-time = 1613319887.4816918
+danmakus-count = 491
+likes-count = 8292
+favorites-count = 8471
+snapshot-by = "moe.lty.bgetlib/1.x"

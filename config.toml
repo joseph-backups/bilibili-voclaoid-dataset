@@ -13,3 +13,8 @@ copy.replace.dash="DASH Video"
 copy.replace.aiff="Apple Playable Audio"
 copy.replace.flac="FLAC Audio"
 copy.replace.data="Dataset"
+
+[music]
+id = 90169562
+copy.base="F:\\OneDrive - 66CCFF\\哔哩哔哩备份计划\\Main"
+copy.replace.dash="01-Music"
