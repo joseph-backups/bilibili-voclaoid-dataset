@@ -1,0 +1,23 @@
+create-time = 1497361449
+publish-time = 1469256184
+avid = 5456222
+bvid = "BV15s41117Ex"
+title = "【上海地铁】【地铁音MAD】Metro Live! 地铁偶像祭"
+category = "音MAD"
+desc-base64 = "5Li65LqG5a6I5oqk5b+D54ix55qE5Zyw6ZOBIOS5neWIl+i9puermeS6huWHuuadpe+8geWlueS7rOeahOebruagh+aYr+KAlOKAlAo="
+[[parts]]
+cid = 8866630
+name = ""
+length = 160
+resolution = "640x360"
+
+[uploader]
+uid = 44218
+name = "雅音宫羽MasaneMiyaPA"
+
+[snapshot]
+snapshot-time = 1613320688.3000472
+danmakus-count = 866
+likes-count = 1938
+favorites-count = 372
+snapshot-by = "moe.lty.bgetlib/1.x"

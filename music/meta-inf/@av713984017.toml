@@ -1,0 +1,41 @@
+create-time = 1612247389
+publish-time = 1612614606
+avid = 713984017
+bvid = "BV18X4y1N7Yh"
+title = "【原神拜年纪】让风告诉你"
+category = "原创音乐"
+desc-base64 = "5ryU5ZSx77yaCuWPr+iOieKAlOKAlOiKseeOsgrmuKnov6rigJTigJTllrXimIbphbEK5LiD5LiD4oCU4oCU5a605a6BY2NjY2MK6a2I4oCU4oCUa2luc2VuCgrnlLvluIjvvJot6buR6bm/5Y6fLeOAgUt1cmF0dGVzCgror43mm7Iv5Yi25L2c5Lq677yaQ2hpbGlDaGlsbArnvJbmm7LvvJpDaGlsaUNoaWxsCui0neaWr++8muWGr+WtkOaYjuOAgeWxseWPo+mAsuS5nwrplb/nrJvvvJpTYWxpdCBMYWhhdgrlvKbkuZDnvJblhpnvvJrog6HpnZnmiJAK5bCP5o+Q55C077ya5bqe6ZiUIC8g5byg5rWpCuS4reaPkOeQtO+8muavleiKswrlpKfmj5DnkLTvvJrpg47ojrkK5bym5LmQ5b2V6Z+z77ya5p2O5piV6L6+QOS5nee0q+Wkqeivmgrkurrlo7DlvZXpn7Pmo5rvvJpZSUhFIFN0dWRpbwrmt7fpn7Mv5q+N5bim77yaQ2hpbGlDaGlsbAoKQ2hpbGlDaGlsbOaYr+eUseaIkOWRmFl1IEgu5ZKMQ3VTdW1tZXLnu4TmiJDnmoTkuozkurrni6znq4vpn7PkuZDlm6LkvZMK6Z+z6aKR54mI5Lya5ZyoMuaciDfml6Xpm7bml7bkuIrnur/lkITlpKfpn7PkuZDlubPlj7AK5Ly05aWP5Lyg6YCB77yaIGh0dHBzOi8vcGFuLmJhaWR1LmNvbS9zLzE5bmVGaHFxSUxnZFV6bWhPdjlSbHdnICDlr4bnoIE6IGtlNzU="
+[[parts]]
+cid = 291367405
+name = "让风告诉你 PV"
+length = 228
+resolution = "1920x1080"
+
+[[staff]]
+favorite-time = 12450
+uid = 90942983
+title = "UP主"
+name = "YuH_ChiliChill"
+
+[[staff]]
+favorite-time = 12450
+uid = 348613479
+title = "视频制作"
+name = "Kurattes"
+
+[[staff]]
+favorite-time = 12450
+uid = 122814
+title = "视频制作"
+name = "-黑鹿原-"
+
+[uploader]
+uid = 90942983
+name = "YuH_ChiliChill"
+
+[snapshot]
+snapshot-time = 1613320679.209656
+danmakus-count = 14176
+likes-count = 256196
+favorites-count = 321686
+snapshot-by = "moe.lty.bgetlib/1.x"

@@ -1,0 +1,23 @@
+create-time = 1603589430
+publish-time = 1603589430
+avid = 457546852
+bvid = "BV135411L7iV"
+title = "花僮《笑纳》——撑伞接落花，看那西风骑瘦马"
+category = "MV"
+desc-base64 = "6YW354uX6Z+z5LmQ44CC"
+[[parts]]
+cid = 249258278
+name = "花僮《笑纳》——撑伞接落花，看那西风骑瘦马"
+length = 273
+resolution = "1920x1080"
+
+[uploader]
+uid = 325902700
+name = "江南拱桥夜"
+
+[snapshot]
+snapshot-time = 1613320682.0769749
+danmakus-count = 163
+likes-count = 2659
+favorites-count = 1835
+snapshot-by = "moe.lty.bgetlib/1.x"

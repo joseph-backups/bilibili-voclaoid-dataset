@@ -1,0 +1,23 @@
+create-time = 1497425373
+publish-time = 1456477949
+avid = 3955651
+bvid = "BV1Zs411D7Vh"
+title = "【小坠】末班车"
+category = "翻唱"
+desc-base64 = "6Ieq5Yi2IOS9nOabsiDmnY7kvJ/oj5jkvZzor40g6ams5bWp5oOf57+75ZSxIOWwj+WdoOS/rumfsyBSYUpvcua3t+mfsyBNYXJpb+e+juW3pSBIYWVTRWlnaHRQViDlr5LimIbpm6gNCg0K5pe26ZqU5LiN55+l6YGT5aSa5LmF5Y+I5p2lQuermeaKleeov++8jOacieeCueaHteOAgg0K5b6I5LmF5LmL5YmN5b6I5Zac5qyi6L+Z5q2M77yM5LiK5qyh5oiR5piv5q2M5omL6KKr5L+h6YCJ5LqG5Yu+6LW35LqG6L+H5Y6755qE5oSf6KeJ44CC5biM5pybQuermeeahOinguS8l+iAgeeIt+WWnOasouOAgg0KDQrpn7PpopEmYW1wO+Wwj+S9nOaWh++8mmh0dHA6Ly81c2luZy5rdWdvdS5jb20vZmMvMTQ5NzgyMTguaHRtbA=="
+[[parts]]
+cid = 6372265
+name = ""
+length = 289
+resolution = "640x360"
+
+[uploader]
+uid = 943293
+name = "小坠"
+
+[snapshot]
+snapshot-time = 1613320693.8002274
+danmakus-count = 2923
+likes-count = 4698
+favorites-count = 593
+snapshot-by = "moe.lty.bgetlib/1.x"

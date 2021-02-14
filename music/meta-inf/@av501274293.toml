@@ -1,0 +1,41 @@
+create-time = 1611134839
+publish-time = 1613052722
+avid = 501274293
+bvid = "BV14N411d74v"
+title = "高ping战士【2021拜年纪单品】"
+category = "原创音乐"
+desc-base64 = "5biM5pyb5oiR6IO95pep54K555So55qE6LW3NTU1NTU1NTU1R++8jOaKseatieacieeCueWNoeKApuKApgrmi5zlubTnuqrkuozliJvntKDmnZDkuIvovb3vvJpodHRwczovL2FjdGl2aXR5Lmhkc2xiLmNvbS9ibGFja2JvYXJkL3N0YXRpYy16aXAvYm5qZXJjaHVhbmcucmFy"
+[[parts]]
+cid = 294939673
+name = "高ping战士【2021拜年纪单品】"
+length = 196
+resolution = "1920x1080"
+
+[[staff]]
+favorite-time = 12450
+uid = 25666164
+title = "UP主"
+name = "米库喵"
+
+[[staff]]
+favorite-time = 12450
+uid = 11253297
+title = "演唱"
+name = "多多poi丶"
+
+[[staff]]
+favorite-time = 12450
+uid = 95578775
+title = "美术"
+name = "gastriculcer"
+
+[uploader]
+uid = 25666164
+name = "米库喵"
+
+[snapshot]
+snapshot-time = 1613320680.0307693
+danmakus-count = 8025
+likes-count = 88125
+favorites-count = 129642
+snapshot-by = "moe.lty.bgetlib/1.x"

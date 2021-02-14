@@ -1,0 +1,23 @@
+create-time = 1567591993
+publish-time = 1567591993
+avid = 66609607
+bvid = "BV1U4411C7dn"
+title = "【高清修复】北京欢迎你 MV（北京2008奥运会主题曲）"
+category = "MV"
+desc-base64 = "44CK5YyX5Lqs5qyi6L+O5L2g44CL5piv55Sx5p6X5aSV5L2c6K+N77yM5bCP5p+v6LCx5puy77yM55m+5L2N5piO5pif5YWx5ZCM5ryU5ZSx55qE5LiA6aaW5Lul5aWl6L+Q5Li65Li76aKY55qE5q2M5puy44CCCuW3sui/m+ihjOS6huWPjeS6pOmUmSvljrvpu5HovrnlpITnkIbvvIzkv67lpI3lubbmnKrmj5DljYfnu4boioLvvIzku4XkuLrmj5DljYfop4LmhJ/vvIzkuLrkuobmj5DljYfop4LnnIvkvZPpqozlt7Lph43liLbmrYzor43lrZfluZXjgIIK5Zac5qyi6K6w5b6X5LiJ6L+e5ZOm77yB"
+[[parts]]
+cid = 118190084
+name = "北京欢迎你"
+length = 429
+resolution = "1920x930"
+
+[uploader]
+uid = 165664518
+name = "Liangion"
+
+[snapshot]
+snapshot-time = 1613320684.8597414
+danmakus-count = 89
+likes-count = 238
+favorites-count = 179
+snapshot-by = "moe.lty.bgetlib/1.x"

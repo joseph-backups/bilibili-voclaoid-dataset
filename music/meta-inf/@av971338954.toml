@@ -1,0 +1,53 @@
+create-time = 1611134891
+publish-time = 1613052722
+avid = 971338954
+bvid = "BV1zp4y1W7qf"
+title = "吉祥话【2021拜年纪单品】"
+category = "原创音乐"
+desc-base64 = "aGFuc2Vy77ya5ZOf77yB5paw5bm055qE5LiA5bm06KaB5aSp5aSp5byA5b+D77yB5oqK5Y675bm055qE5Z2P6L+Q5rCU6YO955Sp5o6J5ZGAc2tycnJycnLvvIHvvIHigJ0K5rOg6biieW91c2HvvJrmlrDmmKXlv6vkuZDvvIHov5nlkInnpaXor53lj5Hnm7jkurLnm7jniLHkuIDlrrbkurrnvqTlsoLkuI3lpKrlkIjpgILkuobvvIzlppnllYrvvIEK56WW5aiF57qz5oOc77ya56Wd5aSn5a6254mb5bm06KGM5aSn6L+Q77yB5aW95ZCD4oCm5LiN6ZW/6IOW772e77yBCum5v+S5g++8muelneWkp+WutuaWsOW5tOW/q+S5kO+8geW4jOacm+Wkp+WutuWcqDIwMjHlubTpg73og73lpJ/lvpfliLDlubjnpo/jgILku4rlubTmiJHkuZ/opoHliqDmsrnlk5/vvZ7vvIE="
+[[parts]]
+cid = 294929309
+name = "吉祥话【2021拜年纪单品】"
+length = 268
+resolution = "1920x1080"
+
+[[staff]]
+favorite-time = 12450
+uid = 11073
+title = "UP主"
+name = "hanser"
+
+[[staff]]
+favorite-time = 12450
+uid = 282994
+title = "演唱"
+name = "泠鸢yousa"
+
+[[staff]]
+favorite-time = 12450
+uid = 3046429
+title = "演唱"
+name = "祖娅纳惜"
+
+[[staff]]
+favorite-time = 12450
+uid = 316381099
+title = "演唱"
+name = "鹿乃ちゃん"
+
+[[staff]]
+favorite-time = 12450
+uid = 554883
+title = "作词"
+name = "St_色太"
+
+[uploader]
+uid = 11073
+name = "hanser"
+
+[snapshot]
+snapshot-time = 1613320679.6382577
+danmakus-count = 8067
+likes-count = 148926
+favorites-count = 218666
+snapshot-by = "moe.lty.bgetlib/1.x"

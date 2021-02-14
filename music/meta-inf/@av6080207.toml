@@ -1,0 +1,29 @@
+create-time = 1497431335
+publish-time = 1472527516
+avid = 6080207
+bvid = "BV1Hs41167e5"
+title = "【HIBIKI】钢琴重置 - 四处回响着的хорошо"
+category = "音乐综合"
+desc-base64 = "5Y6f5puy77ya44Gp44GT44G+44Gn44KC6Z+/44GP44OP44Op44K344On44O8CuatjOaJi++8mua0suW0jue7qwoK5Y6f5puy5b6I5Zac5qyiCuavm+WtkOabsumjjumdnuW4uOWIq+iHtArnlKjpkqLnkLTmvJTlpY/otbfmnaUK5oSP5aSW55qE5aW95ZCs"
+[[parts]]
+cid = 9871258
+name = "钢琴"
+length = 206
+resolution = "640x352"
+
+[[parts]]
+cid = 9871259
+name = "钢琴+人声"
+length = 207
+resolution = "640x352"
+
+[uploader]
+uid = 10077845
+name = "Aeka0超铀"
+
+[snapshot]
+snapshot-time = 1613320689.2786026
+danmakus-count = 212
+likes-count = 602
+favorites-count = 173
+snapshot-by = "moe.lty.bgetlib/1.x"

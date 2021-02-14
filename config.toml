@@ -16,5 +16,6 @@ copy.replace.data="Dataset"
 
 [music]
 id = 90169562
+flags.data = 1
 copy.base="F:\\OneDrive - 66CCFF\\哔哩哔哩备份计划\\Main"
 copy.replace.dash="01-Music"

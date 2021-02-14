@@ -1,0 +1,23 @@
+create-time = 1594288277
+publish-time = 1594296051
+avid = 668796688
+bvid = "BV1Aa4y1a7NH"
+title = "【鹿乃】中文翻唱《那些花儿》不插电版"
+category = "翻唱"
+desc-base64 = "44CM5oS/5q2k5Y6757mB6Iqx5Ly86ZSm77yM5YaN55u46YCi56yR6aKc5L6d5pen44CNCgrmvJTllLHvvJrpub/kuYMK5re36Z+z77ya56We5ZCNCnJlY29yZGluZ++8muS4uOWyoQrlkInku5bvvJpZVVRBS0EK57W177ya5p6X5rW35qGRCuWKqOeUu++8muWWteeIqgoK6YKj5Lqb6Iqx5YS/CuWOn+WUse+8muactOagkS/ojIPnjq7nkKoK5L2c6K+N77ya5py05qCRL+iMg+eOrueQqgrkvZzmm7LvvJrmnLTmoJE="
+[[parts]]
+cid = 210473744
+name = "鹿花_AVS_Mux"
+length = 264
+resolution = "1920x1080"
+
+[uploader]
+uid = 316381099
+name = "鹿乃ちゃん"
+
+[snapshot]
+snapshot-time = 1613320686.2241127
+danmakus-count = 4152
+likes-count = 33848
+favorites-count = 76092
+snapshot-by = "moe.lty.bgetlib/1.x"

@@ -1,0 +1,23 @@
+create-time = 1497430774
+publish-time = 1448957564
+avid = 3312203
+bvid = "BV19s411d7Jw"
+title = "《那年那兔那些事儿》 第二季片尾曲——《骄傲的少年》"
+category = "资讯"
+desc-base64 = "6Ieq5Yi244CC44CK6YKj5bm06YKj5YWU6YKj5Lqb5LqL5YS/44CL56ys5LqM5a2j54mH5bC+5puy4oCU4oCU44CK6aqE5YKy55qE5bCR5bm044CL77yM5Y6f5ZSx77ya5Y2X5b6B5YyX5oiYTlpCWg=="
+[[parts]]
+cid = 5242259
+name = ""
+length = 261
+resolution = "640x360"
+
+[uploader]
+uid = 8580411
+name = "翼下之风动漫"
+
+[snapshot]
+snapshot-time = 1613320695.4315836
+danmakus-count = 17534
+likes-count = 51664
+favorites-count = 28429
+snapshot-by = "moe.lty.bgetlib/1.x"

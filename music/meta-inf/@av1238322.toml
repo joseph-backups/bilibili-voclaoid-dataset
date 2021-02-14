@@ -1,0 +1,23 @@
+create-time = 1497353900
+publish-time = 1403964661
+avid = 1238322
+bvid = "BV1ix411T7YH"
+title = "「苍蓝钢铁的琶音」雾熊\\'s 第13话"
+category = "综合"
+desc-base64 = "56uf54S26L+Y5pyJ44CO6JK844GN6Yu844Gu44Ki44Or44Oa44K444KqIC3jgqLjg6vjgrnjg7vjg47jg7TjgqHiiJLjgI/pnKfjgY/jgb5zIFNQT1QjMTM="
+[[parts]]
+cid = 1874909
+name = ""
+length = 60
+resolution = "640x360"
+
+[uploader]
+uid = 19653
+name = "小清水亜美"
+
+[snapshot]
+snapshot-time = 1613320686.679247
+danmakus-count = 17
+likes-count = 11
+favorites-count = 0
+snapshot-by = "moe.lty.bgetlib/1.x"

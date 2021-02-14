@@ -1,0 +1,35 @@
+create-time = 1608288601
+publish-time = 1608350412
+avid = 755725499
+bvid = "BV1Nr4y1F7zS"
+title = "【鹿乃x墨韵】 纸鸢——首次合作国风新曲！"
+category = "原创音乐"
+desc-base64 = "44CQ57q46bii44CRCgrliLbkvZzkurrvvJrog6HlpJrlpJoK5ryU5ZSx77ya6bm/5LmDCuWPpOetnea8lOWlj++8muWiqOmftemaj+atpeaRhwrkvZzor43vvJpTZWlzaGluVwrkvZzmm7LvvJrog6HlpJrlpJoK57yW5puy77ya5p2O5L2z5Yq8S2F0c3UK5ZKM5aOw57yW5YaZ77ya5piO5a6jTWF5CuS6uuWjsOW9lemfsybmt7fpn7PvvJrkuLjlsqEK5re36Z+z77ya5YiY5ZiJ5LymCua3t+mfs+WupO+8muWuieW+l+mfs+S5kFN0dWRpbwrnu5/nrbnvvJrpn6bmn7Ppm4EgCuWUseeJh+WFrOWPuO+8muWuieW+l+mfs+S5kArliqjnlLvliLbkvZzvvJrjg6Tjg57jg4njg6oK5puy57uY77yaQWlyUmFiYml0WWFuCgpQcm9kdWNlcu+8mkh1IERvZG9ybwpWb2NhbO+8mkthbm8KR3V6aGVuZ++8mk1veXVuCkx5cmljc++8mlNlaXNoaW5XCkNvbXBvc2Vy77yaSHUgRG9kb3JvCkFycmFuZ2Vy77yaS2F0c3UtTGVlCkhhcm1vbnkgV3JpdGVyOiBNYXkKVm9jYWwgUmVjb3JkaW5nJk1peO+8mk1hcnVva2EKTWl4aW5nIEVuZ2luZWVy77yaTGl1IEppYWx1bgpNaXhpbmcgU3R1ZGlv77yaQU5EIE11c2ljIFN0dWRpbwpPdmVyYWxsIHBsYW5uaW5n77yaV2VpIExpdXlhbgpPUO+8mkFORCBNdXNpYwpBbmltYXRpb246WWFtYWRvcmkKSWxsdXN0cmF0aW9uOkFpclJhYmJpdFlhbg=="
+[[parts]]
+cid = 268110517
+name = "Kano_zhiyuan_v3"
+length = 220
+resolution = "1920x1080"
+
+[[staff]]
+favorite-time = 12450
+uid = 316381099
+title = "UP主"
+name = "鹿乃ちゃん"
+
+[[staff]]
+favorite-time = 12450
+uid = 2374194
+title = "演奏"
+name = "墨韵Moyun"
+
+[uploader]
+uid = 316381099
+name = "鹿乃ちゃん"
+
+[snapshot]
+snapshot-time = 1613320684.0869107
+danmakus-count = 714
+likes-count = 18704
+favorites-count = 41241
+snapshot-by = "moe.lty.bgetlib/1.x"

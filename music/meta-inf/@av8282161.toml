@@ -1,0 +1,23 @@
+create-time = 1497429563
+publish-time = 1485673273
+avid = 8282161
+bvid = "BV1gs41187wK"
+title = "【WINDOWS】Flower Dance"
+category = "音MAD"
+desc-base64 = "6Zmk6byT57uE5aSW6Z+z5rqQ6YO95p2l5rqQ5LqOV0lORE9XUw=="
+[[parts]]
+cid = 13626044
+name = "Music Visualizator_BiliBili"
+length = 262
+resolution = "640x360"
+
+[uploader]
+uid = 6402029
+name = "逻辑P"
+
+[snapshot]
+snapshot-time = 1613320691.7176087
+danmakus-count = 3644
+likes-count = 17740
+favorites-count = 749
+snapshot-by = "moe.lty.bgetlib/1.x"

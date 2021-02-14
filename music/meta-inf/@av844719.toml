@@ -1,0 +1,23 @@
+create-time = 1497353675
+publish-time = 1385056732
+avid = 844719
+bvid = "BV1as411o7h9"
+title = "【哒哒哒】萌萌侵略者 OST「N↓DA↑GI↑NA↓DA☆」 (320K)"
+category = "音乐综合"
+desc-base64 = "IE7ihpNEQeKGkUdJ4oaRTkHihpNEQeKYhiBPU1Tlhajmm7IgYXY4NDQzNDMg"
+[[parts]]
+cid = 1228559
+name = ""
+length = 91
+resolution = "480x360"
+
+[uploader]
+uid = 19653
+name = "小清水亜美"
+
+[snapshot]
+snapshot-time = 1613320692.7344222
+danmakus-count = 1194
+likes-count = 5928
+favorites-count = 723
+snapshot-by = "moe.lty.bgetlib/1.x"

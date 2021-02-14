@@ -1,0 +1,23 @@
+create-time = 1555104089
+publish-time = 1555104089
+avid = 49119288
+bvid = "BV1Bb411K7VV"
+title = "【上海滩】【李清歌】伊贞机关日常用原唱骗我！"
+category = "翻唱"
+desc-base64 = "5oiY5paX5ZCn5q2M5aes5a6Y5pa555u05pKtCuS4iua1t+S6uu+8jOW9k+eEtuaYr+imgeWUseS4iua1t+a7qeWVpn7vvIjlk6rph4zkuI3lr7kK5riF5q2M55yL54K577yaCjEg5riF5q2M55qE5ZCD5ZSx54mH5pel5bi477yM5riF5q2M5riF5q2MfuS9oOaYr+S7juWkqeS4iuS4i+WHoeadpeeahOS7meWls+WQl++8nwoyIOa4heatjOeahOaWsOijmeWtkH7nrKzkuIDmrKHlnKjnm7Tmkq3ph4znqb/lh7rmnaXlkaJ+CjMg6K6p5bm/5bee5Lq66YO96KeJ5b6X5b6I5qCH5YeG55qE57Kk6K+t44CC5riF5q2M5p6c54S25piv5YWo5omNfu+8iOW9qeiZueWxgeWQuei1t+adpX5+"
+[[parts]]
+cid = 86024295
+name = "上海滩"
+length = 191
+resolution = "1280x720"
+
+[uploader]
+uid = 381852087
+name = "李清歌粉丝应援团"
+
+[snapshot]
+snapshot-time = 1613320690.048657
+danmakus-count = 139
+likes-count = 605
+favorites-count = 1068
+snapshot-by = "moe.lty.bgetlib/1.x"

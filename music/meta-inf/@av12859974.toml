@@ -1,0 +1,23 @@
+create-time = 1501653968
+publish-time = 1501653968
+avid = 12859974
+bvid = "BV1Bx411H7XA"
+title = "三代语音合成引擎齐唱《Daisy Belll》"
+category = "翻唱"
+desc-base64 = "6L2s6IeqWW91dHViZSBodHRwczovL3d3dy55b3V0dWJlLmNvbS93YXRjaD92PVRYS19jRTlBcUFJIOe7j+i/h+eugOWNlee8lui+kQrov5nmmK/kuIDkuKrogIHkuK3pnZLkuInku6Por63pn7PlkIjmiJDlvJXmk47lhbHlkIzmvJTllLHnmoTmrYzmm7LvvIzlkKznmoTml7blgJnkuIDmg7PliLDorqHnrpfmnLrmioDmnK/kuIDot6/otbDmnaXnmoTpo47po47pm6jpm6jvvIzlsYXnhLbmnInngrnmhJ/liqjkuobvvIzkuI3nn6XlpKflrrbmgI7kuYjmg7PlkaLvvJ8KCumhuuS+v++8muayueeuoeWOn1VQ5Li75Li6dGFtYS1tdXNpYw=="
+[[parts]]
+cid = 21131923
+name = ""
+length = 295
+resolution = "640x360"
+
+[uploader]
+uid = 1567277
+name = "账号已注销"
+
+[snapshot]
+snapshot-time = 1613320681.4884486
+danmakus-count = 3
+likes-count = 59
+favorites-count = 42
+snapshot-by = "moe.lty.bgetlib/1.x"

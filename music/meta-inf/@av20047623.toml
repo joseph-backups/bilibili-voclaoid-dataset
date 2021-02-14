@@ -1,0 +1,23 @@
+create-time = 1519557797
+publish-time = 1519557796
+avid = 20047623
+bvid = "BV1aW41147h9"
+title = "【铁道唱歌】扬子江歌（学堂乐歌）"
+category = "社科人文"
+desc-base64 = "44CK5b2x5YOP5b+X44CLCuadpeiHquWkruinhuiKguebruOAiuW9seWDj+W/l+OAiw0KMTkwNOW5tOWtpuWgguatjOabsg0K5puy5p2l6Ieq6ZOB6YGT5ZSx5q2MDQrnjovlvJXkuYvkvZzor40="
+[[parts]]
+cid = 32709640
+name = "Screenrecorder-2018-02-25-15-29-48-0"
+length = 69
+resolution = "640x360"
+
+[uploader]
+uid = 5137370
+name = "韶山9G084"
+
+[snapshot]
+snapshot-time = 1613320680.9343824
+danmakus-count = 44
+likes-count = 160
+favorites-count = 82
+snapshot-by = "moe.lty.bgetlib/1.x"

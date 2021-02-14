@@ -1,0 +1,23 @@
+create-time = 1497349569
+publish-time = 1440598925
+avid = 2811506
+bvid = "BV1ms411m7Ba"
+title = "小埋OP中文版 翻唱"
+category = "翻唱"
+desc-base64 = "6Ieq5Yi2IOivjeadpeiHqnlvdXNh55qEYXYyNzc4MjUyIOa8lOWUseeahOaYr2hhbnNlcumFseWSjGhhbnNlcuWnkOOAguaHkuW+l+aQnOatjOivjSDnm7TmjqXllLHnmoRc5pyJ5rKh5pyJd2lmaeacieayoeaciXdpZmnmnInogIzkuJTogJDnlKjml6DnoIHnmoQv44CCbXAzLTVzaW5nLmt1Z291LmNvbS9mYy8xNDQ4ODUwMS5odG1s"
+[[parts]]
+cid = 4391351
+name = ""
+length = 93
+resolution = "540x360"
+
+[uploader]
+uid = 11073
+name = "hanser"
+
+[snapshot]
+snapshot-time = 1613320696.3991172
+danmakus-count = 14483
+likes-count = 79642
+favorites-count = 34756
+snapshot-by = "moe.lty.bgetlib/1.x"

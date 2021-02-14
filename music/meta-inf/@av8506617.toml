@@ -1,0 +1,23 @@
+create-time = 1497351108
+publish-time = 1486699200
+avid = 8506617
+bvid = "BV1Sx41117SE"
+title = "【2017拜年祭单品】春意红包"
+category = "原创音乐"
+desc-base64 = "6IGU5YqoVkPkuInkurrniYhhdjg1NDg1MDgK5LiA5bm05Y+I6L+H5Y675LqG77yM6YKj5Lqb5YWF5ruh5bm05ZGz55qE5pil6IqC5LiN55+l5L2V5pe25bey5ZKM5oiR5Lus5riQ6KGM5riQ6L+cLArkvYblnKjov5nmoLfnmoTml7bliLvvvIzmnaXoh6rkupTmuZblm5vmtbfnmoTlsI/kvJnkvLTku6zlm6LogZrlnKjkuoZC56uZ77yM5biM5pyb5oiR5Lus6YCB5aSn5a6255qE6L+Z5Liq4oCY5pil5oSP57qi5YyF4oCZ6IO95ouG5byA4oCY5bm05ZGz4oCZ5ZKM4oCY5rip5pqW4oCZ5Lm+5p2vfmJpbGliaWxpCuWQhOS9jeWwj+S8meS8tOS7rOWkp+Wutui+m+iLpuWVpu+8jOaEn+iwouWkp+WutuaNp+WcugrkvLTlpY/vvIzljp/mm7LkuIvovb3or7fnp7vmraXmlrDmtarlvq7ljZpARGF5cy13aW5n57+8"
+[[parts]]
+cid = 14004931
+name = "en-春意红包"
+length = 280
+resolution = "640x360"
+
+[uploader]
+uid = 15312
+name = "Days的Wing翼"
+
+[snapshot]
+snapshot-time = 1613320691.2603269
+danmakus-count = 7101
+likes-count = 60679
+favorites-count = 15954
+snapshot-by = "moe.lty.bgetlib/1.x"

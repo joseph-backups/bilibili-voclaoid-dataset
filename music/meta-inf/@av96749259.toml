@@ -1,0 +1,23 @@
+create-time = 1584428975
+publish-time = 1584428975
+avid = 96749259
+bvid = "BV1e7411o7GG"
+title = "《方舱医院真神奇》原版视频"
+category = "MV"
+desc-base64 = "5paw5rWq5b6u5Y2a"
+[[parts]]
+cid = 165172522
+name = "《方舱医院真神奇》原版视频"
+length = 200
+resolution = "1080x1920"
+
+[uploader]
+uid = 67884333
+name = "WuDuRainBow"
+
+[snapshot]
+snapshot-time = 1613320683.128183
+danmakus-count = 472
+likes-count = 1608
+favorites-count = 2785
+snapshot-by = "moe.lty.bgetlib/1.x"

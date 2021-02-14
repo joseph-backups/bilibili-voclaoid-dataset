@@ -1,0 +1,35 @@
+create-time = 1613040609
+publish-time = 1613041707
+avid = 331690245
+bvid = "BV1gA411M76S"
+title = "【兰音×小柔】春意红包"
+category = "翻唱"
+desc-base64 = "56Wd5ZCE5L2N5a6H6Iiq5YWU6L+Y5pyJ5p+U5YWJ54Gv5Lus77yM54mb5bm05aSn5ZCJ77yB77yBCi0tLS0tLS0K5pys5a6277yaQlYxU3g0MTExN1NFCue/u+WUse+8muWFsOmfs1JlaW5l77yM5bCP5p+UQ2hhbm5lbArmt7fpn7PvvJrlhbDpn7NSZWluZQrop4bpopHliLbkvZzvvJrlhbDpn7NSZWluZQrmm7Lnu5jvvJroib7nkLMgLCDnvo7lt6XniLnniLk="
+[[parts]]
+cid = 296393747
+name = "春意红包_1"
+length = 281
+resolution = "1920x1080"
+
+[[staff]]
+favorite-time = 12450
+uid = 698029620
+title = "UP主"
+name = "兰音Reine"
+
+[[staff]]
+favorite-time = 12450
+uid = 1734978373
+title = "演唱"
+name = "小柔Channel"
+
+[uploader]
+uid = 698029620
+name = "兰音Reine"
+
+[snapshot]
+snapshot-time = 1613320680.5047421
+danmakus-count = 84
+likes-count = 936
+favorites-count = 3020
+snapshot-by = "moe.lty.bgetlib/1.x"

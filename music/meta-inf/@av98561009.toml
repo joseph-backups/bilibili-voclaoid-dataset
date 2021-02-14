@@ -1,0 +1,23 @@
+create-time = 1584955552
+publish-time = 1584964827
+avid = 98561009
+bvid = "BV1tE411c74Q"
+title = "【鹿乃】中文翻唱《童话》"
+category = "翻唱"
+desc-base64 = "44CM6Jm954S25oiR5peg5rOV5oiQ5Li65L2g55qE5aSp5L2/44CNCgrmvJTllLHvvJrpub/kuYPvvIh3ZWlibyBAa2Fub19kYXlv77yJCua3t+mfszogICDkuLjlsqEKSWxsdXN0cmF0aW9uOuOBlOOCjeOBj++8iHdlaWJvIEDkupTlha1f5oy/57W155S75a6277yJCmluc3Q644CAQ29jaO+8iHdlaWJvIO+8oGNvY2hfcm9ja++8iQrml7bovbTvvJrpmL/pobvkuYUK5ZCO5pyf77ya5Za154iqCgrlvqHmnKzlrrbmp5gK6Kme5puyIOOAgOWFieiJryDmp5g="
+[[parts]]
+cid = 168239035
+name = "童话_kano"
+length = 231
+resolution = "1920x1080"
+
+[uploader]
+uid = 316381099
+name = "鹿乃ちゃん"
+
+[snapshot]
+snapshot-time = 1613320685.8629663
+danmakus-count = 11918
+likes-count = 59389
+favorites-count = 127361
+snapshot-by = "moe.lty.bgetlib/1.x"
