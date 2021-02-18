@@ -1,0 +1,59 @@
+create-time = 1613532048
+publish-time = 1613545211
+avid = 844137885
+bvid = "BV1A54y1Y73b"
+title = "【洛天依原创】积雪【Xylose木糖醇】"
+category = "VOCALOID·UTAU"
+desc-base64 = "57G95qCR77ya4oCc5oiR5LiN5aSq5pOF6ZW/5YaZ6L+Z56eN54W95oOF55qE4oCd4oCc6L+Y5piv5oSf5oWo77yM5pu05aSa5LiA5Lqb4oCd4oCc6LCi6LCi5L2g77yM5LqR54K54oCdCgrmm7LnvJbmt7fvvJrntJTnmb1QCuS9nOivje+8muS4vueDmy/nsb3moJEK6LCD5pWZ77ya55m95ryq6aOO6ZODCuabsue7mO+8mi13ZWItCuinhumike+8muWGt+WGu+WtkArnibnliKvmhJ/osKLvvJrpl7npl7nkuLZc5Yid57mB6KiAIOetiQrnvJbmm7Lnu5PmnoTlj4LogIPkuobjgIrogIHooZfljJfjgIsgQlYxSzQ0MTFBN1lj"
+[[parts]]
+cid = 298690476
+name = "P1_Mux2"
+length = 221
+resolution = "1920x1080"
+
+[[staff]]
+favorite-time = 12450
+uid = 123372
+title = "UP主"
+name = "純白"
+
+[[staff]]
+favorite-time = 12450
+uid = 773253
+title = "调校"
+name = "白漪风铃"
+
+[[staff]]
+favorite-time = 12450
+uid = 20464617
+title = "作词"
+name = "籽树"
+
+[[staff]]
+favorite-time = 12450
+uid = 20697169
+title = "作词"
+name = "举烛丶"
+
+[[staff]]
+favorite-time = 12450
+uid = 18070579
+title = "曲绘"
+name = "贝贝web"
+
+[[staff]]
+favorite-time = 12450
+uid = 11257019
+title = "视频制作"
+name = "Crystfall-"
+
+[uploader]
+uid = 123372
+name = "純白"
+
+[snapshot]
+snapshot-time = 1613661634.7738793
+danmakus-count = 281
+likes-count = 5695
+favorites-count = 7578
+snapshot-by = "moe.lty.bgetlib/1.x"

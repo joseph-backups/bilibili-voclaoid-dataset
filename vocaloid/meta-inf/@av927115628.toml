@@ -1,0 +1,65 @@
+create-time = 1599865639
+publish-time = 1599906606
+avid = 927115628
+bvid = "BV14T4y1A7GL"
+title = "今天是我们的婚礼！我写了一首歌，想要和你《一直在一起》-演唱「洛天依」"
+category = "VOCALOID·UTAU"
+desc-base64 = "5Liq5Lq656ys5YWt6aaW5Y6f5Yib5puy44CK5LiA55u05Zyo5LiA6LW344CL5q2j5byP5ZKM5aSn5a626KeB6Z2i77yBCui/memmluatjOWvueaIkeiAjOiogOeahOaEj+S5iemdnuWHoe+8jOS6juaYr+S6suiHquS5n+WGmeS6huivje+8jOWQjOaXtuS5n+mAieaLqeS6huWcqOS7iuWkqeaIkeWSjOilv+ilv+S4vuWKnuWpmuekvOeahOaXtuWAmeaKleeov++8jOaIkeaJgOacieaDs+ivtOeahO+8jOWFtuWunumDveWGmeWcqOS6huivjemHjO+8jOi/meS5n+aYr+aIkeWGmei/h+eahOacgOa4qeaflOa1qua8q+eahOabsumjjuS6hu+8jOW4jOacm+Wkp+WutuaUr+aMgeS4gOS4i++8gQrlj6blpJbmhJ/osKJzdGFmZumHjOeahOWFqOWRmO+8jOeJueWIq+aYr+mfs+espuWSjOiDp+OAggoKU1RBRkYK5L2c5puyL+S9nOivjSDmmpfnjKvjga7npZ3npo8K57yW5puyIOS4g+WIhumfs+espgoK5ryU5ZSxIOa0m+WkqeS+nQrosIPmlZkg5ZGo5bCP6JqVCua3t+mfsyDog6cKCumSoueQtOa8lOWljyDmmpfnjKvjga7npZ3npo8KCuabsue7mCDlhavph4zvvIjllrXlpKrnpL7vvIkKUFbliLbkvZwg5Z2P5o6J5YyW44Gu6buR5bKpClBW5Ye65ryUIOaal+eMqybmoaXopb8KCueJueWIq+aEn+iwoiDlnZDmoIdQCueJueWIq+aEn+iwouWSjOWjsOa8lOWUsSDkupTnu7TlhajlkZgKCuW8gOaUvumdnuWVhuS4muS6jOWIm++8jOS4jemcgOimgeeJueWIq+WQkeaIkeimgeaOiOadg++8jOWPqumcgOimgeazqOaYjuWHuuWkhOWNs+WPr+OAgg=="
+[[parts]]
+cid = 234475800
+name = "一直在一起"
+length = 183
+resolution = "1920x1080"
+
+[[staff]]
+favorite-time = 12450
+uid = 888465
+title = "UP主"
+name = "暗猫の祝福"
+
+[[staff]]
+favorite-time = 12450
+uid = 631917
+title = "参演"
+name = "桥西"
+
+[[staff]]
+favorite-time = 12450
+uid = 15735857
+title = "编曲"
+name = "七分音符_TY"
+
+[[staff]]
+favorite-time = 12450
+uid = 32806702
+title = "混音"
+name = "胧音_Long"
+
+[[staff]]
+favorite-time = 12450
+uid = 10996289
+title = "调校"
+name = "周小蚕"
+
+[[staff]]
+favorite-time = 12450
+uid = 2632731
+title = "曲绘"
+name = "喵太社"
+
+[[staff]]
+favorite-time = 12450
+uid = 515661
+title = "视频制作"
+name = "坏掉化の黑岩"
+
+[uploader]
+uid = 888465
+name = "暗猫の祝福"
+
+[snapshot]
+snapshot-time = 1613661598.784474
+danmakus-count = 5969
+likes-count = 26257
+favorites-count = 57096
+snapshot-by = "moe.lty.bgetlib/1.x"

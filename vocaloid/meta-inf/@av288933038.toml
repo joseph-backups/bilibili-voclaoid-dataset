@@ -1,0 +1,47 @@
+create-time = 1612093105
+publish-time = 1612150203
+avid = 288933038
+bvid = "BV1zf4y167fy"
+title = "【洛天依原创】我亲爱的母亲"
+category = "VOCALOID·UTAU"
+desc-base64 = "5L2c5ZOB57G75Z6L77ya5Y6f5Yib5puyCuS9nOabsu+8mkDjg5Pjg6Pjgq/jg6Rf55m95aScIArnvJbmm7LvvJpAVTAgCua8lOWUse+8mkDmtJvlpKnkvp0K5bCB6Z2i77yaQOiLl+W6k+mHjE93byAK562W5YiSL1BWL+S9nOivje+8mkDmsqflvKbokL3lsJgKCueMrue7meaIkeS6sueIseeahOavjeS6sg=="
+[[parts]]
+cid = 292664574
+name = "我亲爱的母亲·最终版"
+length = 276
+resolution = "1920x1080"
+
+[[staff]]
+favorite-time = 12450
+uid = 4786825
+title = "UP主"
+name = "沧弦落尘"
+
+[[staff]]
+favorite-time = 12450
+uid = 440893960
+title = "作曲"
+name = "ビャクヤ_白夜"
+
+[[staff]]
+favorite-time = 12450
+uid = 249190256
+title = "编曲"
+name = "U0__"
+
+[[staff]]
+favorite-time = 12450
+uid = 152309938
+title = "参演"
+name = "苗库里Owo"
+
+[uploader]
+uid = 4786825
+name = "沧弦落尘"
+
+[snapshot]
+snapshot-time = 1613661628.091355
+danmakus-count = 390
+likes-count = 10158
+favorites-count = 15797
+snapshot-by = "moe.lty.bgetlib/1.x"

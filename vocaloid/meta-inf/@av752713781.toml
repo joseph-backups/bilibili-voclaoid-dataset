@@ -1,0 +1,77 @@
+create-time = 1586517807
+publish-time = 1586679163
+avid = 752713781
+bvid = "BV1Tk4y1R7X1"
+title = "【乐正绫原创曲】花"
+category = "VOCALOID·UTAU"
+desc-base64 = "5oSf6LCi6Zmq5Ly077yM6K+35ZCs5oiR5Li65L2g5YaZ5LiL55qE5ZGK55m96K+X44CCCuKAlOKAlFN0YWZm4oCU4oCUCkx5cmljc++8muS6uuW9ouWFjiAvIOWSjOeUsOmHjgpNdXNpY++8muS6uuW9ouWFjgpUdW5pbmfvvJrliqjngrlQClBpYW5v77ya5biM5pyb57Si5Lu75ZCI6LWECkd1aXRhcu+8mkJpdG1hbgpCYXNz77ya5Lq65b2i5YWOCklsbHVzdHJhdGlvbu+8muiOseWLklEtUQpQcm9tb3Rpb27CoFZpZGVv77yaS2luX2VuClNwZWNpYWwgdGhhbmtz77yaTGkgWm9uZwpQcm9kdWNlciZEaXJlY3Rvcu+8muS6uuW9ouWFjgpTY2hlbWVy77yaVnNpbmdlcg=="
+[[parts]]
+cid = 176447962
+name = "【乐正绫】花"
+length = 266
+resolution = "1920x1080"
+
+[[staff]]
+favorite-time = 12450
+uid = 406948651
+title = "UP主"
+name = "乐正绫"
+
+[[staff]]
+favorite-time = 12450
+uid = 2382132
+title = "作曲"
+name = "人形兎"
+
+[[staff]]
+favorite-time = 12450
+uid = 199199
+title = "作词"
+name = "和田野"
+
+[[staff]]
+favorite-time = 12450
+uid = 12481783
+title = "调校"
+name = "动次打次的动点p"
+
+[[staff]]
+favorite-time = 12450
+uid = 317866
+title = "演奏"
+name = "希望索任合资T-L-S"
+
+[[staff]]
+favorite-time = 12450
+uid = 36168476
+title = "演奏"
+name = "Bitmanビットマン"
+
+[[staff]]
+favorite-time = 12450
+uid = 7061253
+title = "曲绘"
+name = "Godlailer"
+
+[[staff]]
+favorite-time = 12450
+uid = 267441
+title = "视频制作"
+name = "小忻Kin_en"
+
+[[staff]]
+favorite-time = 12450
+uid = 10878474
+title = "策划"
+name = "vsinger团队"
+
+[uploader]
+uid = 406948651
+name = "乐正绫"
+
+[snapshot]
+snapshot-time = 1613661617.9085097
+danmakus-count = 7100
+likes-count = 21978
+favorites-count = 30432
+snapshot-by = "moe.lty.bgetlib/1.x"
