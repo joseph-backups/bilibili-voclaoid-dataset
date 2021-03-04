@@ -76,8 +76,8 @@ uid = 888465
 name = "暗猫の祝福"
 
 [snapshot]
-snapshot-time = 1613661610.2355988
-danmakus-count = 800
-likes-count = 36685
-favorites-count = 48666
+snapshot-time = 1614840051.6164794
+danmakus-count = 801
+likes-count = 36743
+favorites-count = 48820
 snapshot-by = "moe.lty.bgetlib/1.x"

@@ -1,0 +1,71 @@
+create-time = 1614686115
+publish-time = 1614765611
+avid = 501970505
+bvid = "BV1BN41197yS"
+title = "【塑料姐妹花合调组】与她宴【翩跹盛世 悄然归来】【中文虚拟歌手7人/COVER】"
+category = "VOCALOID·UTAU"
+desc-base64 = "5pys5a6277yaQlYxRmg0MTFDNzkxCgrmrYzmiYsv6LCD5pWZ77ya6LWk5769L+eGiiAgICAg5rSb5aSp5L6dL0F0b255ICAg6Im+5Y+vL+ahg+m7jiAgIOS5kOato+e7qy/moYLmnIgK6KiA5ZKML+aWh+iIniAgIOa1t+S8ii9UQyAgIOaxn+S4iuabnC/nkp/ovakK5re36Z+zL+S8tOWlj++8mueZveezlgrlsIHpnaLvvJpBdG9ueSAK5omS6LCx77ya5p+Q5Y+q5rO9Cgrnu4jkuo7lnKjlkpXkuobkuIDlubTkuYvkuYXlkI7vvIzloZHmlpnlp5DlprnoirHku6zlj4jlho3mrKHmipXnqL/kuoZ+Cui6q+S4uuesrOS4gOS4quaPkOWHuuWQiOiwg+e7hOaAp+i0qOeahOe7hOe7h++8jOWFtuS7luWQiOiwg+e7hOS5n+WmgumbqOWQjuaYpeesi+iIrOa2jOWHuuOAggrmiJHku6zkuZ/kuI3nlJjnpLrlvLHvvIzku6XlkI7kuZ/kvJrnmoTnu6fnu63mipXnqL/nmoTvvIEK6L+Z5qyh55qE5Zy65pmv5piv5a6r5paX5aeQ5aa56Iqx77yM55yL6LCB6IO95Y2a5b6X55qH5LiK6Iqz5b+D5ZGi44CCCgrljp9zdGFmZu+8muS9nOabsiAmIOe8luabsu+8mk1lTG8gICDkvZzor43vvJrnu7/ml6AgICDmm7Lnu5jvvJpIYW5hc2EgJiDljp/lrZBEYW4K6LCD5qCh77ya6aG+5LukICAgUFbvvJrmnIjppbwgICDpuKPosKLvvJrnkZ7lrolSeWFu"
+[[parts]]
+cid = 305117469
+name = "【苍穹原创曲】翩跹盛世｢与她宴｣：独属她的大唐长安【平四风华拜年纪│五维介质】 - 1.与她宴_SpThxRyan_210209v2(Av203963327,P"
+length = 268
+resolution = "1920x1080"
+
+[[staff]]
+favorite-time = 12450
+uid = 22063836
+title = "UP主"
+name = "璟轩_official"
+
+[[staff]]
+favorite-time = 12450
+uid = 180668218
+title = "混音"
+name = "白糖の正义铃"
+
+[[staff]]
+favorite-time = 12450
+uid = 13927127
+title = "调校"
+name = "想吃素的BeaR"
+
+[[staff]]
+favorite-time = 12450
+uid = 20881153
+title = "调校"
+name = "AtonyP"
+
+[[staff]]
+favorite-time = 12450
+uid = 26216524
+title = "调校"
+name = "こいずみ桃黎Official"
+
+[[staff]]
+favorite-time = 12450
+uid = 15357
+title = "调校"
+name = "桂月锁心"
+
+[[staff]]
+favorite-time = 12450
+uid = 11933318
+title = "调校"
+name = "文舞bin"
+
+[[staff]]
+favorite-time = 12450
+uid = 24156815
+title = "调校"
+name = "锝是TC德小猪"
+
+[uploader]
+uid = 22063836
+name = "璟轩_official"
+
+[snapshot]
+snapshot-time = 1614840762.563193
+danmakus-count = 8
+likes-count = 110
+favorites-count = 276
+snapshot-by = "moe.lty.bgetlib/1.x"

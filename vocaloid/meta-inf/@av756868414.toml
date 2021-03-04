@@ -1,0 +1,23 @@
+create-time = 1614014270
+publish-time = 1614014270
+avid = 756868414
+bvid = "BV1Lr4y1A7BL"
+title = "【洛天依】DD时代"
+category = "VOCALOID·UTAU"
+desc-base64 = "5Y6f5puy77yaR2VlLeWwkeWls+aXtuS7owrkuI3mmK/vvIzkvaDku6zlubPml7bpg73kuI1EROeahOWQl++8nw=="
+[[parts]]
+cid = 301374122
+name = "DD时代"
+length = 184
+resolution = "1280x720"
+
+[uploader]
+uid = 1411211
+name = "刻丞相挥泪斩牛杂"
+
+[snapshot]
+snapshot-time = 1614840850.8319263
+danmakus-count = 1
+likes-count = 32
+favorites-count = 80
+snapshot-by = "moe.lty.bgetlib/1.x"

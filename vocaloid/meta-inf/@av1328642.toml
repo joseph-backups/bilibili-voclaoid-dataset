@@ -1,0 +1,23 @@
+create-time = 1497392525
+publish-time = 1406267859
+avid = 1328642
+bvid = "BV1px411N7Yk"
+title = "【ZYL】警察蜀黍!!!就是这个人!!!!"
+category = "VOCALOID·UTAU"
+desc-base64 = "6Ieq5Yi2IOOAiuitpuWvn+icgOm7je+8geWwseaYr+i/meS4quS6uu+8ge+8geOAi+aYoOeUuzpQUk9KRUNUX1pZTCDmgKronIDpu43phY3pn7Mr5L2c5puyOkRNWU9VTkfvvIzkuIDnm7Top4nlvpfmtJvlpKnkvp3nmoTlo7Dpn7PpgILlkIjllLHmgbbmkJ7lkJHnmoTmm7LlrZDjgILliLbkvZzov4fnqIvkuK3ln7rmnKzkuIrpg73mmK/ohJHooaXml7bpl7Tmr5TovoPlpJohIeS5kOW4iOW+ruWNmu+8mmh0dHA6Ly93ZWliby5jb20vZG15b3VuZyDkvZzogIXlvq7ljZrvvJp3ZWliby5jb20venlsZGJs"
+[[parts]]
+cid = 2015340
+name = "P1"
+length = 155
+resolution = "640x360"
+
+[uploader]
+uid = 175404
+name = "Z.Y.L"
+
+[snapshot]
+snapshot-time = 1614839929.4052804
+danmakus-count = 13101
+likes-count = 35493
+favorites-count = 21851
+snapshot-by = "moe.lty.bgetlib/1.x"

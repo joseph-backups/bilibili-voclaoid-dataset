@@ -1,0 +1,23 @@
+create-time = 1613828383
+publish-time = 1613828383
+avid = 289295209
+bvid = "BV1Sf4y1z7VY"
+title = "【初音未来】花腔之《不问天》【Vocaloid Cover】"
+category = "VOCALOID·UTAU"
+desc-base64 = "44CQ5Yid6Z+z5pyq5p2l44CR6Iqx6IWU5LmL44CK5LiN6Zeu5aSp44CL44CQVk9DQUxPSUQgQ09WRVLjgJHjgIIK5pys5a6277yaQlYxc3Y0eTFmN1EyCm1pZGnvvJrpgIbljbfkuIDlpJoK5rij6LCD5re377ya5pysVVDjgII="
+[[parts]]
+cid = 300325111
+name = "合成-MIKU"
+length = 257
+resolution = "1920x1080"
+
+[uploader]
+uid = 319994112
+name = "歪小姗"
+
+[snapshot]
+snapshot-time = 1614839966.3791173
+danmakus-count = 5
+likes-count = 160
+favorites-count = 301
+snapshot-by = "moe.lty.bgetlib/1.x"

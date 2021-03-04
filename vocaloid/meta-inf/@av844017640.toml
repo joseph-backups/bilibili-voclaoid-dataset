@@ -1,0 +1,47 @@
+create-time = 1612888159
+publish-time = 1613044818
+avid = 844017640
+bvid = "BV1n54y1W7Bk"
+title = "【洛天依】好运来【神仙调教】【祝大家新年快乐！】【4K 迫真画质】"
+category = "VOCALOID·UTAU"
+desc-base64 = "5L2c5ZOB57G75Z6L77ya57+76LCD5puyCuiwg+aVme+8muWGsOmthOmtggrmt7fpn7PvvJrlh4nlh4nosYYK5ZCO5pyf77ya5oiV6KiACueUu+i0qOS/ruWkje+8muW8oOe+vU1DCgrlhrBQ5Zug5Li65raJ5auM5qCH6aKY5qy66K+I6KKr5ouW5Ye65Y675YGa5oiQ6aaE6aWo5LqGUUFR"
+[[parts]]
+cid = 295503267
+name = "V1"
+length = 216
+resolution = "3840x2160"
+
+[[staff]]
+favorite-time = 12450
+uid = 21590664
+title = "UP主"
+name = "冰魄魂P"
+
+[[staff]]
+favorite-time = 12450
+uid = 37059846
+title = "混音"
+name = "天天凉凉豆"
+
+[[staff]]
+favorite-time = 12450
+uid = 300343011
+title = "后期"
+name = "戕言_LY"
+
+[[staff]]
+favorite-time = 12450
+uid = 422723830
+title = "视频制作"
+name = "张羽MC"
+
+[uploader]
+uid = 21590664
+name = "冰魄魂P"
+
+[snapshot]
+snapshot-time = 1614840836.6365147
+danmakus-count = 6
+likes-count = 306
+favorites-count = 783
+snapshot-by = "moe.lty.bgetlib/1.x"

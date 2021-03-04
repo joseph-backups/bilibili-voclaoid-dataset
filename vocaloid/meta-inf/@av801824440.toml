@@ -1,0 +1,23 @@
+create-time = 1614238827
+publish-time = 1614238827
+avid = 801824440
+bvid = "BV1ny4y1J7st"
+title = "【洛天依原创】Shining U"
+category = "VOCALOID·UTAU"
+desc-base64 = "54KS5Ya36aWt44CC"
+[[parts]]
+cid = 302633346
+name = "天1"
+length = 193
+resolution = "1940x1080"
+
+[uploader]
+uid = 510054
+name = "西凉若若"
+
+[snapshot]
+snapshot-time = 1614840772.207338
+danmakus-count = 61
+likes-count = 1189
+favorites-count = 2158
+snapshot-by = "moe.lty.bgetlib/1.x"

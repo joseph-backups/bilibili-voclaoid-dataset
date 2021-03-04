@@ -1,0 +1,77 @@
+create-time = 1575340916
+publish-time = 1575713122
+avid = 77889118
+bvid = "BV1nJ411q7ZR"
+title = "【赤羽x乐正绫】《赤伶》【炸裂戏腔】【原创剧情向pv附】"
+category = "VOCALOID·UTAU"
+desc-base64 = "44CQ5pys5a6277ya5L2c5puy77ya5p2O5bu66KGhICAg57yW5puyL+a3t+mfs++8muS9leWkqeeoiyAg5L2c6K+NL+aWh+ahiO+8mua4heW9piAgIOWOn+WUsS/lkozlo7DvvJpISVRBIOaYhuabsuW/teeZve+8muacseiZuSAgIOS6jOiDoe+8mumSn+aEjyAgIOesm+WtkO+8muWbmueJm+OAkQrigJTigJTigJTigJTigJTigJTigJTigJQK4pmq57+75ZSx77ya6LWk5769eOS5kOato+e7qwrimarosIPlo7DvvJrmmJ/okbUK4pmq5re36Z+z77ya5rqx57ur6KW/6ZmMCuKYhuabsue7mO+8mua0i+iKiwrimIbop4bpopHvvJrntoTpo44gCuKYhuaWh+ahiO+8muiKq+iKqwrimIboiJ7miYflu7rmqKHvvJrpm7bmiKZQKG1hcmN1ZW4pCuKYhTFw6KeG6aKRMnDkuJbkvLblsYAzcOWkqeS7memFjTRw54m15Lid5oiP77yM5paH5qGI6KeB6K+E6K66772eCuKYhei1pOe7q+iBlOWKqO+8mui1pOS8tnjlj5nkuJZ454m15Lid5oiP77yaYXY3OTM4MzcyMSAg6auY6Lef6Z6L77yaYXY2NjA4NjIyMyAg5rC05LiK54Gv77yaYXY1MDU1OTYzMSAgIOaWsOW5tOi0uuivje+8mmF2ODE1NjkyNTUgICDlpoLmnpznmoTkuovvvJpCVjFzNTQxMXM3YkQK4piF5b2p6JuL5pys5a6277ya5LiW5pyr5q2M6ICF77yaYXY2MDA5Nzg5ICDlpKnkuIvlsYDvvJphdjY1OTA0NDU1CuKYhee9keaYk+S6kemTvuaOpe+8mmh0dHA6Ly9tdXNpYy4xNjMuY29tL3Nvbmc/aWQ9MTQwODQwOTQxNiZ1c2VyaWQ9OTE3MDUwMjE="
+[[parts]]
+cid = 134487974
+name = "【赤伶】"
+length = 267
+resolution = "1920x1080"
+
+[[parts]]
+cid = 134282412
+name = "【世伶局】"
+length = 81
+resolution = "1920x1080"
+
+[[parts]]
+cid = 136369559
+name = "【天仙配】"
+length = 81
+resolution = "1920x1080"
+
+[[parts]]
+cid = 138879842
+name = "【牵丝戏】"
+length = 240
+resolution = "1920x1080"
+
+[[parts]]
+cid = 161741517
+name = "【琴弦上/原版】"
+length = 228
+resolution = "1920x1080"
+
+[[parts]]
+cid = 161741824
+name = "【琴弦上/吉他】"
+length = 100
+resolution = "1920x1080"
+
+[[staff]]
+favorite-time = 12450
+uid = 2468984
+title = "UP主"
+name = "鲜洋芋"
+
+[[staff]]
+favorite-time = 12450
+uid = 8192640
+title = "调校"
+name = "星葵"
+
+[[staff]]
+favorite-time = 12450
+uid = 4113629
+title = "混音"
+name = "溱绫西陌"
+
+[[staff]]
+favorite-time = 12450
+uid = 13651772
+title = "视频制作"
+name = "綄风"
+
+[uploader]
+uid = 2468984
+name = "鲜洋芋"
+
+[snapshot]
+snapshot-time = 1614841858.203795
+danmakus-count = 8830
+likes-count = 98079
+favorites-count = 92328
+snapshot-by = "moe.lty.bgetlib/1.x"

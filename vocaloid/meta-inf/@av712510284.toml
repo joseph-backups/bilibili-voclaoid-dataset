@@ -1,0 +1,47 @@
+create-time = 1603642855
+publish-time = 1603670439
+avid = 712510284
+bvid = "BV1MD4y197ST"
+title = "洛天依日语改编—爱言叶【重编曲】"
+category = "VOCALOID·UTAU"
+desc-base64 = "6LCD5pWZ77ya5ZGo5bCP6JqVCue7mOWbvu+8mi0td2ViLS0KUFbvvJrkuabmmI/mmZMK562W5YiS77ya5bCP5biF5q+U5pe25bCaCue8luabsi/mt7fpn7PvvJrnpZ7lhZTlsI9QCgrmhJ/osKLmiYDmnInliLbkvZzkurrlkZjvvIE="
+[[parts]]
+cid = 249494102
+name = "IMG_0311"
+length = 181
+resolution = "1920x1080"
+
+[[staff]]
+favorite-time = 12450
+uid = 25558101
+title = "UP主"
+name = "神兔小P"
+
+[[staff]]
+favorite-time = 12450
+uid = 368141628
+title = "视频制作"
+name = "书昏晓"
+
+[[staff]]
+favorite-time = 12450
+uid = 18070579
+title = "曲绘"
+name = "贝贝web"
+
+[[staff]]
+favorite-time = 12450
+uid = 57251621
+title = "策划"
+name = "Nc时尚"
+
+[uploader]
+uid = 25558101
+name = "神兔小P"
+
+[snapshot]
+snapshot-time = 1614839939.3420339
+danmakus-count = 28
+likes-count = 827
+favorites-count = 1006
+snapshot-by = "moe.lty.bgetlib/1.x"

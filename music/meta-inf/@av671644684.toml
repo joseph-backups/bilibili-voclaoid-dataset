@@ -1,0 +1,47 @@
+create-time = 1613552645
+publish-time = 1613565311
+avid = 671644684
+bvid = "BV1cU4y1W7A8"
+title = "《不问天》粤语版首发【雪霏岚岚】2021拜年纪"
+category = "翻唱"
+desc-base64 = "5piv6Imv6L6w5aW95pmv5LiN6Zeu5aSp77yM5pyb5LiO5ZCb5oOF5rex5bKB5bKB5bu24oCmCuiZveeEtuayoeacieWOn+S9nOmHjOmdoumCo+enjemqhOWCsuS4jemXruWkqeeahOiHquS/oe+8jOS9hui/mOaYr+W4jOacm+iDveWkn+WwhuS4gOS7veWlveaDhee8mOS4gOebtOW7tue7reWIsOawuOi/nOKdpAoK5Y6f5puy5ZCs552A5ZCs552A5bCx5ZOt5LqG77yM5Lmf6K645pyq5p2l5Zyo57uT5ama6YKj5aSp77yM5oiR5Lmf5Lya5ZOt5ZCn5ZGc5ZGc44CC44CCCgrmnKzlrrbvvJpCVjFzdjR5MWY3UTIK5LyB5YiS77ya5bmz5a6J5aSc55qE5Zmp5qKmCuS9nOabsu+8mnBhcGF35rOh5rOhCuS9nOivje+8mlZhZ2FyeQrljp/llLHvvJror7Tor7RDcnlzdGFsCgrnsqTor63or43vvJrnkInmnrcK57+75ZSx77ya6Zuq6ZyP5bKa5bKaCua3t+mfs++8muaLmeacqArlrZfluZXvvJrlnZrlp5Dlp5A="
+[[parts]]
+cid = 298798069
+name = "良宵"
+length = 257
+resolution = "1920x1080"
+
+[[staff]]
+favorite-time = 12450
+uid = 78201
+title = "UP主"
+name = "雪霏岚岚"
+
+[[staff]]
+favorite-time = 12450
+uid = 914167
+title = "填词"
+name = "liuka"
+
+[[staff]]
+favorite-time = 12450
+uid = 2127320
+title = "混音"
+name = "拙木念桌不念啄"
+
+[[staff]]
+favorite-time = 12450
+uid = 6614614
+title = "字幕"
+name = "Jesus丶堅"
+
+[uploader]
+uid = 78201
+name = "雪霏岚岚"
+
+[snapshot]
+snapshot-time = 1614840401.6338089
+danmakus-count = 226
+likes-count = 4383
+favorites-count = 8903
+snapshot-by = "moe.lty.bgetlib/1.x"

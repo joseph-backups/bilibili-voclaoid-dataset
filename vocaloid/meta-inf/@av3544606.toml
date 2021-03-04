@@ -1,0 +1,23 @@
+create-time = 1497361357
+publish-time = 1452314556
+avid = 3544606
+bvid = "BV1ss411R73a"
+title = "【洛天依乐正绫】老司机带带我【litterzy】"
+category = "VOCALOID·UTAU"
+desc-base64 = "6Ieq5Yi2IOa7tO+8jOWtpueUn+WNoeOAgmh0dHA6Ly93ZWliby5jb20vbGl0dGVyenkvIA=="
+[[parts]]
+cid = 5646255
+name = ""
+length = 257
+resolution = "640x360"
+
+[uploader]
+uid = 43855
+name = "litterzy"
+
+[snapshot]
+snapshot-time = 1614840856.7633545
+danmakus-count = 874
+likes-count = 1292
+favorites-count = 241
+snapshot-by = "moe.lty.bgetlib/1.x"

@@ -1,0 +1,65 @@
+create-time = 1612421249
+publish-time = 1612436415
+avid = 801525854
+bvid = "BV1ay4y1n7Ho"
+title = "【洛天依原创】蝶云"
+category = "VOCALOID·UTAU"
+desc-base64 = "5ryU5ZSx77ya5rSb5aSp5L6dCuS9nOabsu+8mlRpbm8uUzMK57yW5puy77yaVGluby5TMwrkvZzor43vvJpKYWNrZGF356WB5rqQCuiwg+agoe+8muWkqeWkqeWHieWHieixhgrmm7Lnu5jvvJrmnKjlrZDmo67mo67mo64K5re36Z+z77ya6YC45oGs5riFCuinhumike+8mkRldmVsb3Bpbmcj6JK8Ymx1ZQrnrZbliJLvvJrml7blsJoKCiLmmK/luoTnlJ/moqbonbYs6L+Y5piv6J225qKm5bqE5ZGo77yOCiDmmK/kuJbnlYzpnZLnnZDkuobmiJHku6zvvIzov5jmmK/miJHku6zmkrzliqjkuobkuJbnlYzvvI4K6J206J225YGc5Zyo5rC06Z2i5LiK57K857K85Y+R5YWJ77yM5ry+6LW355qE5rOi57q55omT5pWj5LqG5Lik5byg5o6i5Ye65LiW5L+X6ZOB572R55qE6IS477yOCui/meS5iOWkmuW5tOmDveW3sue7j+S4gOi1t+i1sOi/h++8jOaVtOeJh+WkqeepuumDveingeivgeS6huaIkeS7rOeahOaIkOmVv++8jgrku6Xlj4rvvIzop6bmkbjkupHnq6/nmoTpob3lvLrvvI4K6YKj77yM5bCx6L+Z5LmI5Zyo5LiA6LW377yM5aW95LiN5aW977yO77yC"
+[[parts]]
+cid = 292509646
+name = "蝶云_x264"
+length = 176
+resolution = "1920x1080"
+
+[[staff]]
+favorite-time = 12450
+uid = 16509831
+title = "UP主"
+name = "提糯Tino"
+
+[[staff]]
+favorite-time = 12450
+uid = 22265636
+title = "作词"
+name = "还不快向菜J势力低头"
+
+[[staff]]
+favorite-time = 12450
+uid = 37059846
+title = "调校"
+name = "天天凉凉豆"
+
+[[staff]]
+favorite-time = 12450
+uid = 14543789
+title = "曲绘"
+name = "木子森森森"
+
+[[staff]]
+favorite-time = 12450
+uid = 10762209
+title = "混音"
+name = "逸恬清"
+
+[[staff]]
+favorite-time = 12450
+uid = 2318959
+title = "视频制作"
+name = "蒼blue_RADWIMPS激推"
+
+[[staff]]
+favorite-time = 12450
+uid = 57251621
+title = "策划"
+name = "Nc时尚"
+
+[uploader]
+uid = 16509831
+name = "提糯Tino"
+
+[snapshot]
+snapshot-time = 1614840775.567789
+danmakus-count = 204
+likes-count = 5147
+favorites-count = 6331
+snapshot-by = "moe.lty.bgetlib/1.x"

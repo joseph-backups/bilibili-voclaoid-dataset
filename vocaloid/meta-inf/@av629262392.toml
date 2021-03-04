@@ -1,0 +1,23 @@
+create-time = 1614226139
+publish-time = 1614226139
+avid = 629262392
+bvid = "BV17b4y1R71a"
+title = "【洛天依原创】人生航海记"
+category = "VOCALOID·UTAU"
+desc-base64 = "6K+N5puy57yW5re36LCD6KeG77ya5Y2K5b27UA=="
+[[parts]]
+cid = 302527868
+name = "【洛天依原创】人生航海记"
+length = 206
+resolution = "1920x1080"
+
+[uploader]
+uid = 16683986
+name = "半彻P"
+
+[snapshot]
+snapshot-time = 1614840780.6743488
+danmakus-count = 32
+likes-count = 255
+favorites-count = 334
+snapshot-by = "moe.lty.bgetlib/1.x"

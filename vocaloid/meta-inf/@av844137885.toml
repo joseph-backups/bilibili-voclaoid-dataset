@@ -52,8 +52,8 @@ uid = 123372
 name = "純白"
 
 [snapshot]
-snapshot-time = 1613661634.7738793
-danmakus-count = 281
-likes-count = 5695
-favorites-count = 7578
+snapshot-time = 1614840097.493683
+danmakus-count = 433
+likes-count = 9394
+favorites-count = 12077
 snapshot-by = "moe.lty.bgetlib/1.x"

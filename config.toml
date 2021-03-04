@@ -8,14 +8,14 @@ id = 467191862
 flags.data = 1
 flags.aiff = 1
 flags.flac = 1
-copy.base="F:\\OneDrive - 66CCFF\\哔哩哔哩备份计划\\dotMOE\\Vocaloid 2.0 (Current)"
-copy.replace.dash="DASH Video"
-copy.replace.aiff="Apple Playable Audio"
-copy.replace.flac="FLAC Audio"
-copy.replace.data="Dataset"
+copy.base="F:\\OneDrive - 66CCFF\\Archives\\LuoTianyi.dev\\main"
+copy.replace.dash="dash"
+copy.replace.aiff="aiff"
+copy.replace.flac="flac"
+copy.replace.data="data"
 
 [music]
 id = 90169562
 flags.data = 1
-copy.base="F:\\OneDrive - 66CCFF\\哔哩哔哩备份计划\\Main"
+copy.base="F:\\OneDrive - 66CCFF\\Archives\\Bilibili"
 copy.replace.dash="01-Music"

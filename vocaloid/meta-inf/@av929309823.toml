@@ -1,0 +1,65 @@
+create-time = 1613741690
+publish-time = 1613779210
+avid = 929309823
+bvid = "BV1hK4y1S7pS"
+title = "【星尘翻唱】爱我的每个人【cover任家萱】"
+category = "VOCALOID·UTAU"
+desc-base64 = "5oiR5LiA55u06KeJ5b6X77yMUOS4u+S4juatjOWnrOS5i+mXtOaYr+ebuOS6kuaIkOWwseOAgeebuOS6kuS+neWtmOeahOWFs+ezu+OAgumAmui/h+atjOWnrO+8jOWIm+S9nOiAheeahOW/g+WjsOiiq+S8oOi+vue7meWQrOS8l++8m+WboOS4ulDkuLvvvIzmrYzlp6zooqvmm7TlpJrkurrkuobop6PlkozllpzniLHjgILmhJ/osKLmiYDmnInkvp3ml6flnZrmjIHnlKjniLHlj5HnlLXvvIzkuLrmrYzlp6zliJvkvZznmoTkurrjgILlm6DkuLrkvaDku6zvvIzlpbnku6zmiY3mnInmnKrmnaXjgIIKCnN0YWZm77yaCuetluWIku+8muadqOahg09mZmxjaWFsICAgICAK6LCD5pWZ77ya6ZmM55Sf5p2l6K6/Cua3t+mfs++8muaso+aso+acieS9oCAgICAgICAgIArmm7Lnu5jvvJrlt6vng6jjgIHkuI3lronnkKogICAKUFbvvJrmsZ/kuYXojJcgICAgICAgICAgICAgICAK576O5bel77ya5p6X5bez5pe2Cgrljp/mm7JzdGFmZu+8mgrljp/llLHvvJrku7vlrrbokLEK5L2c5puy77ya5p6X5L+K5p2wCuS9nOivje+8muWnmuiLpem+mQrliLbkvZzkurrvvJrnjovmsrvlubMK6YWN5ZSx5Yi25L2c5Lq677ya6ams5q+T6IqsCuWSjOWjsOe8luWGme+8mumprOavk+iKrArlkInku5bvvJrljaLlrrblro8K5omn6KGM5Yi25L2c77ya5byg566A5ZCb5LyfCuWSjOWjsO+8mlNlbGluYQrlvZXpn7PluIjvvJrpqazkuIEK5b2V6Z+z5a6k77ya5Y2O56CU54yb6JuL5b2V6Z+z5a6kCua3t+mfs+W9lemfs+W4iO+8mumZiOmZhuazsArmt7fpn7PlvZXpn7PlrqTvvJrljp/oib7pn7PkuZA="
+[[parts]]
+cid = 299838089
+name = "爱我的每个人final"
+length = 277
+resolution = "2254x1080"
+
+[[staff]]
+favorite-time = 12450
+uid = 36074977
+title = "UP主"
+name = "陌生来访"
+
+[[staff]]
+favorite-time = 12450
+uid = 317822068
+title = "策划"
+name = "杨桃Offlcial"
+
+[[staff]]
+favorite-time = 12450
+uid = 341774268
+title = "混音"
+name = "欣欣有你的欣欣"
+
+[[staff]]
+favorite-time = 12450
+uid = 19968928
+title = "曲绘"
+name = "巫烨"
+
+[[staff]]
+favorite-time = 12450
+uid = 9797712
+title = "曲绘"
+name = "不安琪"
+
+[[staff]]
+favorite-time = 12450
+uid = 34053160
+title = "视频制作"
+name = "江久茗"
+
+[[staff]]
+favorite-time = 12450
+uid = 105522482
+title = "参演"
+name = "林巳时"
+
+[uploader]
+uid = 36074977
+name = "陌生来访"
+
+[snapshot]
+snapshot-time = 1614839956.7018006
+danmakus-count = 2
+likes-count = 198
+favorites-count = 389
+snapshot-by = "moe.lty.bgetlib/1.x"

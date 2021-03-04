@@ -1,0 +1,23 @@
+create-time = 1613125447
+publish-time = 1613391661
+avid = 714175638
+bvid = "BV1pX4y157Qe"
+title = "【P社新年联欢稿】（星尘 言和 洛天依）灼之花Stellaris版"
+category = "VOCALOID·UTAU"
+desc-base64 = "5aGr6K+NIOiwg+mfs++8mkDkuIrlj6TlpI3or7vmnLoKcHbvvJpATGFuYmVyX09mZmljaWFsCueUu+W4iO+8mkDotbDot6/nmoTnu4/pqozkuaYK5L2c5puy77yaQENPUFnvvIjlt7LmjojmnYPvvIkKdnNxeO+8mkBGdW1pbm/phbEK5re36Z+z77yaQFdvbGZuaWdodOeLvOWknArmrYzlp6zvvJrmtJvlpKnkvp0g5pif5bCYIOiogOWSjArmnKzlrrbvvJpCVjFwczQxMVg3UUcK5YaF5ZCr5LqM5Yib5Ymn5oOFCuS4k+agj++8mmN2OTAyOTk3MA=="
+[[parts]]
+cid = 296790625
+name = "1613123324448.mp4"
+length = 248
+resolution = "1920x1080"
+
+[uploader]
+uid = 350978889
+name = "上古复读机"
+
+[snapshot]
+snapshot-time = 1614840008.6383257
+danmakus-count = 121
+likes-count = 1326
+favorites-count = 1890
+snapshot-by = "moe.lty.bgetlib/1.x"

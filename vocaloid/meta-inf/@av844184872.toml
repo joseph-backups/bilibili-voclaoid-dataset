@@ -1,0 +1,47 @@
+create-time = 1613551005
+publish-time = 1613558415
+avid = 844184872
+bvid = "BV1j54y1Y7cf"
+title = "【洛天依原创】轻语繁星"
+category = "VOCALOID·UTAU"
+desc-base64 = "Leabsu+8muaaruiJsuaYn+WwmAot6K+N77ya5pqu6Imy5pif5bCYL+WQg+eTnOeahOmYv+m7kQot6LCD77ya5pif6ZmFCi3nu5jvvJrpsbzohb/lrZAKLVBW77ya55CJ55KD54yr5pig5YOPCgrkuIDpppblvojnroDljZXlvojlronpnZnnmoTmm7LlrZDvvIzkuojov5zmlrnlkIzmoLfku7DmnJvmmJ/nqbrnmoTkvaDjgII="
+[[parts]]
+cid = 298751252
+name = "21030一稿"
+length = 257
+resolution = "1920x1080"
+
+[[staff]]
+favorite-time = 12450
+uid = 2839281
+title = "UP主"
+name = "暮色星尘_"
+
+[[staff]]
+favorite-time = 12450
+uid = 115193354
+title = "调校"
+name = "星际一死忠粉"
+
+[[staff]]
+favorite-time = 12450
+uid = 281804983
+title = "视频制作"
+name = "琉璃猫映像"
+
+[[staff]]
+favorite-time = 12450
+uid = 38770480
+title = "作词"
+name = "吃瓜的阿黑Kuro"
+
+[uploader]
+uid = 2839281
+name = "暮色星尘_"
+
+[snapshot]
+snapshot-time = 1614840826.9678626
+danmakus-count = 13
+likes-count = 637
+favorites-count = 779
+snapshot-by = "moe.lty.bgetlib/1.x"

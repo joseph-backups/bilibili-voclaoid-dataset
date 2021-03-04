@@ -16,8 +16,8 @@ uid = 128548736
 name = "逆卷一多"
 
 [snapshot]
-snapshot-time = 1613319812.6272848
-danmakus-count = 3
-likes-count = 11
-favorites-count = 23
+snapshot-time = 1614840123.415878
+danmakus-count = 100
+likes-count = 868
+favorites-count = 1558
 snapshot-by = "moe.lty.bgetlib/1.x"

@@ -1,0 +1,47 @@
+create-time = 1568713604
+publish-time = 1568887250
+avid = 68074814
+bvid = "BV1nJ411w7sB"
+title = "【洛天依】地铁三号线（半木生出品）"
+category = "VOCALOID·UTAU"
+desc-base64 = "44CK5Zyw6ZOB5LiJ5Y+357q/44CLCua8lOWUse+8mua0m+WkqeS+nQrljp/llLHvvJrlsIHojJflm6foj4wg77yIYXY2ODA4ODM5NO+8iQrnrZbliJIv5L2c6K+NL+S9nOabsu+8muiRl+Wwj+eUn++8iOWNiuacqOeUn++8iQrnvJbmm7Iv5ZKM5aOw6K6+6K6h77ya6LGG6IWQUO+8iOWNiuacqOeUn++8iQrosIPmlZkv5ZCO5pyf77ya5qOJ6IqxUO+8iOWNiuacqOeUn++8iQrmm7Lnu5jvvJrlj43lvI/vvIjljYrmnKjnlJ/vvIkK6KeG6aKR77ya5qCX5Y6fCue+juW3pe+8mumYv+aLvu+8iOWNiuacqOeUn++8iQrlh7rlk4HvvJrljYrmnKjnlJ/lt6XkvZzlrqQK4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCU4oCUCuacieeUn+S5i+W5tOS4iuS8oOiFvuiur+mfs+S5kOW5s+WPsArkvLTlpY/lj6/lnKjohb7orq/pn7PkuZDpooblj5Y="
+[[parts]]
+cid = 117992502
+name = "地铁三号线0916(vc）_x264"
+length = 209
+resolution = "1280x720"
+
+[[staff]]
+favorite-time = 12450
+uid = 173583326
+title = "UP主"
+name = "著小生zoki"
+
+[[staff]]
+favorite-time = 12450
+uid = 404701
+title = "编曲"
+name = "豆腐P"
+
+[[staff]]
+favorite-time = 12450
+uid = 5814221
+title = "调校"
+name = "Cotton_Yu"
+
+[[staff]]
+favorite-time = 12450
+uid = 1619597
+title = "曲绘"
+name = "へん10"
+
+[uploader]
+uid = 173583326
+name = "著小生zoki"
+
+[snapshot]
+snapshot-time = 1614840758.3253875
+danmakus-count = 413
+likes-count = 8128
+favorites-count = 7716
+snapshot-by = "moe.lty.bgetlib/1.x"
